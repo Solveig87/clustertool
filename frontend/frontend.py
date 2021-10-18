@@ -14,7 +14,7 @@ from .resources import *
 api.add_resource(Index, "/", "/index")
 api.add_resource(Clustering, "/clustering")
 api.add_resource(Article, "/<corpus>/<articleid>/<words>")
-api.add_resource(Wordcloud, "/nuage/<corpus>/<cluster>")
+api.add_resource(Wordcloud, "/nuage/<corpus>/<annee>/<cluster>")
 api.add_resource(Motionchart, "/motioncharts/<lda_result>")
 api.add_resource(StreamGraph, "/streamcharts/<lda_result>")
 api.add_resource(Corpus, "/corpus")

@@ -92,7 +92,7 @@ Clustering
     {{articlesid.append(article['id'])|default("", True)}}
 	{% endfor %}
 	
-	<h4><a href="/nuage/{{results['corpus']}}_corpus.json/{{articlesid|join('+')}}">Cluster {{cluster['id']}} : {{cluster['articles']|length|string()}} document(s)</a></h4>
+	<h4><a href="/nuage/{{results['path']}}/{{annee}}/{{cluster['id']}}">Cluster {{cluster['id']}} : {{cluster['articles']|length|string()}} document(s)</a></h4>
 	<p><strong>1-grams : </strong>"{{cluster['1-grams']|join(', ')}}"</p>
 	<p><strong>2-grams : </strong>"{{cluster['2-grams']|join(', ')}}"</p>
 	<p><strong>3-grams : </strong>"{{cluster['3-grams']|join(', ')}}"</p>

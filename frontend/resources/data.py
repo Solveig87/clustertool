@@ -106,8 +106,8 @@ class StreamGraph(Resource):
 class Wordcloud(Resource):
     """Classe de création d'un nuage de mots"""
 
-    def get(Resource, corpus, cluster):
+    def get(Resource, corpus, annee, cluster):
 
-        create_wordclouds(corpus, cluster)
+        filename = "static/img/nuages/" + corpus + "_" + annee + "_" + cluster + ".png"
 
-        return send_file("static/img/nuage.png", mimetype='image/gif')
+        return send_file(filename, mimetype='image/gif')
