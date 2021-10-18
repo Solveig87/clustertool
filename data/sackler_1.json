@@ -1,0 +1,5327 @@
+{
+    "corpus": "sackler",
+    "results": {
+        "1978": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "assemblée",
+                    "français",
+                    "parti",
+                    "pag",
+                    "ans",
+                    "pou",
+                    "voir",
+                    "bordeaux",
+                    "majorité",
+                    "sud"
+                ],
+                "2-grams": [
+                    "sud ouest",
+                    "voir pag",
+                    "assemblée européenne",
+                    "alain colas",
+                    "parti problème",
+                    "gaullistes communistes",
+                    "intentions vote",
+                    "élection assemblée",
+                    "san opinio",
+                    "nouvelle assemblée"
+                ],
+                "3-grams": [
+                    "élection assemblée européenne",
+                    "position prise parti",
+                    "prise parti problème",
+                    "êtr légèremen moin",
+                    "fondent uniquement fonction",
+                    "fonction critère européen",
+                    "fonctio problème posen",
+                    "foire bordeaux sud",
+                    "florenc arthaud ans",
+                    "fleury mérogis volé"
+                ],
+                "articles": [
+                    {
+                        "id": "0",
+                        "titre": "AUJOURD'HUI MAGAZINE · E t le..."
+                    }
+                ]
+            }
+        ],
+        "1987": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "50",
+                    "60",
+                    "10",
+                    "101",
+                    "70",
+                    "90",
+                    "20",
+                    "80",
+                    "40",
+                    "emploi"
+                ],
+                "2-grams": [
+                    "101 70",
+                    "70 101",
+                    "millions francs",
+                    "crédit lyonnais",
+                    "pyrénées atlantiques",
+                    "100 60",
+                    "situation emploi",
+                    "101 20",
+                    "jacques chirac",
+                    "service télématique"
+                ],
+                "3-grams": [
+                    "101 70 101",
+                    "70 101 70",
+                    "80 101 70",
+                    "101 80 101",
+                    "syndicat national personnel",
+                    "samedi jacques chirac",
+                    "gascogne 415 10",
+                    "70 200 10",
+                    "101 70 200",
+                    "demandes emploi augmenté"
+                ],
+                "articles": [
+                    {
+                        "id": "1",
+                        "titre": "JEUDI 12 FÉVRIER 1987 G ÉCONOMIE'RÉGION..."
+                    },
+                    {
+                        "id": "2",
+                        "titre": "EÇONOMOERÉGION G JEUDI25 J Um 1987..."
+                    }
+                ]
+            }
+        ],
+        "1989": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "juin",
+                    "heures",
+                    "saint",
+                    "56",
+                    "jean",
+                    "obsèques",
+                    "bordeaux",
+                    "lieu",
+                    "journal",
+                    "part"
+                ],
+                "2-grams": [
+                    "tél 56",
+                    "heures heures",
+                    "rendez heures",
+                    "juin découverte",
+                    "visites commentées",
+                    "56 52",
+                    "91 33",
+                    "cap ferret",
+                    "réserve naturelle",
+                    "56 91"
+                ],
+                "3-grams": [
+                    "56 91 33",
+                    "tél 56 91",
+                    "musée art contemporain",
+                    "91 33 65",
+                    "sepanso tél 56",
+                    "tél 56 52",
+                    "juin découverte réserve",
+                    "découverte réserve naturelle",
+                    "52 13 12",
+                    "56 52 18"
+                ],
+                "articles": [
+                    {
+                        "id": "3",
+                        "titre": "BLONDE Donateurs américains pour musée bordelais..."
+                    },
+                    {
+                        "id": "5",
+                        "titre": "BORDEAUXLOISIRS ROCK. La semaine de Patrick..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "juin",
+                    "heures",
+                    "saint",
+                    "56",
+                    "jean",
+                    "obsèques",
+                    "bordeaux",
+                    "lieu",
+                    "journal",
+                    "part"
+                ],
+                "2-grams": [
+                    "part décès",
+                    "douleur part",
+                    "parents alliés",
+                    "alliés douleur",
+                    "lundi juin",
+                    "obsèques lieu",
+                    "flash informations",
+                    "juin heures",
+                    "juin église",
+                    "ans obsèques"
+                ],
+                "3-grams": [
+                    "hit hit hourra",
+                    "hit hit hit",
+                    "attaque train film",
+                    "réalité quotidienne étend",
+                    "satellites avions sophistiqués",
+                    "bonjour france bonjour",
+                    "gagner 100 000",
+                    "alimentaire mort copropriété",
+                    "parti ville retrouver",
+                    "grande attaque train"
+                ],
+                "articles": [
+                    {
+                        "id": "6",
+                        "titre": "TELEVISION LE COMBAT D'HARLEM DÉSIR mm..."
+                    },
+                    {
+                        "id": "7",
+                        "titre": "TV/DIMANCHE 30 JUILLET • * •..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "juin",
+                    "heures",
+                    "saint",
+                    "56",
+                    "jean",
+                    "obsèques",
+                    "bordeaux",
+                    "lieu",
+                    "journal",
+                    "part"
+                ],
+                "2-grams": [
+                    "part décès",
+                    "douleur part",
+                    "parents alliés",
+                    "alliés douleur",
+                    "lundi juin",
+                    "obsèques lieu",
+                    "flash informations",
+                    "juin heures",
+                    "juin église",
+                    "ans obsèques"
+                ],
+                "3-grams": [
+                    "douleur part décès",
+                    "parents alliés douleur",
+                    "alliés douleur part",
+                    "âge ans obsèques",
+                    "survenu âge ans",
+                    "lundi juin église",
+                    "avis tient lieu",
+                    "juin heures église",
+                    "famille recevra condoléances",
+                    "demain lundi juin"
+                ],
+                "articles": [
+                    {
+                        "id": "4",
+                        "titre": "10 ÉPOQUE CARNET BORDEAUX (33) TALENCE..."
+                    }
+                ]
+            }
+        ],
+        "1995": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "musée",
+                    "art",
+                    "york",
+                    "new",
+                    "américain",
+                    "brooklyn",
+                    "museum",
+                    "whitney",
+                    "métropolitain",
+                    "ans"
+                ],
+                "2-grams": [
+                    "new york",
+                    "musée métropolitain",
+                    "musée brooklyn",
+                    "admission adultes",
+                    "musée américain",
+                    "américain histoire",
+                    "histoire naturelle",
+                    "art américain",
+                    "vendredi samedi",
+                    "central park"
+                ],
+                "3-grams": [
+                    "musée américain histoire",
+                    "américain histoire naturelle",
+                    "admission adultes étudiants",
+                    "whitney art américain",
+                    "musée métropolitain art",
+                    "musée whitney art",
+                    "metropolitan museum art",
+                    "exposition devait attaquer",
+                    "explorez musées new",
+                    "explorateurs sons pays"
+                ],
+                "articles": [
+                    {
+                        "id": "8",
+                        "titre": "Explorez... les musées de New York..."
+                    }
+                ]
+            }
+        ],
+        "1996": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "sackler",
+                    "fondation",
+                    "louvre",
+                    "orientales",
+                    "nouveauté",
+                    "antiquités",
+                    "mortimer",
+                    "new",
+                    "perse",
+                    "mécène"
+                ],
+                "2-grams": [
+                    "antiquités orientales",
+                    "mortimer sackler",
+                    "mécène louvre",
+                    "époque perse",
+                    "new york",
+                    "fondation donations",
+                    "fondation devenue",
+                    "fondation droit",
+                    "francs versement",
+                    "hier musée"
+                ],
+                "3-grams": [
+                    "époque perse arabie",
+                    "fer époque perse",
+                    "fiscal passe fondation",
+                    "fondateur organismes pharmaceutiques",
+                    "fondation britannique mortimer",
+                    "fondation devenue mécène",
+                    "fondation donations angleterre",
+                    "fondation droit anglais",
+                    "francs versement somme",
+                    "français accord conclu"
+                ],
+                "articles": [
+                    {
+                        "id": "9",
+                        "titre": "Un mécène pour le Louvre. C'est..."
+                    }
+                ]
+            }
+        ],
+        "1997": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "aile",
+                    "sackler",
+                    "louvre",
+                    "antiquités",
+                    "salles",
+                    "perse",
+                    "richelieu",
+                    "orientales",
+                    "cour",
+                    "roi"
+                ],
+                "2-grams": [
+                    "aile sackler",
+                    "antiquités orientales",
+                    "millions francs",
+                    "aile richelieu",
+                    "british museum",
+                    "code hammourabi",
+                    "antiquités asiatiques",
+                    "darius suse",
+                    "orfèvrerie mosaïques",
+                    "suite galeries"
+                ],
+                "3-grams": [
+                    "suse époques parthe",
+                    "octobre dernier situe",
+                    "lagash stèle vautours",
+                    "museum londres louvre",
+                    "américains propriétaires industries",
+                    "présentées collections iran",
+                    "code hammourabi cour",
+                    "perse centrée palais",
+                    "khorsabad taureaux ailés",
+                    "ouvertes nouvel espace"
+                ],
+                "articles": [
+                    {
+                        "id": "12",
+                        "titre": "La nouvelle aile des antiquités orientales..."
+                    },
+                    {
+                        "id": "13",
+                        "titre": "Le Louvre ouvre grand ses portes..."
+                    },
+                    {
+                        "id": "14",
+                        "titre": "La Perse perce au Louvre. 2000..."
+                    },
+                    {
+                        "id": "17",
+                        "titre": "Spécial Louvre Indiana Jacques Armé de..."
+                    },
+                    {
+                        "id": "18",
+                        "titre": "Spécial Louvre L'art se lève à..."
+                    },
+                    {
+                        "id": "20",
+                        "titre": "Les premières photos d'un itinéraire de..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "aile",
+                    "sackler",
+                    "louvre",
+                    "antiquités",
+                    "salles",
+                    "perse",
+                    "richelieu",
+                    "orientales",
+                    "cour",
+                    "roi"
+                ],
+                "2-grams": [
+                    "aile denon",
+                    "aile sully",
+                    "prions eglise",
+                    "aile richelieu",
+                    "antiquités orientales",
+                    "moyen âge",
+                    "italienne espagnole",
+                    "numéro septembre",
+                    "nom aile",
+                    "aile sackler"
+                ],
+                "3-grams": [
+                    "000 objets contre",
+                    "présente oeuvres tiepolo",
+                    "préromane disposées autour",
+                    "couverte etat compte",
+                    "couvrant domaine peinture",
+                    "préclassique aile denon",
+                    "couvrent large aire",
+                    "coût travaux chantier",
+                    "croyante bible antiphonaire",
+                    "programme réaménagement millions"
+                ],
+                "articles": [
+                    {
+                        "id": "11",
+                        "titre": "Médias. Dans le cartable des revues..."
+                    },
+                    {
+                        "id": "19",
+                        "titre": "EXPOSITION Le coût des travaux Le..."
+                    },
+                    {
+                        "id": "21",
+                        "titre": "Les sept départements du Louvre l..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "aile",
+                    "sackler",
+                    "louvre",
+                    "antiquités",
+                    "salles",
+                    "perse",
+                    "richelieu",
+                    "orientales",
+                    "cour",
+                    "roi"
+                ],
+                "2-grams": [
+                    "aile sackler",
+                    "antiquités orientales",
+                    "millions francs",
+                    "aile richelieu",
+                    "british museum",
+                    "code hammourabi",
+                    "antiquités asiatiques",
+                    "darius suse",
+                    "orfèvrerie mosaïques",
+                    "suite galeries"
+                ],
+                "3-grams": [
+                    "suse époques parthe",
+                    "octobre dernier situe",
+                    "lagash stèle vautours",
+                    "museum londres louvre",
+                    "américains propriétaires industries",
+                    "présentées collections iran",
+                    "code hammourabi cour",
+                    "perse centrée palais",
+                    "khorsabad taureaux ailés",
+                    "ouvertes nouvel espace"
+                ],
+                "articles": [
+                    {
+                        "id": "16",
+                        "titre": "Une époque, un lieu: l'aile Sackler..."
+                    }
+                ]
+            }
+        ],
+        "1998": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "louvre",
+                    "galerie",
+                    "musée",
+                    "nom",
+                    "pierre",
+                    "salles",
+                    "art",
+                    "grande",
+                    "oeuvres",
+                    "millions"
+                ],
+                "2-grams": [
+                    "don millions",
+                    "millions francs",
+                    "pierre rosenberg",
+                    "grand musée",
+                    "grand louvre",
+                    "familles entreprises",
+                    "confirme familles",
+                    "sackler von",
+                    "japonaise don",
+                    "photo bouchon"
+                ],
+                "3-grams": [
+                    "chaîne japonaise ntv",
+                    "printing révèlent fil",
+                    "japonaise don millions",
+                    "principles chaînes télévision",
+                    "france opération nature",
+                    "jamais réalisé france",
+                    "france confirme familles",
+                    "nippon printing révèlent",
+                    "donateurs grand musée",
+                    "louvre photo permettre"
+                ],
+                "articles": [
+                    {
+                        "id": "23",
+                        "titre": "POINT DE VUE L'espace et l'Histoire..."
+                    },
+                    {
+                        "id": "24",
+                        "titre": "Muséologie: Les grands mécènes se donnent..."
+                    },
+                    {
+                        "id": "25",
+                        "titre": "En contrepartie de la rénovation de..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "photo",
+                    "millions",
+                    "musée",
+                    "ntv",
+                    "mécénat",
+                    "don",
+                    "france",
+                    "japonaise",
+                    "louvre",
+                    "direction"
+                ],
+                "2-grams": [
+                    "don millions",
+                    "millions francs",
+                    "pierre rosenberg",
+                    "grand musée",
+                    "grand louvre",
+                    "familles entreprises",
+                    "confirme familles",
+                    "sackler von",
+                    "japonaise don",
+                    "photo bouchon"
+                ],
+                "3-grams": [
+                    "chaîne japonaise ntv",
+                    "printing révèlent fil",
+                    "japonaise don millions",
+                    "principles chaînes télévision",
+                    "france opération nature",
+                    "jamais réalisé france",
+                    "france confirme familles",
+                    "nippon printing révèlent",
+                    "donateurs grand musée",
+                    "louvre photo permettre"
+                ],
+                "articles": [
+                    {
+                        "id": "22",
+                        "titre": "MÉCÉNAT Louvre : don de 25..."
+                    }
+                ]
+            }
+        ],
+        "1999": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "avril",
+                    "ans",
+                    "musique",
+                    "auditorium",
+                    "musée",
+                    "louvre",
+                    "pyramide",
+                    "cinéma",
+                    "classique",
+                    "pei"
+                ],
+                "2-grams": [
+                    "00 musique",
+                    "84 00",
+                    "ans pyramide",
+                    "rés 01",
+                    "musique filmée",
+                    "classique images",
+                    "40 20",
+                    "20 84",
+                    "01 40",
+                    "durée célébration"
+                ],
+                "3-grams": [
+                    "01 40 20",
+                    "20 84 00",
+                    "40 20 84",
+                    "84 00 musique",
+                    "rés 01 40",
+                    "étudiants histoire art",
+                    "célébration ans pyramide",
+                    "doubler espace dévolu",
+                    "doublant millions visiteurs",
+                    "donne cinéma muet"
+                ],
+                "articles": [
+                    {
+                        "id": "26",
+                        "titre": "Louvre La Pyramide a 10 ans..."
+                    }
+                ]
+            }
+        ],
+        "2001": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "afghanistan",
+                    "guimet",
+                    "musée",
+                    "exposition",
+                    "histoire",
+                    "art",
+                    "grands",
+                    "heures",
+                    "fondation",
+                    "caixa"
+                ],
+                "2-grams": [
+                    "musée guimet",
+                    "fondation caixa",
+                    "afghanistan histoire",
+                    "histoire millénaire",
+                    "tapa kalan",
+                    "luis monreal",
+                    "trésor begram",
+                    "george ortiz",
+                    "géants bamiyan",
+                    "jean françois"
+                ],
+                "3-grams": [
+                    "monastère tapa kalan",
+                    "coll george ortiz",
+                    "afghanistan histoire millénaire",
+                    "afghanistan histoire interdite",
+                    "hadda iiie ive",
+                    "jean françois jarrige",
+                    "évoquent kaunakes mésopotamien",
+                    "exposition afghanistan connaître",
+                    "exposition supportent mal",
+                    "exposition musée guimet"
+                ],
+                "articles": [
+                    {
+                        "id": "27",
+                        "titre": "EXPOSITION Avant le musée Guimet en..."
+                    }
+                ]
+            }
+        ],
+        "2002": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "musée",
+                    "guimet",
+                    "afghanistan",
+                    "été",
+                    "siècle",
+                    "exposition",
+                    "kaboul",
+                    "jamais",
+                    "afghan",
+                    "ans"
+                ],
+                "2-grams": [
+                    "iiie siècle",
+                    "robert byron",
+                    "afghan musée",
+                    "jamais jamais",
+                    "pierre cambon",
+                    "musée guimet",
+                    "musée kaboul",
+                    "falaises rouges",
+                    "fil directeur",
+                    "fascinés paysages"
+                ],
+                "3-grams": [
+                    "événement afghanistan véritable",
+                    "exposition précédent musée",
+                    "exposés proviennent kaboul",
+                    "fabriqué hérat miniatures",
+                    "fabuleuse farandole stuc",
+                    "falaises rouges rhubarbe",
+                    "farandole stuc venue",
+                    "fascinés paysages falaises",
+                    "fil directeur esprit",
+                    "film destruction explosif"
+                ],
+                "articles": [
+                    {
+                        "id": "28",
+                        "titre": "L'autre versant afghan. Au musée Guimet,..."
+                    }
+                ]
+            }
+        ],
+        "2003": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "www",
+                    "musée",
+                    "museum",
+                    "objets",
+                    "pièces",
+                    "art",
+                    "collections",
+                    "org",
+                    "iran",
+                    "collection"
+                ],
+                "2-grams": [
+                    "pièces www",
+                    "objets www",
+                    "art islamique",
+                    "ac uk",
+                    "musée national",
+                    "fr musée",
+                    "islamic art",
+                    "museum londres",
+                    "londres objets",
+                    "gulbenkian pt"
+                ],
+                "3-grams": [
+                    "échanges pays voisins",
+                    "imarabe org allemagne",
+                    "html the freer",
+                    "html egypte musée",
+                    "htm grande bretagne",
+                    "heeramaneck madina www",
+                    "harvard massachusets pièces",
+                    "harvard edu sackler",
+                    "gulbenkian pt qatar",
+                    "gulbenkian lisbonne objets"
+                ],
+                "articles": [
+                    {
+                        "id": "29",
+                        "titre": "Les principales collections d'art islamique dans..."
+                    }
+                ]
+            }
+        ],
+        "2004": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "art",
+                    "marc",
+                    "mayer",
+                    "directeur",
+                    "bijoux",
+                    "macm",
+                    "musée",
+                    "gallery",
+                    "général",
+                    "jean"
+                ],
+                "2-grams": [
+                    "marc mayer",
+                    "directeur général",
+                    "art gallery",
+                    "art contemporain",
+                    "marc deserres",
+                    "conseil administration",
+                    "contemporary art",
+                    "deserres président",
+                    "administration macm",
+                    "new york"
+                ],
+                "3-grams": [
+                    "art gallery buffalo",
+                    "conseil administration macm",
+                    "président conseil administration",
+                    "marc deserres président",
+                    "marc mayer été",
+                    "albright knox art",
+                    "knox art gallery",
+                    "hélène david weill",
+                    "directeur général macm",
+                    "composé marc deserres"
+                ],
+                "articles": [
+                    {
+                        "id": "30",
+                        "titre": "JOAILLERIE A Paris, la galerie des..."
+                    },
+                    {
+                        "id": "31",
+                        "titre": "MARC MAYER, nouveau directeur général du..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "fondations",
+                    "fondation",
+                    "dons",
+                    "privées",
+                    "millions",
+                    "donateurs",
+                    "montréal",
+                    "nom",
+                    "bien",
+                    "publiques"
+                ],
+                "2-grams": [
+                    "fondations privées",
+                    "plan affaires",
+                    "fondation hôpital",
+                    "fondations publiques",
+                    "privées communautaires",
+                    "top fondations",
+                    "jean coutu",
+                    "grands donateurs",
+                    "juive montréal",
+                    "valeur millions"
+                ],
+                "3-grams": [
+                    "millions rang canadien",
+                    "fondation hôpital maisonneuve",
+                    "communauté juive montréal",
+                    "valeur millions rang",
+                    "nom valeur millions",
+                    "fondations privées communautaires",
+                    "marcelle jean coutu",
+                    "hôpital maisonneuve rosemont",
+                    "top fondations privées",
+                    "hôpital sainte justine"
+                ],
+                "articles": [
+                    {
+                        "id": "32",
+                        "titre": "La philantropie, les dessous de la..."
+                    }
+                ]
+            }
+        ],
+        "2005": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "musée",
+                    "cai",
+                    "guo",
+                    "qiang",
+                    "exposition",
+                    "oeuvres",
+                    "papyrus",
+                    "shawinigan",
+                    "arts",
+                    "musées"
+                ],
+                "2-grams": [
+                    "400 000",
+                    "musées art",
+                    "voir oeuvres",
+                    "grands maîtres",
+                    "harvard comptent",
+                    "université harvard",
+                    "musée arts",
+                    "musées harvard",
+                    "fragments papyrus",
+                    "centres production"
+                ],
+                "3-grams": [
+                    "art université harvard",
+                    "beaux arts boston",
+                    "série orsini colona",
+                    "400 000 fragments",
+                    "université harvard comptent",
+                    "000 fragments papyrus",
+                    "musées art université",
+                    "musée beaux arts",
+                    "jardin majoliques majolique",
+                    "japonaises musée arthur"
+                ],
+                "articles": [
+                    {
+                        "id": "33",
+                        "titre": "Cent vingt-cinq des plus belles pièces..."
+                    },
+                    {
+                        "id": "34",
+                        "titre": "Archéologie - 400.000 fragments de papyrus..."
+                    },
+                    {
+                        "id": "35",
+                        "titre": "Pas besoin d'être diplômé pour voir..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "musée",
+                    "cai",
+                    "guo",
+                    "qiang",
+                    "exposition",
+                    "oeuvres",
+                    "papyrus",
+                    "shawinigan",
+                    "arts",
+                    "musées"
+                ],
+                "2-grams": [
+                    "guo qiang",
+                    "cai guo",
+                    "beaux arts",
+                    "musée beaux",
+                    "arts canada",
+                    "artiste chinois",
+                    "biennale venise",
+                    "aluminerie shawinigan",
+                    "ancienne aluminerie",
+                    "artistes contemporains"
+                ],
+                "3-grams": [
+                    "cai guo qiang",
+                    "musée beaux arts",
+                    "beaux arts canada",
+                    "ancienne aluminerie shawinigan",
+                    "intitulée inopportun stade",
+                    "évocations psychologiques oeuvres",
+                    "jouit renommée internationale",
+                    "jonathan shaughnessy cai",
+                    "jaillissent neuf voitures",
+                    "intitulée inopportune organisée"
+                ],
+                "articles": [
+                    {
+                        "id": "37",
+                        "titre": "Shawinigan renouera avec le spectaculaire en..."
+                    }
+                ]
+            }
+        ],
+        "2007": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "ligne",
+                    "art",
+                    "catalogue",
+                    "musée",
+                    "washington",
+                    "exposition",
+                    "section",
+                    "jardins",
+                    "judy",
+                    "national"
+                ],
+                "2-grams": [
+                    "judy chicago",
+                    "dinner party",
+                    "chine japon",
+                    "http www",
+                    "consacrée grand",
+                    "contenu diversité",
+                    "guides professeurs",
+                    "auteur vues",
+                    "reproduits http",
+                    "riches contenu"
+                ],
+                "3-grams": [
+                    "jouent rôle musée",
+                    "expositions proposées ligne",
+                    "délectable tandis yémen",
+                    "section expositions catalogue",
+                    "traité web catalogue",
+                    "fonds art américain",
+                    "national arts asiatiques",
+                    "tandis yémen ancien",
+                    "galeries possède fonds",
+                    "musée national arts"
+                ],
+                "articles": [
+                    {
+                        "id": "40",
+                        "titre": "Dîner d'icônes ART FEMINISTE. Après dix..."
+                    },
+                    {
+                        "id": "41",
+                        "titre": "CORRESPONDANCE - Un printemps asiatique du..."
+                    },
+                    {
+                        "id": "42",
+                        "titre": "CIMAISES - 180 objets d'exception au..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "ligne",
+                    "art",
+                    "catalogue",
+                    "musée",
+                    "washington",
+                    "exposition",
+                    "section",
+                    "jardins",
+                    "judy",
+                    "national"
+                ],
+                "2-grams": [
+                    "judy chicago",
+                    "dinner party",
+                    "chine japon",
+                    "http www",
+                    "consacrée grand",
+                    "contenu diversité",
+                    "guides professeurs",
+                    "auteur vues",
+                    "reproduits http",
+                    "riches contenu"
+                ],
+                "3-grams": [
+                    "jouent rôle musée",
+                    "expositions proposées ligne",
+                    "délectable tandis yémen",
+                    "section expositions catalogue",
+                    "traité web catalogue",
+                    "fonds art américain",
+                    "national arts asiatiques",
+                    "tandis yémen ancien",
+                    "galeries possède fonds",
+                    "musée national arts"
+                ],
+                "articles": [
+                    {
+                        "id": "38",
+                        "titre": "Focus Merveilles d’Asie à Washington La..."
+                    }
+                ]
+            }
+        ],
+        "2008": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "heures",
+                    "demain",
+                    "artifice",
+                    "feu",
+                    "bal",
+                    "partir",
+                    "gallery",
+                    "sackler",
+                    "rue",
+                    "washington"
+                ],
+                "2-grams": [
+                    "feu artifice",
+                    "artifice heures",
+                    "partir heures",
+                    "demain bal",
+                    "sackler gallery",
+                    "bal populaire",
+                    "washington irène",
+                    "georges negrevergne",
+                    "irène mosalli",
+                    "heures parc"
+                ],
+                "3-grams": [
+                    "washington irène mosalli",
+                    "sackler gallery washington",
+                    "jean pierre lemasson",
+                    "réseau villes gourmandes",
+                    "irène mosalli washington",
+                    "importante collection privée",
+                    "voyages voyages liberté",
+                    "colloque tourisme gastronomie",
+                    "tourisme gastronomie médias",
+                    "tient sackler gallery"
+                ],
+                "articles": [
+                    {
+                        "id": "43",
+                        "titre": "CORRESPONDANCE - « Plumages resplendissants et..."
+                    },
+                    {
+                        "id": "44",
+                        "titre": "CORRESPONDANCE - Que d'or, que d'or..."
+                    },
+                    {
+                        "id": "45",
+                        "titre": "GEORGES NEGREVERGNE. Au nom de Sarget..."
+                    },
+                    {
+                        "id": "47",
+                        "titre": "CORRESPONDANCE - Les « Mouraqaa »..."
+                    },
+                    {
+                        "id": "48",
+                        "titre": "L'impact de la gastronomie sur le..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "heures",
+                    "demain",
+                    "artifice",
+                    "feu",
+                    "bal",
+                    "partir",
+                    "gallery",
+                    "sackler",
+                    "rue",
+                    "washington"
+                ],
+                "2-grams": [
+                    "feu artifice",
+                    "artifice heures",
+                    "partir heures",
+                    "demain bal",
+                    "sackler gallery",
+                    "bal populaire",
+                    "washington irène",
+                    "georges negrevergne",
+                    "irène mosalli",
+                    "heures parc"
+                ],
+                "3-grams": [
+                    "feu artifice heures",
+                    "heures feu artifice",
+                    "partir heures place",
+                    "lundi feu artifice",
+                    "partir heures parc",
+                    "heures distribution lampions",
+                    "départ retraite flambeaux",
+                    "heures heure feu",
+                    "retraite flambeaux stade",
+                    "stade léo lagrange"
+                ],
+                "articles": [
+                    {
+                        "id": "46",
+                        "titre": "Fête nationale Tous les bals et..."
+                    },
+                    {
+                        "id": "49",
+                        "titre": "Destinations pour amateurs d'art > Selon..."
+                    }
+                ]
+            }
+        ],
+        "2009": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "art",
+                    "exposition",
+                    "washington",
+                    "luxe",
+                    "français",
+                    "dollars",
+                    "été",
+                    "siècle",
+                    "euros",
+                    "afp"
+                ],
+                "2-grams": [
+                    "sackler gallery",
+                    "shuten doji",
+                    "gallery washington",
+                    "espèces menacées",
+                    "xvie siècle",
+                    "gallery art",
+                    "échantillons adn",
+                    "livres divination",
+                    "new york",
+                    "service parcs"
+                ],
+                "3-grams": [
+                    "sackler gallery washington",
+                    "vaincre général hiver",
+                    "parc national channel",
+                    "xvie siècle iranien",
+                    "légende shuten doji",
+                    "national channel islands",
+                    "populations espèces menacées",
+                    "national gallery art",
+                    "moitié œuvres art",
+                    "xvie xviie siècles"
+                ],
+                "articles": [
+                    {
+                        "id": "50",
+                        "titre": "Correspondance Pour vaincre le général Hiver,..."
+                    },
+                    {
+                        "id": "55",
+                        "titre": "Quel cadeau offrir aux tsars de..."
+                    },
+                    {
+                        "id": "56",
+                        "titre": "L'ADN d'espèces américaines en danger stocké..."
+                    },
+                    {
+                        "id": "57",
+                        "titre": "La légende de Shuten Doji, ou..."
+                    },
+                    {
+                        "id": "62",
+                        "titre": "L'astrologie et l'Islam: des livres de..."
+                    },
+                    {
+                        "id": "64",
+                        "titre": "«Falnamah», l'art de la divination dans..."
+                    },
+                    {
+                        "id": "65",
+                        "titre": "Enfance de Chine, enfance câline sur..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "art",
+                    "exposition",
+                    "washington",
+                    "luxe",
+                    "français",
+                    "dollars",
+                    "été",
+                    "siècle",
+                    "euros",
+                    "afp"
+                ],
+                "2-grams": [
+                    "luxe français",
+                    "ned beatty",
+                    "new york",
+                    "robert altman",
+                    "millions dollars",
+                    "lots vendus",
+                    "large île",
+                    "lancé jeudi",
+                    "céramique été",
+                    "français met"
+                ],
+                "3-grams": [
+                    "metropolitan museum art",
+                    "dollars lots vendus",
+                    "pièce the great",
+                    "brefun squelette apprécié",
+                    "briques rouges style",
+                    "new york installe",
+                    "pièce phare vente",
+                    "brown lawford forbes",
+                    "brume électrique comédien",
+                    "shooter tireur élite"
+                ],
+                "articles": [
+                    {
+                        "id": "51",
+                        "titre": "Beaux Arts Musées Metropolitan Museum of..."
+                    },
+                    {
+                        "id": "53",
+                        "titre": "Cinéma (acteur) Ned Beatty Biographie :..."
+                    },
+                    {
+                        "id": "54",
+                        "titre": "EN BREFUn squelette apprécié CHRISTIE'SLa pièce..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "art",
+                    "exposition",
+                    "washington",
+                    "luxe",
+                    "français",
+                    "dollars",
+                    "été",
+                    "siècle",
+                    "euros",
+                    "afp"
+                ],
+                "2-grams": [
+                    "luxe français",
+                    "ned beatty",
+                    "new york",
+                    "robert altman",
+                    "millions dollars",
+                    "lots vendus",
+                    "large île",
+                    "lancé jeudi",
+                    "céramique été",
+                    "français met"
+                ],
+                "3-grams": [
+                    "egée retrouvées épave",
+                    "élégance française projet",
+                    "français lancé jeudi",
+                    "onirique poétique univers",
+                    "iiie siècle ère",
+                    "projet réunit septante",
+                    "antiquités quarantaine amphores",
+                    "français met scène",
+                    "concepteurs offrir voyage",
+                    "luxe français met"
+                ],
+                "articles": [
+                    {
+                        "id": "63",
+                        "titre": "Art L'art divinatoire en 65 planches..."
+                    }
+                ]
+            }
+        ],
+        "2010": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "musée",
+                    "jardins",
+                    "appareil",
+                    "smithsonian",
+                    "art",
+                    "respiration",
+                    "personnes",
+                    "exposition",
+                    "jardin",
+                    "collection"
+                ],
+                "2-grams": [
+                    "chapelle bouddhiste",
+                    "galerie sackler",
+                    "bouddhiste tibétaine",
+                    "objets rituels",
+                    "siècle issus",
+                    "musées rare",
+                    "accueille objets",
+                    "appartenant new",
+                    "sackler accueille",
+                    "issus collection"
+                ],
+                "3-grams": [
+                    "the living magazine",
+                    "piloter fauteuil roulant",
+                    "07 2010 21h05",
+                    "narine connecté senseur",
+                    "20minutes fr 26",
+                    "fr 26 07",
+                    "26 07 2010",
+                    "contrôlé nerfs crâniens",
+                    "serpentine gallery londres",
+                    "petit tuyau installé"
+                ],
+                "articles": [
+                    {
+                        "id": "66",
+                        "titre": "Exposition d'une rare chapelle bouddhiste tibétaine..."
+                    },
+                    {
+                        "id": "71",
+                        "titre": "La respiration, nouvel espoir des handicapés..."
+                    },
+                    {
+                        "id": "73",
+                        "titre": "Le jardinage, art suprême du Smithsonian..."
+                    },
+                    {
+                        "id": "74",
+                        "titre": "Un nouvel espace dédié à l'art..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "the",
+                    "tibétaine",
+                    "objets",
+                    "chapelle",
+                    "and",
+                    "respiration",
+                    "washing",
+                    "issus",
+                    "accueille",
+                    "appartenant"
+                ],
+                "2-grams": [
+                    "chapelle bouddhiste",
+                    "galerie sackler",
+                    "bouddhiste tibétaine",
+                    "objets rituels",
+                    "siècle issus",
+                    "musées rare",
+                    "accueille objets",
+                    "appartenant new",
+                    "sackler accueille",
+                    "issus collection"
+                ],
+                "3-grams": [
+                    "accueille objets rituels",
+                    "appartenant new yorkaise",
+                    "washing galerie sackler",
+                    "issus collection privée",
+                    "tibétaine exposée washing",
+                    "privée appartenant new",
+                    "galerie sackler accueille",
+                    "exposée washing galerie",
+                    "musées rare chapelle",
+                    "collection privée appartenant"
+                ],
+                "articles": [
+                    {
+                        "id": "67",
+                        "titre": "MUSÉES Une rare chapelle bouddhiste tibétaine..."
+                    },
+                    {
+                        "id": "68",
+                        "titre": "MUSÉES Une rare chapelle bouddhiste tibétaine..."
+                    },
+                    {
+                        "id": "72",
+                        "titre": "Handicap : utiliser la respiration pour..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "the",
+                    "tibétaine",
+                    "objets",
+                    "chapelle",
+                    "and",
+                    "respiration",
+                    "washing",
+                    "issus",
+                    "accueille",
+                    "appartenant"
+                ],
+                "2-grams": [
+                    "from the",
+                    "the living",
+                    "from his",
+                    "and the",
+                    "living magazine",
+                    "during the",
+                    "thursday evening",
+                    "literary journal",
+                    "and fear",
+                    "read from"
+                ],
+                "3-grams": [
+                    "the living magazine",
+                    "piloter fauteuil roulant",
+                    "07 2010 21h05",
+                    "narine connecté senseur",
+                    "20minutes fr 26",
+                    "fr 26 07",
+                    "26 07 2010",
+                    "contrôlé nerfs crâniens",
+                    "serpentine gallery londres",
+                    "petit tuyau installé"
+                ],
+                "articles": [
+                    {
+                        "id": "69",
+                        "titre": "Writers find their voice at Harvard..."
+                    }
+                ]
+            }
+        ],
+        "2011": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "art",
+                    "sackler",
+                    "vente",
+                    "visiteurs",
+                    "jour",
+                    "museum",
+                    "mars",
+                    "and",
+                    "collection",
+                    "the"
+                ],
+                "2-grams": [
+                    "visiteurs jour",
+                    "from the",
+                    "eva hesse",
+                    "galerie serpentine",
+                    "the east",
+                    "mark leckey",
+                    "orchids view",
+                    "view from",
+                    "dynastie qing",
+                    "art media"
+                ],
+                "3-grams": [
+                    "media agency ama",
+                    "art media agency",
+                    "collection dave stewart",
+                    "exhibition road project",
+                    "freer gallery art",
+                    "mars art media",
+                    "and monsoon winds",
+                    "shipwrecked tang treasures",
+                    "art new york",
+                    "tang treasures and"
+                ],
+                "articles": [
+                    {
+                        "id": "76",
+                        "titre": "Orchides en serre et sur cimaises..."
+                    },
+                    {
+                        "id": "79",
+                        "titre": "Les 24 et 25 mars chez..."
+                    },
+                    {
+                        "id": "82",
+                        "titre": "Les expositions les plus fréquentées en..."
+                    },
+                    {
+                        "id": "84",
+                        "titre": "Les scooters, l'esprit et la mécanique..."
+                    },
+                    {
+                        "id": "85",
+                        "titre": "Controverse autour de « Shipwrecked: Tang..."
+                    },
+                    {
+                        "id": "90",
+                        "titre": "Lhtel Saint-Georges la Sackler Gallery: habit..."
+                    },
+                    {
+                        "id": "91",
+                        "titre": "Pistoletto à Londres : ondulantes énigmes..."
+                    },
+                    {
+                        "id": "92",
+                        "titre": "Aux muses-concerts, les sons et les..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "léonard",
+                    "silverman",
+                    "hesse",
+                    "galerie",
+                    "exposition",
+                    "vinci",
+                    "dessin",
+                    "artiste",
+                    "dynastie",
+                    "été"
+                ],
+                "2-grams": [
+                    "visiteurs jour",
+                    "from the",
+                    "eva hesse",
+                    "galerie serpentine",
+                    "the east",
+                    "mark leckey",
+                    "orchids view",
+                    "view from",
+                    "dynastie qing",
+                    "art media"
+                ],
+                "3-grams": [
+                    "view from the",
+                    "orchids view from",
+                    "from the east",
+                    "china empress dowager",
+                    "matters portraits from",
+                    "portraits from the",
+                    "play china empress",
+                    "eva hesse spectres",
+                    "from the qing",
+                    "family matters portraits"
+                ],
+                "articles": [
+                    {
+                        "id": "75",
+                        "titre": "« Orchids: A View from the..."
+                    },
+                    {
+                        "id": "83",
+                        "titre": "Eva Hesse au Brooklyn Museum New..."
+                    },
+                    {
+                        "id": "86",
+                        "titre": "Mark Leckey à la galerie Serpentine..."
+                    },
+                    {
+                        "id": "87",
+                        "titre": "La dynastie Qing à l'honneur au..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "art",
+                    "sackler",
+                    "vente",
+                    "visiteurs",
+                    "jour",
+                    "museum",
+                    "mars",
+                    "and",
+                    "collection",
+                    "the"
+                ],
+                "2-grams": [
+                    "dave stewart",
+                    "eleanor amuzegar",
+                    "media agency",
+                    "agency ama",
+                    "art media",
+                    "brooklyn museum",
+                    "galerie serpentine",
+                    "marcus coates",
+                    "road project",
+                    "exhibition road"
+                ],
+                "3-grams": [
+                    "media agency ama",
+                    "art media agency",
+                    "collection dave stewart",
+                    "exhibition road project",
+                    "freer gallery art",
+                    "mars art media",
+                    "and monsoon winds",
+                    "shipwrecked tang treasures",
+                    "art new york",
+                    "tang treasures and"
+                ],
+                "articles": [
+                    {
+                        "id": "77",
+                        "titre": "Patricia Buckley Ebrey reçoit le prix..."
+                    },
+                    {
+                        "id": "78",
+                        "titre": "Designs Exhibition Road Project dévoilé au..."
+                    },
+                    {
+                        "id": "80",
+                        "titre": "« The Trip » de Marcus..."
+                    },
+                    {
+                        "id": "81",
+                        "titre": "Le « Brooklyn Artists Ball »..."
+                    },
+                    {
+                        "id": "88",
+                        "titre": "La Freer Gallery of Art et..."
+                    },
+                    {
+                        "id": "89",
+                        "titre": "Vente de la collection Dave Stewart,..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "léonard",
+                    "silverman",
+                    "hesse",
+                    "galerie",
+                    "exposition",
+                    "vinci",
+                    "dessin",
+                    "artiste",
+                    "dynastie",
+                    "été"
+                ],
+                "2-grams": [
+                    "millions euros",
+                    "lumière technology",
+                    "new yorker",
+                    "cas vélin",
+                    "jolie artiste",
+                    "bella principessa",
+                    "hugo chapman",
+                    "léonard vinci",
+                    "centaine millions",
+                    "léonard auteur"
+                ],
+                "3-grams": [
+                    "jolie artiste acéré",
+                    "centaine millions euros",
+                    "trop jolie artiste",
+                    "pedretti croit trop",
+                    "pedretti dickinson retrouve",
+                    "peintre inventaires aucune",
+                    "peintre restaurateur giannino",
+                    "peinture fine experts",
+                    "carmen bambach spécialiste",
+                    "peintures authenticité été"
+                ],
+                "articles": [
+                    {
+                        "id": "93",
+                        "titre": "Enquête Les faux airs d'une princesse..."
+                    }
+                ]
+            }
+        ],
+        "2012": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "courrier",
+                    "sackler",
+                    "art",
+                    "guerre",
+                    "film",
+                    "fear",
+                    "kubrick",
+                    "desire",
+                    "postal",
+                    "arthur"
+                ],
+                "2-grams": [
+                    "arthur sackler",
+                    "sackler gallery",
+                    "smithsonian institute",
+                    "art asiatique",
+                    "oeuvres art",
+                    "inde chine",
+                    "industrie courrier",
+                    "insolvabilité rapproche",
+                    "institute fonds",
+                    "institute musée"
+                ],
+                "3-grams": [
+                    "fear and desire",
+                    "arthur sackler gallery",
+                    "21st century postal",
+                    "réduire coûts établissant",
+                    "sackler vient procurer",
+                    "sackler royal academy",
+                    "sackler remarquable philanthrope",
+                    "sackler médecin auteur",
+                    "sackler museum university",
+                    "sackler membre coordination"
+                ],
+                "articles": [
+                    {
+                        "id": "95",
+                        "titre": "Entreprises & Finance Le spectre de..."
+                    },
+                    {
+                        "id": "96",
+                        "titre": "25e anniversaire de la Arthur M...."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "museum",
+                    "art",
+                    "cylindre",
+                    "été",
+                    "kapoor",
+                    "british",
+                    "cyrus",
+                    "tournée",
+                    "sculptures",
+                    "getty"
+                ],
+                "2-grams": [
+                    "british museum",
+                    "new york",
+                    "museum art",
+                    "metropolitan museum",
+                    "cylindre cyrus",
+                    "sackler gallery",
+                    "arthur sackler",
+                    "museum fine",
+                    "fine arts",
+                    "droits homme"
+                ],
+                "3-grams": [
+                    "metropolitan museum art",
+                    "arthur sackler gallery",
+                    "art museum san",
+                    "homeland security investigations",
+                    "villa los angeles",
+                    "getty museum getty",
+                    "getty villa los",
+                    "los angeles octobre",
+                    "asian art museum",
+                    "museum fine arts"
+                ],
+                "articles": [
+                    {
+                        "id": "97",
+                        "titre": "Des sculptures indiennes d'une valeur de..."
+                    },
+                    {
+                        "id": "98",
+                        "titre": "Tournée américaine du Cylindre de Cyrus..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "courrier",
+                    "sackler",
+                    "art",
+                    "guerre",
+                    "film",
+                    "fear",
+                    "kubrick",
+                    "desire",
+                    "postal",
+                    "arthur"
+                ],
+                "2-grams": [
+                    "fear and",
+                    "and desire",
+                    "stanley kubrick",
+                    "richard rochemont",
+                    "long métrage",
+                    "erreur jeunesse",
+                    "documentaires idée",
+                    "participant guerre",
+                    "dramatiques semblait",
+                    "passe accrocs"
+                ],
+                "3-grams": [
+                    "fear and desire",
+                    "arthur sackler gallery",
+                    "21st century postal",
+                    "réduire coûts établissant",
+                    "sackler vient procurer",
+                    "sackler royal academy",
+                    "sackler remarquable philanthrope",
+                    "sackler médecin auteur",
+                    "sackler museum university",
+                    "sackler membre coordination"
+                ],
+                "articles": [
+                    {
+                        "id": "94",
+                        "titre": "« Fear and Desire », ce..."
+                    }
+                ]
+            }
+        ],
+        "2013": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "gallery",
+                    "art",
+                    "caleb",
+                    "serpentine",
+                    "exposition",
+                    "londres",
+                    "sackler",
+                    "simon",
+                    "été",
+                    "museum"
+                ],
+                "2-grams": [
+                    "cylindre cyrus",
+                    "sackler gallery",
+                    "téléphone portable",
+                    "media agency",
+                    "agency ama",
+                    "art media",
+                    "serpentine sackler",
+                    "arthur sackler",
+                    "solomon guggenheim",
+                    "edo japon"
+                ],
+                "3-grams": [
+                    "art media agency",
+                    "media agency ama",
+                    "arthur sackler gallery",
+                    "serpentine gallery londres",
+                    "serpentine sackler gallery",
+                    "zaha hadid été",
+                    "architecte zaha hadid",
+                    "période edo japon",
+                    "octobre art media",
+                    "andrew mellon foundation"
+                ],
+                "articles": [
+                    {
+                        "id": "100",
+                        "titre": "2.600 ans d'histoire à l'échelle mondiale..."
+                    },
+                    {
+                        "id": "101",
+                        "titre": "En Europe, les musées font peau..."
+                    },
+                    {
+                        "id": "103",
+                        "titre": "Collection unique de livres illustrés datant..."
+                    },
+                    {
+                        "id": "106",
+                        "titre": "Whistler revient à Londres Londres, le..."
+                    },
+                    {
+                        "id": "107",
+                        "titre": "La salive des accros au téléphone..."
+                    },
+                    {
+                        "id": "113",
+                        "titre": "Le Solomon R. Guggenheim s'intéresse au..."
+                    },
+                    {
+                        "id": "117",
+                        "titre": "Venez voir Jake et Dinos Chapman..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "gallery",
+                    "art",
+                    "caleb",
+                    "serpentine",
+                    "exposition",
+                    "londres",
+                    "sackler",
+                    "simon",
+                    "été",
+                    "museum"
+                ],
+                "2-grams": [
+                    "serpentine gallery",
+                    "pancréas artificiel",
+                    "zaha hadid",
+                    "lena dunham",
+                    "sackler gallery",
+                    "new york",
+                    "art media",
+                    "agency ama",
+                    "media agency",
+                    "julie taymor"
+                ],
+                "3-grams": [
+                    "art media agency",
+                    "media agency ama",
+                    "arthur sackler gallery",
+                    "serpentine gallery londres",
+                    "serpentine sackler gallery",
+                    "zaha hadid été",
+                    "architecte zaha hadid",
+                    "période edo japon",
+                    "octobre art media",
+                    "andrew mellon foundation"
+                ],
+                "articles": [
+                    {
+                        "id": "102",
+                        "titre": "Simryn Gill désigné représentant de l'Australie..."
+                    },
+                    {
+                        "id": "105",
+                        "titre": "Julie Taymor récompensée par le Feminist..."
+                    },
+                    {
+                        "id": "108",
+                        "titre": "Agrandissement de la Serpentine Gallery Londres,..."
+                    },
+                    {
+                        "id": "109",
+                        "titre": "Importante donation au profit du Smithsonian..."
+                    },
+                    {
+                        "id": "110",
+                        "titre": "L'Andrew W. Mellon Foundation donne un..."
+                    },
+                    {
+                        "id": "111",
+                        "titre": "Une annexe de la Serpentine Gallery..."
+                    },
+                    {
+                        "id": "112",
+                        "titre": "Bloomberg, de la mairie à la..."
+                    },
+                    {
+                        "id": "114",
+                        "titre": "L'extension à 14.5 M£ de la..."
+                    },
+                    {
+                        "id": "116",
+                        "titre": "Le V&A accueille à la mi-saison..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "pancréas",
+                    "girls",
+                    "artificiel",
+                    "dunham",
+                    "glycémie",
+                    "mmol",
+                    "épisodes",
+                    "pad",
+                    "insuline",
+                    "lena"
+                ],
+                "2-grams": [
+                    "serpentine gallery",
+                    "pancréas artificiel",
+                    "zaha hadid",
+                    "lena dunham",
+                    "sackler gallery",
+                    "new york",
+                    "art media",
+                    "agency ama",
+                    "media agency",
+                    "julie taymor"
+                ],
+                "3-grams": [
+                    "pompe insuline capteur",
+                    "pancréas artificiel logic",
+                    "sexe new york",
+                    "insuline capteur mesurant",
+                    "médecine sackler université",
+                    "faculté médecine sackler",
+                    "sackler université aviv",
+                    "estiment ingurgité caféine",
+                    "sujet conversation femmes",
+                    "etats unis jamais"
+                ],
+                "articles": [
+                    {
+                        "id": "99",
+                        "titre": "Moins d'hypoglycémies nocturnes, meilleur contrôle Un..."
+                    },
+                    {
+                        "id": "115",
+                        "titre": "Londres, au royaume du design Le..."
+                    },
+                    {
+                        "id": "118",
+                        "titre": "La télé en séries Suivre la..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "gallery",
+                    "art",
+                    "caleb",
+                    "serpentine",
+                    "exposition",
+                    "londres",
+                    "sackler",
+                    "simon",
+                    "été",
+                    "museum"
+                ],
+                "2-grams": [
+                    "etats unis",
+                    "rue nehemia",
+                    "renchérit simon",
+                    "donné numéro",
+                    "erreur amateur",
+                    "vie nombre",
+                    "petit ami",
+                    "êtes fous",
+                    "créent tension",
+                    "croisé étrangers"
+                ],
+                "3-grams": [
+                    "pompe insuline capteur",
+                    "pancréas artificiel logic",
+                    "sexe new york",
+                    "insuline capteur mesurant",
+                    "médecine sackler université",
+                    "faculté médecine sackler",
+                    "sackler université aviv",
+                    "estiment ingurgité caféine",
+                    "sujet conversation femmes",
+                    "etats unis jamais"
+                ],
+                "articles": [
+                    {
+                        "id": "104",
+                        "titre": "VOYAGE Tel-Aviv - Amants de passage..."
+                    }
+                ]
+            }
+        ],
+        "2014": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "art",
+                    "sackler",
+                    "exposition",
+                    "travail",
+                    "gallery",
+                    "serpentine",
+                    "mcgill",
+                    "moroni",
+                    "artiste",
+                    "londres"
+                ],
+                "2-grams": [
+                    "20 www",
+                    "serpentine sackler",
+                    "sackler gallery",
+                    "org uk",
+                    "street 20",
+                    "daisy yiyou",
+                    "cerith wyn",
+                    "yiyou wang",
+                    "wyn evans",
+                    "royal academy"
+                ],
+                "3-grams": [
+                    "serpentine sackler gallery",
+                    "cerith wyn evans",
+                    "daisy yiyou wang",
+                    "adrián villar rojas",
+                    "sackler gallery londres",
+                    "travail artiste argentin",
+                    "institut universitaire santé",
+                    "hans ulrich obrist",
+                    "universitaire santé mentale",
+                    "santé mentale douglas"
+                ],
+                "articles": [
+                    {
+                        "id": "119",
+                        "titre": "L'univers d'Adrián Villar Rojas envahit la..."
+                    },
+                    {
+                        "id": "126",
+                        "titre": "Un portrait retrouvé de la maîtresse..."
+                    },
+                    {
+                        "id": "127",
+                        "titre": "Ed Atkins présente son avatar Dave..."
+                    },
+                    {
+                        "id": "128",
+                        "titre": "Elizabeth Sackler nommée présidente du Brooklyn..."
+                    },
+                    {
+                        "id": "129",
+                        "titre": "Première exposition au PEM pour la..."
+                    },
+                    {
+                        "id": "130",
+                        "titre": "Cerith Wyn Evans à la Serpentine..."
+                    },
+                    {
+                        "id": "133",
+                        "titre": "Julio Le Parc à la Serpentine..."
+                    },
+                    {
+                        "id": "140",
+                        "titre": "La collection d'art asiatique de la..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "20",
+                    "www",
+                    "street",
+                    "com",
+                    "washington",
+                    "euros",
+                    "crocodiles",
+                    "phillips",
+                    "ans",
+                    "uk"
+                ],
+                "2-grams": [
+                    "20 www",
+                    "serpentine sackler",
+                    "sackler gallery",
+                    "org uk",
+                    "street 20",
+                    "daisy yiyou",
+                    "cerith wyn",
+                    "yiyou wang",
+                    "wyn evans",
+                    "royal academy"
+                ],
+                "3-grams": [
+                    "serpentine sackler gallery",
+                    "cerith wyn evans",
+                    "daisy yiyou wang",
+                    "adrián villar rojas",
+                    "sackler gallery londres",
+                    "travail artiste argentin",
+                    "institut universitaire santé",
+                    "hans ulrich obrist",
+                    "universitaire santé mentale",
+                    "santé mentale douglas"
+                ],
+                "articles": [
+                    {
+                        "id": "121",
+                        "titre": "Star Wars 7: un scénario, un..."
+                    },
+                    {
+                        "id": "124",
+                        "titre": "USA: Londres et la Tamise vues..."
+                    },
+                    {
+                        "id": "125",
+                        "titre": "Les vieux de Star Wars reprennent..."
+                    },
+                    {
+                        "id": "132",
+                        "titre": "USA: une exposition honore un explorateur..."
+                    },
+                    {
+                        "id": "134",
+                        "titre": "Les musées de Washington vont se..."
+                    },
+                    {
+                        "id": "141",
+                        "titre": "ÉCOLOGIE Le croco coquin s'accouple trop..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "art",
+                    "sackler",
+                    "exposition",
+                    "travail",
+                    "gallery",
+                    "serpentine",
+                    "mcgill",
+                    "moroni",
+                    "artiste",
+                    "londres"
+                ],
+                "2-grams": [
+                    "20 www",
+                    "serpentine sackler",
+                    "sackler gallery",
+                    "org uk",
+                    "street 20",
+                    "daisy yiyou",
+                    "cerith wyn",
+                    "yiyou wang",
+                    "wyn evans",
+                    "royal academy"
+                ],
+                "3-grams": [
+                    "serpentine sackler gallery",
+                    "cerith wyn evans",
+                    "daisy yiyou wang",
+                    "adrián villar rojas",
+                    "sackler gallery londres",
+                    "travail artiste argentin",
+                    "institut universitaire santé",
+                    "hans ulrich obrist",
+                    "universitaire santé mentale",
+                    "santé mentale douglas"
+                ],
+                "articles": [
+                    {
+                        "id": "122",
+                        "titre": "Zone artistique sinistrée Arts visuels. Squelettes..."
+                    },
+                    {
+                        "id": "123",
+                        "titre": "GRAVURE / Londres se met sous..."
+                    },
+                    {
+                        "id": "131",
+                        "titre": "Une signature ADN détectée chez les..."
+                    },
+                    {
+                        "id": "137",
+                        "titre": "Spécial Londres Un souffle d'art frais..."
+                    },
+                    {
+                        "id": "139",
+                        "titre": "LONDRES/Moroni et sa galerie de portraits..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "20",
+                    "www",
+                    "street",
+                    "com",
+                    "washington",
+                    "euros",
+                    "crocodiles",
+                    "phillips",
+                    "ans",
+                    "uk"
+                ],
+                "2-grams": [
+                    "20 www",
+                    "serpentine sackler",
+                    "sackler gallery",
+                    "org uk",
+                    "street 20",
+                    "daisy yiyou",
+                    "cerith wyn",
+                    "yiyou wang",
+                    "wyn evans",
+                    "royal academy"
+                ],
+                "3-grams": [
+                    "street 20 www",
+                    "chambre double partir",
+                    "wc2 20 www",
+                    "se1 20 www",
+                    "chelsea flower show",
+                    "place wc2 20",
+                    "royal opera house",
+                    "kensington gardens 20",
+                    "royal academy arts",
+                    "street se1 20"
+                ],
+                "articles": [
+                    {
+                        "id": "120",
+                        "titre": "25 plaisirs lon doniens 1 KENSINGTON..."
+                    },
+                    {
+                        "id": "138",
+                        "titre": "Smithsonian Announces $1.5 Billion Fundraising Campaign..."
+                    }
+                ]
+            }
+        ],
+        "2015": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "art",
+                    "été",
+                    "sackler",
+                    "piggy",
+                    "adam",
+                    "musée",
+                    "centre",
+                    "exposition",
+                    "prix",
+                    "miss"
+                ],
+                "2-grams": [
+                    "miss piggy",
+                    "prince galles",
+                    "sackler galleries",
+                    "peggy cochonne",
+                    "muppet show",
+                    "sackler center",
+                    "sackler gallery",
+                    "arthur sackler",
+                    "rôle précurseur",
+                    "cochonne muppet"
+                ],
+                "3-grams": [
+                    "sackler center for",
+                    "and sackler galleries",
+                    "for feminist art",
+                    "center for feminist",
+                    "elizabeth sackler center",
+                    "cochonne muppet show",
+                    "arthur sackler gallery",
+                    "peggy cochonne muppet",
+                    "freer and sackler",
+                    "serpentine sackler gallery"
+                ],
+                "articles": [
+                    {
+                        "id": "142",
+                        "titre": "Washington : le musée d'art d'Asie..."
+                    },
+                    {
+                        "id": "143",
+                        "titre": "Cocons colorés avec Judith Scott au..."
+                    },
+                    {
+                        "id": "146",
+                        "titre": "Toiture curviligne dans un parc anglais..."
+                    },
+                    {
+                        "id": "147",
+                        "titre": "Harvard étend ses musées d'art A..."
+                    },
+                    {
+                        "id": "148",
+                        "titre": "Le Prince de Galles visite les..."
+                    },
+                    {
+                        "id": "150",
+                        "titre": "Peggy la cochonne du «Muppet Show»..."
+                    },
+                    {
+                        "id": "153",
+                        "titre": "Peggy la cochonne du Muppet Show,..."
+                    },
+                    {
+                        "id": "154",
+                        "titre": "Ms. Piggy honorée A New York,..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "art",
+                    "été",
+                    "sackler",
+                    "piggy",
+                    "adam",
+                    "musée",
+                    "centre",
+                    "exposition",
+                    "prix",
+                    "miss"
+                ],
+                "2-grams": [
+                    "adam driver",
+                    "star wars",
+                    "james bond",
+                    "dounia bouzar",
+                    "bibliothèque congrès",
+                    "duane hanson",
+                    "angela davis",
+                    "while young",
+                    "noah baumbach",
+                    "adam sackler"
+                ],
+                "3-grams": [
+                    "sackler center for",
+                    "and sackler galleries",
+                    "for feminist art",
+                    "center for feminist",
+                    "elizabeth sackler center",
+                    "cochonne muppet show",
+                    "arthur sackler gallery",
+                    "peggy cochonne muppet",
+                    "freer and sackler",
+                    "serpentine sackler gallery"
+                ],
+                "articles": [
+                    {
+                        "id": "144",
+                        "titre": "LONDRES/La Royal Academy montrera Liotard en..."
+                    },
+                    {
+                        "id": "145",
+                        "titre": "Les 5 artistes africains de l'année..."
+                    },
+                    {
+                        "id": "149",
+                        "titre": "On a retrouvé une recette contre..."
+                    },
+                    {
+                        "id": "152",
+                        "titre": "Boston, entre l'Europe et l'Amérique Boston,..."
+                    },
+                    {
+                        "id": "155",
+                        "titre": "Tyr, reine des mers et de..."
+                    },
+                    {
+                        "id": "156",
+                        "titre": "Duane Hanson fait de l'art pour..."
+                    },
+                    {
+                        "id": "158",
+                        "titre": "Adam Driver, charmeur de première classe..."
+                    },
+                    {
+                        "id": "160",
+                        "titre": "Adam Driver à l'affiche de \"While..."
+                    },
+                    {
+                        "id": "162",
+                        "titre": "expo A Londres, Duane Hanson, observateur..."
+                    },
+                    {
+                        "id": "163",
+                        "titre": "Adam Driver Coqueluche de l'underground Adam..."
+                    },
+                    {
+                        "id": "164",
+                        "titre": "TOUR GUIDE Londres sur les traces..."
+                    },
+                    {
+                        "id": "165",
+                        "titre": "L'EMPRISE Ados et contre tous Pourquoi..."
+                    },
+                    {
+                        "id": "166",
+                        "titre": "La militante Angela Davis va recevoir..."
+                    }
+                ]
+            }
+        ],
+        "2016": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "mélanome",
+                    "punaises",
+                    "londres",
+                    "exposition",
+                    "musée",
+                    "punaise",
+                    "coran",
+                    "architecture",
+                    "monde",
+                    "liotard"
+                ],
+                "2-grams": [
+                    "zaha hadid",
+                    "adam driver",
+                    "jim jarmusch",
+                    "star wars",
+                    "starchitecte zaha",
+                    "pop corn",
+                    "musée art",
+                    "image islam",
+                    "kylo ren",
+                    "réveil force"
+                ],
+                "3-grams": [
+                    "film jim jarmusch",
+                    "paterson jim jarmusch",
+                    "jean etienne liotard",
+                    "william carlos williams",
+                    "wars réveil force",
+                    "star wars réveil",
+                    "turcs islamiques istanbul",
+                    "portrait suzanne curchod",
+                    "musée arts turcs",
+                    "zaha hadid décédée"
+                ],
+                "articles": [
+                    {
+                        "id": "167",
+                        "titre": "PEINTURE/Londres tente l'impossible exposition Liotard Musées..."
+                    },
+                    {
+                        "id": "168",
+                        "titre": "Comment l'ADN pourrait venir à bout..."
+                    },
+                    {
+                        "id": "169",
+                        "titre": "Mort de Zaha Hadid, l'architecte irako-britannique..."
+                    },
+                    {
+                        "id": "175",
+                        "titre": "Cette découverte signifie-t-elle (le début de)..."
+                    },
+                    {
+                        "id": "176",
+                        "titre": "De précieux Corans exposés à Washington..."
+                    },
+                    {
+                        "id": "180",
+                        "titre": "Un Coran géant dédié à Tamerlan,..."
+                    },
+                    {
+                        "id": "182",
+                        "titre": "AGENDA EUROPE DU MERCREDI 7 DÉCEMBRE..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "art",
+                    "tate",
+                    "adam",
+                    "film",
+                    "modern",
+                    "architecture",
+                    "jim",
+                    "driver",
+                    "paterson",
+                    "musée"
+                ],
+                "2-grams": [
+                    "zaha hadid",
+                    "adam driver",
+                    "jim jarmusch",
+                    "star wars",
+                    "starchitecte zaha",
+                    "pop corn",
+                    "musée art",
+                    "image islam",
+                    "kylo ren",
+                    "réveil force"
+                ],
+                "3-grams": [
+                    "starchitecte zaha hadid",
+                    "si edu présente",
+                    "washington freer sackler",
+                    "femme arabe gardiste",
+                    "dominent marqué fer",
+                    "service américain vidéo",
+                    "femme reçu prestigieux",
+                    "anguleuses courbes jamais",
+                    "jugés soporifiques concours",
+                    "poubelle publicitaires barcelone"
+                ],
+                "articles": [
+                    {
+                        "id": "170",
+                        "titre": "ARCHITECTURE La « starchitecte » Zaha..."
+                    },
+                    {
+                        "id": "177",
+                        "titre": "--- Grosse cohue, samedi soir, devant..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "bactéries",
+                    "antibiotiques",
+                    "phages",
+                    "gram",
+                    "contre",
+                    "chercheurs",
+                    "crispr",
+                    "bactérie",
+                    "adn",
+                    "teixobactine"
+                ],
+                "2-grams": [
+                    "bactéries pathogènes",
+                    "bactéries gram",
+                    "lutter contre",
+                    "gram négatif",
+                    "gram positif",
+                    "veut cibler",
+                    "bactéries sol",
+                    "pasteur paris",
+                    "passe prévention",
+                    "action novateur"
+                ],
+                "3-grams": [
+                    "institut pasteur paris",
+                    "mode action novateur",
+                    "royal academy arts",
+                    "bactéries gram négatif",
+                    "sol environnement naturel",
+                    "efficace lutter contre",
+                    "bactérie incapable survivre",
+                    "remplacé ciseaux moléculaires",
+                    "bactériophages phages virus",
+                    "dommage parvient réparer"
+                ],
+                "articles": [
+                    {
+                        "id": "173",
+                        "titre": "Un espoir sur le front des..."
+                    },
+                    {
+                        "id": "174",
+                        "titre": "Un espoir sur le front des..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "art",
+                    "tate",
+                    "adam",
+                    "film",
+                    "modern",
+                    "architecture",
+                    "jim",
+                    "driver",
+                    "paterson",
+                    "musée"
+                ],
+                "2-grams": [
+                    "zaha hadid",
+                    "adam driver",
+                    "jim jarmusch",
+                    "star wars",
+                    "starchitecte zaha",
+                    "pop corn",
+                    "musée art",
+                    "image islam",
+                    "kylo ren",
+                    "réveil force"
+                ],
+                "3-grams": [
+                    "film jim jarmusch",
+                    "paterson jim jarmusch",
+                    "jean etienne liotard",
+                    "william carlos williams",
+                    "wars réveil force",
+                    "star wars réveil",
+                    "turcs islamiques istanbul",
+                    "portrait suzanne curchod",
+                    "musée arts turcs",
+                    "zaha hadid décédée"
+                ],
+                "articles": [
+                    {
+                        "id": "172",
+                        "titre": "Cannes Adam Driver, armoire à grâce..."
+                    },
+                    {
+                        "id": "179",
+                        "titre": "Overdoses sur ordonnance Jody Callahan vit..."
+                    },
+                    {
+                        "id": "183",
+                        "titre": "Adam Driver, star à Cannes et..."
+                    },
+                    {
+                        "id": "184",
+                        "titre": "Adam Driver, de Kylo Ren dans..."
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "1-grams": [
+                    "art",
+                    "tate",
+                    "adam",
+                    "film",
+                    "modern",
+                    "architecture",
+                    "jim",
+                    "driver",
+                    "paterson",
+                    "musée"
+                ],
+                "2-grams": [
+                    "tate modern",
+                    "white cube",
+                    "art contemporain",
+                    "mme schlieker",
+                    "valeur ajoutée",
+                    "livres sterling",
+                    "academy arts",
+                    "engagement social",
+                    "programme éducatif",
+                    "millions dollars"
+                ],
+                "3-grams": [
+                    "institut pasteur paris",
+                    "mode action novateur",
+                    "royal academy arts",
+                    "bactéries gram négatif",
+                    "sol environnement naturel",
+                    "efficace lutter contre",
+                    "bactérie incapable survivre",
+                    "remplacé ciseaux moléculaires",
+                    "bactériophages phages virus",
+                    "dommage parvient réparer"
+                ],
+                "articles": [
+                    {
+                        "id": "171",
+                        "titre": "Londres saisie par la modernité L'art..."
+                    },
+                    {
+                        "id": "181",
+                        "titre": "Congrès AFERO 2017 (33e journées scientifiques)..."
+                    }
+                ]
+            }
+        ],
+        "2017": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "patients",
+                    "chirurgie",
+                    "été",
+                    "bariatrique",
+                    "femmes",
+                    "conscience",
+                    "france",
+                    "londres",
+                    "prix",
+                    "booking"
+                ],
+                "2-grams": [
+                    "royal academy",
+                    "niveau conscience",
+                    "santé publique",
+                    "jeunes étoiles",
+                    "carolien niebling",
+                    "état psychédélique",
+                    "isocyanate méthyle",
+                    "états unis",
+                    "zaha hadid",
+                    "anil seth"
+                ],
+                "3-grams": [
+                    "recevra prix euros",
+                    "chief people officer",
+                    "femmes secteur technologie",
+                    "technology playmaker awards",
+                    "casque réalité virtuelle",
+                    "urgence santé publique",
+                    "opera passion power",
+                    "amateurs drogue bien",
+                    "effets hallucination manière",
+                    "secteur technologie prix"
+                ],
+                "articles": [
+                    {
+                        "id": "185",
+                        "titre": "Enquête. OxyContin, un antidouleur addictif à..."
+                    },
+                    {
+                        "id": "186",
+                        "titre": "Voyage dans l'Amérique des Lumières De..."
+                    },
+                    {
+                        "id": "191",
+                        "titre": "A Londres, de nouveaux jeux de..."
+                    },
+                    {
+                        "id": "193",
+                        "titre": "Le Londres de Mary Katrantzou Londres..."
+                    },
+                    {
+                        "id": "197",
+                        "titre": "Opioïdes : Trump choisit le strict..."
+                    },
+                    {
+                        "id": "198",
+                        "titre": "LONDRES/Le V & A lance l'aile..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "patients",
+                    "chirurgie",
+                    "été",
+                    "bariatrique",
+                    "femmes",
+                    "conscience",
+                    "france",
+                    "londres",
+                    "prix",
+                    "booking"
+                ],
+                "2-grams": [
+                    "chirurgie bariatrique",
+                    "réalité virtuelle",
+                    "booking com",
+                    "perte poids",
+                    "france introduction",
+                    "bypass gastrique",
+                    "paris france",
+                    "prix euros",
+                    "randi zuckerberg",
+                    "technologiques européennes"
+                ],
+                "3-grams": [
+                    "recevra prix euros",
+                    "chief people officer",
+                    "femmes secteur technologie",
+                    "technology playmaker awards",
+                    "casque réalité virtuelle",
+                    "urgence santé publique",
+                    "opera passion power",
+                    "amateurs drogue bien",
+                    "effets hallucination manière",
+                    "secteur technologie prix"
+                ],
+                "articles": [
+                    {
+                        "id": "194",
+                        "titre": "Booking.com lance les Technology Playmaker Awards..."
+                    },
+                    {
+                        "id": "201",
+                        "titre": "Un casque pour le trip Minute..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "patients",
+                    "chirurgie",
+                    "été",
+                    "bariatrique",
+                    "femmes",
+                    "conscience",
+                    "france",
+                    "londres",
+                    "prix",
+                    "booking"
+                ],
+                "2-grams": [
+                    "royal academy",
+                    "niveau conscience",
+                    "santé publique",
+                    "jeunes étoiles",
+                    "carolien niebling",
+                    "état psychédélique",
+                    "isocyanate méthyle",
+                    "états unis",
+                    "zaha hadid",
+                    "anil seth"
+                ],
+                "3-grams": [
+                    "perte excès poids",
+                    "insuffisants rénaux sévères",
+                    "chirurgie bariatrique patients",
+                    "european genomic institute",
+                    "lille france université",
+                    "institute for diabetes",
+                    "genomic institute for",
+                    "introduction chirurgie bariatrique",
+                    "niveau conscience supérieur",
+                    "chru lille université"
+                ],
+                "articles": [
+                    {
+                        "id": "187",
+                        "titre": "En plein trip, le cerveau atteint..."
+                    },
+                    {
+                        "id": "189",
+                        "titre": "Un élément nécessaire à la vie..."
+                    },
+                    {
+                        "id": "190",
+                        "titre": "Monaco ressuscite la Cité interdite De..."
+                    },
+                    {
+                        "id": "195",
+                        "titre": "Hublot récompense la saucisse de demain..."
+                    },
+                    {
+                        "id": "196",
+                        "titre": "LONDRES/La Royal Academy nous invite dans..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "patients",
+                    "chirurgie",
+                    "été",
+                    "bariatrique",
+                    "femmes",
+                    "conscience",
+                    "france",
+                    "londres",
+                    "prix",
+                    "booking"
+                ],
+                "2-grams": [
+                    "chirurgie bariatrique",
+                    "réalité virtuelle",
+                    "booking com",
+                    "perte poids",
+                    "france introduction",
+                    "bypass gastrique",
+                    "paris france",
+                    "prix euros",
+                    "randi zuckerberg",
+                    "technologiques européennes"
+                ],
+                "3-grams": [
+                    "perte excès poids",
+                    "insuffisants rénaux sévères",
+                    "chirurgie bariatrique patients",
+                    "european genomic institute",
+                    "lille france université",
+                    "institute for diabetes",
+                    "genomic institute for",
+                    "introduction chirurgie bariatrique",
+                    "niveau conscience supérieur",
+                    "chru lille université"
+                ],
+                "articles": [
+                    {
+                        "id": "188",
+                        "titre": "1. Chirurgie métabolique O-16 Le bypass..."
+                    },
+                    {
+                        "id": "192",
+                        "titre": "Architecture Nouveaux jeux de construction à..."
+                    },
+                    {
+                        "id": "199",
+                        "titre": "Sauter le petit-déjeuner dérègle nos horloges..."
+                    }
+                ]
+            }
+        ],
+        "2018": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "art",
+                    "marc",
+                    "mayer",
+                    "nan",
+                    "grottes",
+                    "yungang",
+                    "musée",
+                    "sackler",
+                    "goldin",
+                    "ans"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "nan goldin",
+                    "grottes yungang",
+                    "états unis",
+                    "tête statue",
+                    "crise opiacés",
+                    "new york",
+                    "famille sackler",
+                    "réalité virtuelle",
+                    "500 ans"
+                ],
+                "3-grams": [
+                    "musée beaux arts",
+                    "beaux arts canada",
+                    "tournage dents mer",
+                    "été volée grottes",
+                    "volée grottes yungang",
+                    "chine tête statue",
+                    "500 ans été",
+                    "ans été volée",
+                    "datant 500 ans",
+                    "dents mer capture"
+                ],
+                "articles": [
+                    {
+                        "id": "205",
+                        "titre": "Kubrick, deuxième LE BAISER DU TUEUR,..."
+                    },
+                    {
+                        "id": "220",
+                        "titre": "Retour en Chine d'une tête de..."
+                    },
+                    {
+                        "id": "222",
+                        "titre": "Ça fait jaser La photographe américaine..."
+                    },
+                    {
+                        "id": "224",
+                        "titre": "Etats-Unis: Milliardaire grâce aux opiacés, il..."
+                    },
+                    {
+                        "id": "228",
+                        "titre": "MULTIPLY, LE BIJOU ÉPHÉMÈRE DU V&A..."
+                    },
+                    {
+                        "id": "230",
+                        "titre": "Confondants effets visuels Google vient de..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "purdue",
+                    "opiacés",
+                    "pharma",
+                    "sackler",
+                    "restaurant",
+                    "unis",
+                    "kubrick",
+                    "famille",
+                    "goldin",
+                    "new"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "nan goldin",
+                    "grottes yungang",
+                    "états unis",
+                    "tête statue",
+                    "crise opiacés",
+                    "new york",
+                    "famille sackler",
+                    "réalité virtuelle",
+                    "500 ans"
+                ],
+                "3-grams": [
+                    "musée beaux arts",
+                    "beaux arts canada",
+                    "tournage dents mer",
+                    "été volée grottes",
+                    "volée grottes yungang",
+                    "chine tête statue",
+                    "500 ans été",
+                    "ans été volée",
+                    "datant 500 ans",
+                    "dents mer capture"
+                ],
+                "articles": [
+                    {
+                        "id": "203",
+                        "titre": "Crise des opioïdes : la Ville..."
+                    },
+                    {
+                        "id": "204",
+                        "titre": "Opiacés: la photographe Nan Goldin en..."
+                    },
+                    {
+                        "id": "207",
+                        "titre": "Overdoses sur ordonnance L'heure des comptes..."
+                    },
+                    {
+                        "id": "210",
+                        "titre": "Pris pour cible, les fabricants d'opiacés..."
+                    },
+                    {
+                        "id": "211",
+                        "titre": "\"L'empire de la douleur\" de la..."
+                    },
+                    {
+                        "id": "216",
+                        "titre": "Edition principale Nan Goldin, à l'ombre..."
+                    },
+                    {
+                        "id": "219",
+                        "titre": "EXTENSION DU MUSÉE V & A..."
+                    },
+                    {
+                        "id": "223",
+                        "titre": "États-Unis - Crise des opiacés :..."
+                    },
+                    {
+                        "id": "226",
+                        "titre": "Les Sackler, une famille de mécènes..."
+                    },
+                    {
+                        "id": "227",
+                        "titre": "États-Unis : une médecin signe 335..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "art",
+                    "marc",
+                    "mayer",
+                    "nan",
+                    "grottes",
+                    "yungang",
+                    "musée",
+                    "sackler",
+                    "goldin",
+                    "ans"
+                ],
+                "2-grams": [
+                    "dents mer",
+                    "marc mayer",
+                    "nan goldin",
+                    "laure prouvost",
+                    "martha vineyard",
+                    "royal academy",
+                    "capture écran",
+                    "new york",
+                    "beaux arts",
+                    "brown zanuck"
+                ],
+                "3-grams": [
+                    "musée beaux arts",
+                    "beaux arts canada",
+                    "tournage dents mer",
+                    "été volée grottes",
+                    "volée grottes yungang",
+                    "chine tête statue",
+                    "500 ans été",
+                    "ans été volée",
+                    "datant 500 ans",
+                    "dents mer capture"
+                ],
+                "articles": [
+                    {
+                        "id": "209",
+                        "titre": "Louise Bourgeois et autres reines de..."
+                    },
+                    {
+                        "id": "213",
+                        "titre": "Marc Mayer ARTS VISUELS Refléter la..."
+                    },
+                    {
+                        "id": "215",
+                        "titre": "Laure Prouvost représentera la France à..."
+                    },
+                    {
+                        "id": "218",
+                        "titre": "Photographie : les errances hallucinées de..."
+                    },
+                    {
+                        "id": "221",
+                        "titre": "La ballade de Nan Goldin La..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "purdue",
+                    "opiacés",
+                    "pharma",
+                    "sackler",
+                    "restaurant",
+                    "unis",
+                    "kubrick",
+                    "famille",
+                    "goldin",
+                    "new"
+                ],
+                "2-grams": [
+                    "dents mer",
+                    "marc mayer",
+                    "nan goldin",
+                    "laure prouvost",
+                    "martha vineyard",
+                    "royal academy",
+                    "capture écran",
+                    "new york",
+                    "beaux arts",
+                    "brown zanuck"
+                ],
+                "3-grams": [
+                    "musée beaux arts",
+                    "beaux arts canada",
+                    "tournage dents mer",
+                    "été volée grottes",
+                    "volée grottes yungang",
+                    "chine tête statue",
+                    "500 ans été",
+                    "ans été volée",
+                    "datant 500 ans",
+                    "dents mer capture"
+                ],
+                "articles": [
+                    {
+                        "id": "202",
+                        "titre": "Le baiser du tueur : le..."
+                    },
+                    {
+                        "id": "208",
+                        "titre": "Principale Les Etats-Unis, une superpuissance au..."
+                    },
+                    {
+                        "id": "214",
+                        "titre": "Restos design Insolites, audacieux et uniques..."
+                    },
+                    {
+                        "id": "217",
+                        "titre": "LONDRES/Une Royal Academy rénovée et un..."
+                    },
+                    {
+                        "id": "225",
+                        "titre": "LONDRES/Visite à la Royal Academy, nouvelle..."
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "1-grams": [
+                    "spielberg",
+                    "requin",
+                    "film",
+                    "dents",
+                    "mer",
+                    "tournage",
+                    "universal",
+                    "zanuck",
+                    "brown",
+                    "cinéaste"
+                ],
+                "2-grams": [
+                    "dents mer",
+                    "marc mayer",
+                    "nan goldin",
+                    "laure prouvost",
+                    "martha vineyard",
+                    "royal academy",
+                    "capture écran",
+                    "new york",
+                    "beaux arts",
+                    "brown zanuck"
+                ],
+                "3-grams": [
+                    "musée beaux arts",
+                    "beaux arts canada",
+                    "tournage dents mer",
+                    "été volée grottes",
+                    "volée grottes yungang",
+                    "chine tête statue",
+                    "500 ans été",
+                    "ans été volée",
+                    "datant 500 ans",
+                    "dents mer capture"
+                ],
+                "articles": [
+                    {
+                        "id": "206",
+                        "titre": "L'histoire apocalyptique du tournage des \"Dents..."
+                    },
+                    {
+                        "id": "229",
+                        "titre": "Opioïdes : le marketing d'une épidémie..."
+                    }
+                ]
+            }
+        ],
+        "2019": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "244",
+                        "titre": "Crise des opioïdes : la National..."
+                    },
+                    {
+                        "id": "250",
+                        "titre": "Crise des opioïdes : la famille..."
+                    },
+                    {
+                        "id": "261",
+                        "titre": "PORTRAIT DE FAMILLE Les Sackler, des..."
+                    },
+                    {
+                        "id": "302",
+                        "titre": "Edition principale Opioïdes: Nan Goldin vise..."
+                    },
+                    {
+                        "id": "309",
+                        "titre": "Au Louvre, une action choc pour..."
+                    },
+                    {
+                        "id": "313",
+                        "titre": "Crise des opioïdes: le Louvre masque..."
+                    },
+                    {
+                        "id": "316",
+                        "titre": "Les Sackler, l'embarrassant mécène du Louvre..."
+                    },
+                    {
+                        "id": "320",
+                        "titre": "Crise des opioïdes : le musée..."
+                    },
+                    {
+                        "id": "321",
+                        "titre": "Crise des opioïdes : le Louvre..."
+                    },
+                    {
+                        "id": "325",
+                        "titre": "Principale Mécène et vendeur d'armes :..."
+                    },
+                    {
+                        "id": "408",
+                        "titre": "Airbnb, Total, les Sackler... ces sponsors..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "246",
+                        "titre": "Un musée londonien renonce au don..."
+                    },
+                    {
+                        "id": "251",
+                        "titre": "Crise opioïde américaine: la fondation Sackler..."
+                    },
+                    {
+                        "id": "252",
+                        "titre": "Les Sackler, des mécènes américains dont..."
+                    },
+                    {
+                        "id": "257",
+                        "titre": "Crise des opioïdes : plusieurs musées..."
+                    },
+                    {
+                        "id": "268",
+                        "titre": "Web Scandale des opiacés aux Etats-Unis..."
+                    },
+                    {
+                        "id": "269",
+                        "titre": "ACTUALITÉS Un musée londonien dit non..."
+                    },
+                    {
+                        "id": "272",
+                        "titre": "CHINE-USA/OPIOIDES La Chine renforce son contrôle..."
+                    },
+                    {
+                        "id": "273",
+                        "titre": "CHINE-USA/OPIOIDES (PHOTO) Les USA saluent la..."
+                    },
+                    {
+                        "id": "277",
+                        "titre": "La famille Sackler, maître des opioïdes..."
+                    },
+                    {
+                        "id": "282",
+                        "titre": "Crise des opiacés: le Met renonce..."
+                    },
+                    {
+                        "id": "289",
+                        "titre": "Crise des opioïdes : comment les..."
+                    },
+                    {
+                        "id": "305",
+                        "titre": "Au Louvre, manifestation contre le financement..."
+                    },
+                    {
+                        "id": "392",
+                        "titre": "McGill confirme avoir reçu des dons..."
+                    },
+                    {
+                        "id": "400",
+                        "titre": "Les musées américains doivent faire face..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "céline galipeau animatrice",
+                    "fillion reporter spécialisé",
+                    "gérald fillion reporter",
+                    "reporter spécialisé économie",
+                    "bonne chance accord",
+                    "google flu trends",
+                    "opiacés victoire majeure",
+                    "majeure contre industriels",
+                    "accusés favorisé dépendance",
+                    "victoire majeure contre"
+                ],
+                "articles": [
+                    {
+                        "id": "237",
+                        "titre": "L'argent des mécènes était empoisonné L'histoire..."
+                    },
+                    {
+                        "id": "247",
+                        "titre": "Crise des opioïdes: La National Portrait..."
+                    },
+                    {
+                        "id": "249",
+                        "titre": "La femme du jour Nan GoldiN..."
+                    },
+                    {
+                        "id": "255",
+                        "titre": "Le fabricant d'OxyContin règle pour 270..."
+                    },
+                    {
+                        "id": "260",
+                        "titre": "Edition principale Opiacés: 1er accord à..."
+                    },
+                    {
+                        "id": "264",
+                        "titre": "Plus ambitieux Le Parlement européen a..."
+                    },
+                    {
+                        "id": "265",
+                        "titre": "MONDE-EXPRESS Plus ambitieux Le Parlement européen..."
+                    },
+                    {
+                        "id": "266",
+                        "titre": "Les médicaments qui tuent OPIOÏDES Fruit..."
+                    },
+                    {
+                        "id": "283",
+                        "titre": "EN BREF Le Metropolitan renonce aux..."
+                    },
+                    {
+                        "id": "314",
+                        "titre": "Edition principale Musée du Louvre :..."
+                    },
+                    {
+                        "id": "319",
+                        "titre": "O.G. TÉLÉFILM BE 1 20H30 Jeffrey..."
+                    },
+                    {
+                        "id": "353",
+                        "titre": "VIDEO. Courtney Love entre en guerre..."
+                    },
+                    {
+                        "id": "359",
+                        "titre": "Le labo paiera pour les overdoses..."
+                    },
+                    {
+                        "id": "377",
+                        "titre": "Dans le monde Grande-Bretagne > Brexit..."
+                    },
+                    {
+                        "id": "378",
+                        "titre": "en bref Israel > Législatives aujourd'hui...."
+                    },
+                    {
+                        "id": "398",
+                        "titre": "Beverly Sackler copropriétaire de Purdue Pharma..."
+                    },
+                    {
+                        "id": "403",
+                        "titre": "La crise des opioïdes, un suicide..."
+                    },
+                    {
+                        "id": "405",
+                        "titre": "SUR LE MÊME THÈME Addiction sur..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "238",
+                        "titre": "Comment peut-on s'enrichir en tuant des..."
+                    },
+                    {
+                        "id": "263",
+                        "titre": "Philanthropie, leur beau souci L'argent se..."
+                    },
+                    {
+                        "id": "279",
+                        "titre": "Des sponsors bien encombrants 01 -..."
+                    },
+                    {
+                        "id": "298",
+                        "titre": "Total, Sackler, BP... Des mécènes encombrants..."
+                    },
+                    {
+                        "id": "354",
+                        "titre": "Mécénat : supprimer ou réguler ?..."
+                    },
+                    {
+                        "id": "390",
+                        "titre": "Cadeaux empoisonnés Des scientifiques paient le..."
+                    },
+                    {
+                        "id": "391",
+                        "titre": "La Royal Shakespeare Company rompt son..."
+                    },
+                    {
+                        "id": "393",
+                        "titre": "Jeffrey Epstein, donateur toxique Les célébrités..."
+                    },
+                    {
+                        "id": "397",
+                        "titre": "La justice italienne suspend le prêt..."
+                    },
+                    {
+                        "id": "409",
+                        "titre": "Au Royaume-uni, l'art tourne peu à..."
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "232",
+                        "titre": "Pharmacie - Les Sackler, milliardaires de..."
+                    },
+                    {
+                        "id": "239",
+                        "titre": "FRANCE 2 JEUDI 21 21 h..."
+                    },
+                    {
+                        "id": "241",
+                        "titre": "Le fabricant de l'OxyContin menace de..."
+                    },
+                    {
+                        "id": "242",
+                        "titre": "Le buzz des Etats-Unis : le..."
+                    },
+                    {
+                        "id": "253",
+                        "titre": "Edition principale Opiacés: 1er accord à..."
+                    },
+                    {
+                        "id": "258",
+                        "titre": "Crise des opioïdes : Purdue Pharma..."
+                    },
+                    {
+                        "id": "267",
+                        "titre": "Opiacés: nouvelle plainte à New York..."
+                    },
+                    {
+                        "id": "280",
+                        "titre": "Edition principale Les Etats-Unis minés par..."
+                    },
+                    {
+                        "id": "286",
+                        "titre": "LA PRESSE AU NEW HAMPSHIRE Facture..."
+                    },
+                    {
+                        "id": "291",
+                        "titre": "Crise des opioïdes : premier procès..."
+                    },
+                    {
+                        "id": "292",
+                        "titre": "Opiacés: ouverture d'un procès historique contre..."
+                    },
+                    {
+                        "id": "327",
+                        "titre": "Comment le secteur pharmaceutique a rendu..."
+                    },
+                    {
+                        "id": "331",
+                        "titre": "Crise des opiacés aux Etats-Unis :..."
+                    },
+                    {
+                        "id": "335",
+                        "titre": "Première sanction dans la crise des..."
+                    },
+                    {
+                        "id": "336",
+                        "titre": "Edition principale Opiacés: les groupes pharmaceutiques..."
+                    },
+                    {
+                        "id": "337",
+                        "titre": "Opiacés: les groupes pharmaceutiques se préparent..."
+                    },
+                    {
+                        "id": "346",
+                        "titre": "Crise des opiacés : les entreprises..."
+                    },
+                    {
+                        "id": "349",
+                        "titre": "Opioïdes : l'avidité des pharmaceutiques La..."
+                    },
+                    {
+                        "id": "357",
+                        "titre": "Crise des Opioides Le fabricant de..."
+                    },
+                    {
+                        "id": "399",
+                        "titre": "L'OxyContin de Purdue, l'antidouleur par lequel..."
+                    },
+                    {
+                        "id": "402",
+                        "titre": "Opiacés : le procès civil s'ouvre..."
+                    },
+                    {
+                        "id": "404",
+                        "titre": "États-Unis : les overdoses ont fait..."
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "rosier grimpant",
+                    "aujourd hui",
+                    "frank gehry",
+                    "projet accord",
+                    "thomas krens",
+                    "new hampshire",
+                    "auprès tribunal",
+                    "martin parr",
+                    "école chicago",
+                    "paris photo"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "240",
+                        "titre": "DES NOMMÉS VUS À LA TÉLÉ..."
+                    },
+                    {
+                        "id": "294",
+                        "titre": "La photographie se cache à Versailles..."
+                    },
+                    {
+                        "id": "415",
+                        "titre": "Rosier grimpant : 6 variétés qui..."
+                    },
+                    {
+                        "id": "416",
+                        "titre": "Le Prix Nobel d’économie Angus Deaton..."
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "rosier grimpant",
+                    "aujourd hui",
+                    "frank gehry",
+                    "projet accord",
+                    "thomas krens",
+                    "new hampshire",
+                    "auprès tribunal",
+                    "martin parr",
+                    "école chicago",
+                    "paris photo"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "245",
+                        "titre": "Edition principale Un musée londonien renonce..."
+                    },
+                    {
+                        "id": "270",
+                        "titre": "Principale Etats-Unis : Nan Goldin, figure..."
+                    },
+                    {
+                        "id": "271",
+                        "titre": "Ça se passe... Aux Etats-Unis, les..."
+                    },
+                    {
+                        "id": "275",
+                        "titre": "Purdue frise l'overdose Rien ne va..."
+                    },
+                    {
+                        "id": "278",
+                        "titre": "Économie & entreprise La robotisation va..."
+                    },
+                    {
+                        "id": "284",
+                        "titre": "JPMorgan coupe les ponts avec Purdue..."
+                    },
+                    {
+                        "id": "306",
+                        "titre": "Au Louvre, manifestation contre des mécènes..."
+                    },
+                    {
+                        "id": "310",
+                        "titre": "Mécénat Manifestation au Louvre contre la..."
+                    },
+                    {
+                        "id": "311",
+                        "titre": "L’opium du musée Une trentaine de..."
+                    },
+                    {
+                        "id": "317",
+                        "titre": "Principale Mécénat Au Louvre, l'aile «Sackler»..."
+                    },
+                    {
+                        "id": "318",
+                        "titre": "Louvre Cachons ces mécènes qu'on ne..."
+                    },
+                    {
+                        "id": "322",
+                        "titre": "Musée Le Louvre efface les traces..."
+                    },
+                    {
+                        "id": "324",
+                        "titre": "Mécénat Le Louvre supprime le nom..."
+                    },
+                    {
+                        "id": "326",
+                        "titre": "arts Le vice-président du Musée Whitney..."
+                    },
+                    {
+                        "id": "334",
+                        "titre": "Opioïdes : Purdue Pharma proposerait 12..."
+                    },
+                    {
+                        "id": "342",
+                        "titre": "Réactions LES RÉACTIONS Réactions Les musées..."
+                    },
+                    {
+                        "id": "345",
+                        "titre": "Un empire familial En 2016, Forbes..."
+                    },
+                    {
+                        "id": "351",
+                        "titre": "ILS VONT FAIRE L'ACTUALITÉ JEAN-LUC MARTINEZ,..."
+                    },
+                    {
+                        "id": "361",
+                        "titre": "Pharmacie La famille Sackler accusée de..."
+                    },
+                    {
+                        "id": "370",
+                        "titre": "Le chiffre 1 milliard La famille..."
+                    },
+                    {
+                        "id": "375",
+                        "titre": "Dans les sociétés- les affaires Purdue..."
+                    },
+                    {
+                        "id": "383",
+                        "titre": "LE FABRICANT DE L'OXYCONTIN SE DÉCLARE..."
+                    },
+                    {
+                        "id": "384",
+                        "titre": "La crise des opiacés accule Purdue..."
+                    },
+                    {
+                        "id": "394",
+                        "titre": "McGill confirme avoir reçu des dons..."
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "248",
+                        "titre": "Les arts express Dix ans après..."
+                    },
+                    {
+                        "id": "308",
+                        "titre": "Des manifestants dénoncent les liens du..."
+                    },
+                    {
+                        "id": "341",
+                        "titre": "Le scandale américain des opiacés touche..."
+                    },
+                    {
+                        "id": "355",
+                        "titre": "Revenue de son addiction, Courtney Love..."
+                    },
+                    {
+                        "id": "410",
+                        "titre": "Du British Museum au MoMA, les..."
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "aujourd hui",
+                    "douzaine états",
+                    "scandale opiacés",
+                    "indemnisation victimes",
+                    "raconte new",
+                    "nord etats",
+                    "dollars plaignants",
+                    "secteur johnson",
+                    "scandale médicaments",
+                    "dollars voir"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "358",
+                        "titre": "Opiacés: Purdue Pharma prêt à se..."
+                    },
+                    {
+                        "id": "369",
+                        "titre": "En ciblant Purdue Pharma, « l’appareil..."
+                    },
+                    {
+                        "id": "376",
+                        "titre": "La crise des opiacés met en..."
+                    },
+                    {
+                        "id": "388",
+                        "titre": "Scandale des médicaments opiacés: l’indemnisation des..."
+                    },
+                    {
+                        "id": "401",
+                        "titre": "Scandale des opiacés: grandeurs et décadences..."
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "303",
+                        "titre": "Au Louvre, manifestation contre le financement..."
+                    },
+                    {
+                        "id": "362",
+                        "titre": "Crise des opiaciés: Purdue Pharma se..."
+                    },
+                    {
+                        "id": "363",
+                        "titre": "Crise des opiaciés: Purdue Pharma se..."
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "rosier grimpant",
+                    "aujourd hui",
+                    "frank gehry",
+                    "projet accord",
+                    "thomas krens",
+                    "new hampshire",
+                    "auprès tribunal",
+                    "martin parr",
+                    "école chicago",
+                    "paris photo"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "332",
+                        "titre": "Edition principale Crise des opiacés :..."
+                    },
+                    {
+                        "id": "333",
+                        "titre": "Opioïdes : Purdue prêt à la..."
+                    },
+                    {
+                        "id": "340",
+                        "titre": "USA-OPIACES/PURDUE PHARMA USA-Purdue Pharma prêt à..."
+                    },
+                    {
+                        "id": "365",
+                        "titre": "Edition principale Crise des opiacés: Purdue..."
+                    },
+                    {
+                        "id": "367",
+                        "titre": "Opiacés : Purdue Pharma veut se..."
+                    },
+                    {
+                        "id": "380",
+                        "titre": "Crise des opioïdes ÉTATS-UNIS Purdue Pharma..."
+                    },
+                    {
+                        "id": "387",
+                        "titre": "Opioïdes : Purdue Pharma demande à..."
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "rosier grimpant",
+                    "aujourd hui",
+                    "frank gehry",
+                    "projet accord",
+                    "thomas krens",
+                    "new hampshire",
+                    "auprès tribunal",
+                    "martin parr",
+                    "école chicago",
+                    "paris photo"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "234",
+                        "titre": "COMMERCE, TRAFICS ET LOIS DU MARCHÉ..."
+                    },
+                    {
+                        "id": "236",
+                        "titre": "Opioïdes: Cette épidémie d'overdoses qui ravage..."
+                    },
+                    {
+                        "id": "262",
+                        "titre": "LE MONDE EN BREF DU MERCREDI..."
+                    },
+                    {
+                        "id": "281",
+                        "titre": "Industrie pharmaceutique Tout juste diplômé de..."
+                    },
+                    {
+                        "id": "288",
+                        "titre": "La Presse au New Hampshire: naître..."
+                    },
+                    {
+                        "id": "385",
+                        "titre": "LE MONDE EN BREF DU MARDI..."
+                    },
+                    {
+                        "id": "395",
+                        "titre": "Voici le bulletin de 10 heures..."
+                    },
+                    {
+                        "id": "396",
+                        "titre": "Voici le bulletin de 5 heures..."
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "rosier grimpant",
+                    "aujourd hui",
+                    "frank gehry",
+                    "projet accord",
+                    "thomas krens",
+                    "new hampshire",
+                    "auprès tribunal",
+                    "martin parr",
+                    "école chicago",
+                    "paris photo"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "406",
+                        "titre": "Thomas Krens, l’homme qui a étendu..."
+                    },
+                    {
+                        "id": "407",
+                        "titre": "Le pionnier de l'empire Guggenheim. Quand..."
+                    },
+                    {
+                        "id": "411",
+                        "titre": "Génération «L Word», génération Q Révolutionnaire,..."
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "céline galipeau animatrice",
+                    "fillion reporter spécialisé",
+                    "gérald fillion reporter",
+                    "reporter spécialisé économie",
+                    "bonne chance accord",
+                    "google flu trends",
+                    "opiacés victoire majeure",
+                    "majeure contre industriels",
+                    "accusés favorisé dépendance",
+                    "victoire majeure contre"
+                ],
+                "articles": [
+                    {
+                        "id": "231",
+                        "titre": "Google traque (à nouveau) la grippe..."
+                    },
+                    {
+                        "id": "235",
+                        "titre": "LES LABOS PHARMACEUTIQUES POURSUIVIS « Je..."
+                    },
+                    {
+                        "id": "274",
+                        "titre": "Bourses :une crise financière est-elle imminente..."
+                    },
+                    {
+                        "id": "300",
+                        "titre": "Judith Perrignon est journaliste et écrivaine...."
+                    },
+                    {
+                        "id": "301",
+                        "titre": "15 juin 2019 Le sommaire La..."
+                    },
+                    {
+                        "id": "307",
+                        "titre": "--- Malgré les records d'audience des..."
+                    },
+                    {
+                        "id": "312",
+                        "titre": "Toutes les infos en bref qui..."
+                    },
+                    {
+                        "id": "315",
+                        "titre": "Cellules grises TÉLÉFILM O.G. INÉDIT BE..."
+                    },
+                    {
+                        "id": "328",
+                        "titre": "Un héros ou un salaud ?..."
+                    },
+                    {
+                        "id": "339",
+                        "titre": "Économie : dossier de la crise..."
+                    },
+                    {
+                        "id": "344",
+                        "titre": "L’ex-conservatrice du Louvre : « Je..."
+                    },
+                    {
+                        "id": "386",
+                        "titre": "Mécanisme de résistance à l'immunothérapie Un..."
+                    },
+                    {
+                        "id": "389",
+                        "titre": "Faut-il en finir avec le mécénat..."
+                    },
+                    {
+                        "id": "412",
+                        "titre": "Les influenceurs de l'art Commentaire C'est..."
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "233",
+                        "titre": "Le Point voit Retailleau succéder à..."
+                    },
+                    {
+                        "id": "413",
+                        "titre": "Pourquoi Adam Driver est le nouveau..."
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "243",
+                        "titre": "PURDUEPHARMA-FAILLITE/ EXCLUSIF-Opioïdes/Purdue étudie une mise en..."
+                    },
+                    {
+                        "id": "254",
+                        "titre": "Edition principale USA: premier accord amiable..."
+                    },
+                    {
+                        "id": "256",
+                        "titre": "USA: premier accord amiable pour Purdue..."
+                    },
+                    {
+                        "id": "259",
+                        "titre": "Procès des opiacés : Purdue Pharma..."
+                    },
+                    {
+                        "id": "276",
+                        "titre": "Purdue frise l'overdose Rien ne va..."
+                    },
+                    {
+                        "id": "285",
+                        "titre": "Crise des opiacés: la banque JPMorgan..."
+                    },
+                    {
+                        "id": "287",
+                        "titre": "Crise des opiacés : La banque..."
+                    },
+                    {
+                        "id": "290",
+                        "titre": "Opioïdes : le premier procès contre..."
+                    },
+                    {
+                        "id": "295",
+                        "titre": "INSYS-OPIOIDES/ (PHOTO) Crise des opioïdes-Insys payera..."
+                    },
+                    {
+                        "id": "296",
+                        "titre": "Crise des opioïdes : l'américain Insys..."
+                    },
+                    {
+                        "id": "297",
+                        "titre": "INSYS-OPIOIDES/FAILLITE Crise des opioïdes-Insys se met..."
+                    },
+                    {
+                        "id": "330",
+                        "titre": "Crise des opiacés: Johnson & Johnson..."
+                    },
+                    {
+                        "id": "338",
+                        "titre": "Crise des opiacés aux Etats-Unis: la..."
+                    },
+                    {
+                        "id": "343",
+                        "titre": "Les fabricants d'opioïdes devant la justice..."
+                    },
+                    {
+                        "id": "348",
+                        "titre": "Opiacés La famille Sackler prête à..."
+                    },
+                    {
+                        "id": "352",
+                        "titre": "USA-OPIOIDES/JUSTICE (PHOTO) USA-Rejet d'un recours du..."
+                    },
+                    {
+                        "id": "356",
+                        "titre": "Crise des opiacés : Purdue Pharma..."
+                    },
+                    {
+                        "id": "360",
+                        "titre": "Crise des opiacés: la famille Sackler..."
+                    },
+                    {
+                        "id": "364",
+                        "titre": "Crise des opiacés : Purdue Pharma..."
+                    },
+                    {
+                        "id": "366",
+                        "titre": "Crise des opiacés : face aux..."
+                    },
+                    {
+                        "id": "368",
+                        "titre": "Edition principale Purdue Pharma annonce se..."
+                    },
+                    {
+                        "id": "371",
+                        "titre": "Opiacés : Purdue Pharma se déclare..."
+                    },
+                    {
+                        "id": "372",
+                        "titre": "Purdue Pharma dit se déclarer en..."
+                    },
+                    {
+                        "id": "373",
+                        "titre": "Pertes & profits | Purdue pharma..."
+                    },
+                    {
+                        "id": "381",
+                        "titre": "Crise des opioïdes Purdue fait faillite..."
+                    },
+                    {
+                        "id": "414",
+                        "titre": "Crise des opioïdes : les comptes..."
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "opiacés",
+                    "crise",
+                    "dollars",
+                    "unis",
+                    "pharma",
+                    "oxycontin",
+                    "musée"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "etats unis",
+                    "crise opiacés",
+                    "new york",
+                    "états unis",
+                    "millions dollars",
+                    "crise opioïdes",
+                    "johnson johnson"
+                ],
+                "3-grams": [
+                    "national portrait gallery",
+                    "opiacés etats unis",
+                    "membres famille sackler",
+                    "guggenheim new york",
+                    "crise opiacés etats",
+                    "payer millions dollars",
+                    "propriétaires famille sackler",
+                    "addiction intervention now",
+                    "aile antiquités orientales",
+                    "pharmaceutique purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "329",
+                        "titre": "Wendell Phillips, un Indiana Jones au..."
+                    }
+                ]
+            }
+        ],
+        "2020": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "festival",
+                    "opiacés",
+                    "gstaad",
+                    "pharma",
+                    "unis",
+                    "millions",
+                    "page"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "crise opiacés",
+                    "états unis",
+                    "etats unis",
+                    "crise opioïdes",
+                    "theresa sackler",
+                    "truth ain",
+                    "hard truth"
+                ],
+                "3-grams": [
+                    "hard truth ain",
+                    "américaine theresa sackler",
+                    "propriétaire groupe pharmaceutique",
+                    "renoncer nouvel avis",
+                    "crise opiacés états",
+                    "menuhin gstaad renoncer",
+                    "emblématique crise opiacés",
+                    "gstaad renoncer nouvel",
+                    "nouvel avis dons",
+                    "vit partie station"
+                ],
+                "articles": [
+                    {
+                        "id": "420",
+                        "titre": "Un sponsor controversé Le Festival Menuhin..."
+                    },
+                    {
+                        "id": "423",
+                        "titre": "En deux mots Sponsor toxique Classiqueâ€...Le..."
+                    },
+                    {
+                        "id": "432",
+                        "titre": "Témoignage Une mère effondrée après le..."
+                    },
+                    {
+                        "id": "438",
+                        "titre": "It's a Hard Truth Ain't It..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "art",
+                    "supermarché",
+                    "musée",
+                    "pot",
+                    "dollars",
+                    "contre",
+                    "met",
+                    "ans",
+                    "œuvres",
+                    "guerre"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "crise opiacés",
+                    "états unis",
+                    "etats unis",
+                    "crise opioïdes",
+                    "theresa sackler",
+                    "truth ain",
+                    "hard truth"
+                ],
+                "3-grams": [
+                    "belgian art prize",
+                    "new york times",
+                    "bon titre clair",
+                    "jeu paume jusqu",
+                    "valeurs échanges produits",
+                    "exposition image marchandise",
+                    "comprend guère dentifrices",
+                    "paume jusqu juin",
+                    "clair supermarché voir",
+                    "produits qualité premiers"
+                ],
+                "articles": [
+                    {
+                        "id": "429",
+                        "titre": "Au supermarché (des images) Bon, le..."
+                    },
+                    {
+                        "id": "435",
+                        "titre": "Le MET de New York, 150..."
+                    },
+                    {
+                        "id": "448",
+                        "titre": "Monsanto-Purdue Pharma : « Dans la..."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "sackler",
+                    "purdue",
+                    "famille",
+                    "festival",
+                    "opiacés",
+                    "gstaad",
+                    "pharma",
+                    "unis",
+                    "millions",
+                    "page"
+                ],
+                "2-grams": [
+                    "etats unis",
+                    "art prize",
+                    "belgian art",
+                    "purdue pharma",
+                    "richard sackler",
+                    "cambridge analytica",
+                    "ministère culture",
+                    "millions dollars",
+                    "milliards dollars",
+                    "national portrait"
+                ],
+                "3-grams": [
+                    "belgian art prize",
+                    "new york times",
+                    "bon titre clair",
+                    "jeu paume jusqu",
+                    "valeurs échanges produits",
+                    "exposition image marchandise",
+                    "comprend guère dentifrices",
+                    "paume jusqu juin",
+                    "clair supermarché voir",
+                    "produits qualité premiers"
+                ],
+                "articles": [
+                    {
+                        "id": "421",
+                        "titre": "L'annulation du Belgian Art Prize contestée..."
+                    },
+                    {
+                        "id": "424",
+                        "titre": "Sackler au Louvre, un mécénat empoisonné..."
+                    },
+                    {
+                        "id": "428",
+                        "titre": "« Opioid files » : dans..."
+                    },
+                    {
+                        "id": "437",
+                        "titre": "Le Valium, première pilule du bonheur..."
+                    },
+                    {
+                        "id": "446",
+                        "titre": "De Cambridge Analytica au Dieselgate, 5..."
+                    },
+                    {
+                        "id": "456",
+                        "titre": "Sueurs froides en 2020 pour les..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "milliards",
+                    "dollars",
+                    "bezos",
+                    "philanthropie",
+                    "purdue",
+                    "fortune",
+                    "famille",
+                    "gates",
+                    "new",
+                    "accord"
+                ],
+                "2-grams": [
+                    "purdue pharma",
+                    "famille sackler",
+                    "milliards dollars",
+                    "crise opiacés",
+                    "états unis",
+                    "etats unis",
+                    "crise opioïdes",
+                    "theresa sackler",
+                    "truth ain",
+                    "hard truth"
+                ],
+                "3-grams": [
+                    "château mouton rothschild",
+                    "étiquette château mouton",
+                    "450 000 personnes",
+                    "accepté plaider coupable",
+                    "crise opiacés laboratoire",
+                    "ministère américain justice",
+                    "philippe foriel destezet",
+                    "médicaments anti douleur",
+                    "opiacés laboratoire purdue",
+                    "sackler purdue pharma"
+                ],
+                "articles": [
+                    {
+                        "id": "419",
+                        "titre": "Le Gstaad Menuhin Festival gèle les..."
+                    },
+                    {
+                        "id": "426",
+                        "titre": "Etats-Unis : première hausse de l'espérance..."
+                    },
+                    {
+                        "id": "431",
+                        "titre": "Des dizaines de milliers de morts..."
+                    },
+                    {
+                        "id": "433",
+                        "titre": "Crise des opiacés: le labo Mallinckrodt..."
+                    },
+                    {
+                        "id": "436",
+                        "titre": "Les dents de la mer 2..."
+                    },
+                    {
+                        "id": "439",
+                        "titre": "Crise des opioïdes : Purdue rattrapé..."
+                    },
+                    {
+                        "id": "440",
+                        "titre": "Un fabricant américain d'opiacés demande la..."
+                    },
+                    {
+                        "id": "441",
+                        "titre": "Les opioïdes provoquent une nouvelle faillite..."
+                    },
+                    {
+                        "id": "442",
+                        "titre": "Crise des opiacés : Un laboratoire..."
+                    },
+                    {
+                        "id": "443",
+                        "titre": "Crise des opioïdes : accord entre..."
+                    },
+                    {
+                        "id": "444",
+                        "titre": "Crise des opiacés: le laboratoire Purdue..."
+                    },
+                    {
+                        "id": "445",
+                        "titre": "Le laboratoire Purdue plaide coupable pour..."
+                    },
+                    {
+                        "id": "449",
+                        "titre": "Opioïdes : Purdue Pharma plaide coupable..."
+                    },
+                    {
+                        "id": "451",
+                        "titre": "Qui sont les 300 plus riches..."
+                    },
+                    {
+                        "id": "452",
+                        "titre": "La pandémie fait fondre la fortune..."
+                    },
+                    {
+                        "id": "453",
+                        "titre": "Déconvenues et succès des plus grandes..."
+                    },
+                    {
+                        "id": "454",
+                        "titre": "Xu Bing signe l'étiquette du Château..."
+                    },
+                    {
+                        "id": "455",
+                        "titre": "Grands vins de Bordeaux : l'artiste..."
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "1-grams": [
+                    "milliards",
+                    "dollars",
+                    "bezos",
+                    "philanthropie",
+                    "purdue",
+                    "fortune",
+                    "famille",
+                    "gates",
+                    "new",
+                    "accord"
+                ],
+                "2-grams": [
+                    "bill gates",
+                    "jeff bezos",
+                    "milliards dollars",
+                    "new york",
+                    "donald trump",
+                    "xixe siècle",
+                    "millions dollars",
+                    "john rockefeller",
+                    "elizabeth warren",
+                    "mark zuckerberg"
+                ],
+                "3-grams": [
+                    "belgian art prize",
+                    "new york times",
+                    "bon titre clair",
+                    "jeu paume jusqu",
+                    "valeurs échanges produits",
+                    "exposition image marchandise",
+                    "comprend guère dentifrices",
+                    "paume jusqu juin",
+                    "clair supermarché voir",
+                    "produits qualité premiers"
+                ],
+                "articles": [
+                    {
+                        "id": "417",
+                        "titre": "Philanthropie : aux Etats-Unis, les milliardaires..."
+                    },
+                    {
+                        "id": "427",
+                        "titre": "Une jeune pousse a promotionné des..."
+                    }
+                ]
+            }
+        ],
+        "2021": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "été",
+                    "crise",
+                    "purdue",
+                    "louvre",
+                    "dollars",
+                    "opiacés",
+                    "mckinsey",
+                    "milliards",
+                    "jean",
+                    "martinez"
+                ],
+                "2-grams": [
+                    "hard truth",
+                    "truth ain",
+                    "milliards dollars",
+                    "états unis",
+                    "famille sackler",
+                    "milliards euros",
+                    "jean luc",
+                    "luc martinez",
+                    "purdue pharma",
+                    "crise opioïdes"
+                ],
+                "3-grams": [
+                    "hard truth ain",
+                    "jean luc martinez",
+                    "famille sackler propriétaire",
+                    "sackler propriétaire laboratoire",
+                    "payer milliards dollars",
+                    "mars 13h30 casting",
+                    "ain mardi mars",
+                    "documentaire durée min",
+                    "sackler repères crise",
+                    "mardi mars 13h30"
+                ],
+                "articles": [
+                    {
+                        "id": "457",
+                        "titre": "McKinsey versera 573 M$ US pour..."
+                    },
+                    {
+                        "id": "458",
+                        "titre": "Le prestigieux cabinet McKinsey malmené dans..."
+                    },
+                    {
+                        "id": "459",
+                        "titre": "Cherry monte au front « Avez-vous..."
+                    },
+                    {
+                        "id": "462",
+                        "titre": "Crise des opiacés: la famille du..."
+                    },
+                    {
+                        "id": "463",
+                        "titre": "Crise des opiacés: la famille du..."
+                    },
+                    {
+                        "id": "464",
+                        "titre": "Les Sackler proposent un accord à..."
+                    },
+                    {
+                        "id": "465",
+                        "titre": "LE MONDE EN BREF DU MARDI..."
+                    },
+                    {
+                        "id": "468",
+                        "titre": "Jean-Luc Martinez, patron du Louvre «..."
+                    },
+                    {
+                        "id": "469",
+                        "titre": "Aux États-Unis, la crise des opioïdes..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "hard",
+                    "ain",
+                    "truth",
+                    "milliards",
+                    "santé",
+                    "unis",
+                    "etats",
+                    "dollars",
+                    "capitalisme",
+                    "négociation"
+                ],
+                "2-grams": [
+                    "hard truth",
+                    "truth ain",
+                    "milliards dollars",
+                    "états unis",
+                    "famille sackler",
+                    "milliards euros",
+                    "jean luc",
+                    "luc martinez",
+                    "purdue pharma",
+                    "crise opioïdes"
+                ],
+                "3-grams": [
+                    "hard truth ain",
+                    "jean luc martinez",
+                    "famille sackler propriétaire",
+                    "sackler propriétaire laboratoire",
+                    "payer milliards dollars",
+                    "mars 13h30 casting",
+                    "ain mardi mars",
+                    "documentaire durée min",
+                    "sackler repères crise",
+                    "mardi mars 13h30"
+                ],
+                "articles": [
+                    {
+                        "id": "467",
+                        "titre": "It's a Hard Truth Ain't It..."
+                    },
+                    {
+                        "id": "470",
+                        "titre": "Repères Crise des opioïdes aux États-Unis...."
+                    }
+                ]
+            },
+            {
+                "id": "Divers",
+                "1-grams": [
+                    "hard",
+                    "ain",
+                    "truth",
+                    "milliards",
+                    "santé",
+                    "unis",
+                    "etats",
+                    "dollars",
+                    "capitalisme",
+                    "négociation"
+                ],
+                "2-grams": [
+                    "etats unis",
+                    "morts désespoir",
+                    "marché travail",
+                    "système santé",
+                    "recherche rente",
+                    "bons emplois",
+                    "angus deaton",
+                    "épidémie morts",
+                    "hausse décès",
+                    "américain consacré"
+                ],
+                "3-grams": [
+                    "épidémie morts désespoir",
+                    "mondialisation automatisation coût",
+                    "marché travail mondialisation",
+                    "pib américain consacré",
+                    "travail mondialisation automatisation",
+                    "désespoir doute continuer",
+                    "automatisation coût santé",
+                    "morts désespoir doute",
+                    "qualifiés perdu sens",
+                    "meilleure combattre vol"
+                ],
+                "articles": [
+                    {
+                        "id": "461",
+                        "titre": "Angus Deaton : « Le Covid-19..."
+                    },
+                    {
+                        "id": "466",
+                        "titre": "L’imposant Yaphet Kotto, méchant culte de..."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+        <!-- Meta Needed to force IE out of Quirks mode -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!--StyleSheets-->
+        <link href="/static/MotionChart/css/bootstrap/bootstrap.min.css" rel="stylesheet">  
+        <link href="/static/MotionChart/css/jquery-ui-1.8.20.custom.css" rel="stylesheet"> 
+        <link href="/static/MotionChart/css/jquery.handsontable.css" rel="stylesheet">
+        <link href="/static/MotionChart/css/jquery.motionchart.css" rel="stylesheet">
+        <link href="/static/MotionChart/css/jquery.contextMenu.css" rel="stylesheet">
+        <!--Scripts-->
+        <script src="/static/MotionChart/js/jquery-1.7.2.min.js"></script>
+        <script src="/static/MotionChart/js/dependencies.min.js"></script>
+        <script src="/static/MotionChart/js/bootstrap.js"></script>
+        <script src="/static/MotionChart/js/jquery.handsontable.js"></script>
+        <script src="/static/MotionChart/js/jquery.motionchart.js"></script>
+        </head>
+        <body>
+        <script>
+        
+        var data = [["index","word","year","total_clusters","ngram_size","cnt_art","cnt_clusters"], [0,"e\u017ft","1650",56,1,1.0,1.0],[1,"\u017fon","1650",56,1,1.0,1.0],[2,"luy","1650",56,1,1.0,1.0],[3,"vne","1650",55,1,1.0,1.0],[4,"roy","1650",55,1,1.0,1.0],[5,"\u017fur","1650",54,1,0.9298245614,0.875],[6,"\u017fes","1650",54,1,0.9298245614,0.875],[7,"bien","1650",54,1,0.9298245614,0.875],[8,"mon\u017fieur prince","1650",51,2,0.9298245614,0.875],[9,"mon\u017fieur duc orleans","1650",51,3,0.7192982456,0.75],[10,"cardinal mazarin","1650",49,2,0.9298245614,0.875],[11,"mil \u017fix cens","1650",47,3,0.0,0.0],[12,"auec","1650",36,1,0.9298245614,0.875],[13,"bien to\u017ft","1650",32,2,0.0,0.0],[14,"mon\u017fieur duc","1650",31,2,0.9298245614,0.875],[15,"duc orleans","1650",31,2,0.9298245614,0.875],[16,"mon\u017fieur","1650",30,1,0.0,0.0],[17,"\u017fon alte\u017f\u017fe royale","1650",26,3,0.0,0.0],[18,"mon\u017fieur due orleans","1650",26,3,0.0,0.0],[19,"long temps","1650",25,2,0.9298245614,0.875],[20,"e\u017ft","1652",56,1,1.0,1.0],[21,"\u017fon","1652",56,1,1.0,1.0],[22,"luy","1652",56,1,1.0,1.0],[23,"vne","1652",55,1,1.0,1.0],[24,"roy","1652",55,1,1.0,1.0],[25,"\u017fur","1652",54,1,1.0,1.0],[26,"\u017fes","1652",54,1,1.0,1.0],[27,"bien","1652",54,1,1.0,1.0],[28,"mon\u017fieur prince","1652",51,2,0.8571428571,0.7777777778],[29,"mon\u017fieur duc orleans","1652",51,3,1.0,1.0],[30,"cardinal mazarin","1652",49,2,0.8571428571,0.7777777778],[31,"mil \u017fix cens","1652",47,3,1.0,1.0],[32,"auec","1652",36,1,1.0,1.0],[33,"bien to\u017ft","1652",32,2,0.8571428571,0.7777777778],[34,"mon\u017fieur duc","1652",31,2,0.8571428571,0.7777777778],[35,"duc orleans","1652",31,2,0.8571428571,0.7777777778],[36,"mon\u017fieur","1652",30,1,1.0,1.0],[37,"\u017fon alte\u017f\u017fe royale","1652",26,3,1.0,1.0],[38,"mon\u017fieur due orleans","1652",26,3,1.0,1.0],[39,"long temps","1652",25,2,0.0,0.0],[40,"e\u017ft","1649",56,1,0.9754601227,0.85],[41,"\u017fon","1649",56,1,0.9754601227,0.85],[42,"luy","1649",56,1,0.9754601227,0.85],[43,"vne","1649",55,1,0.9754601227,0.85],[44,"roy","1649",55,1,0.9754601227,0.85],[45,"\u017fur","1649",54,1,0.9754601227,0.85],[46,"\u017fes","1649",54,1,0.9754601227,0.85],[47,"bien","1649",54,1,0.9754601227,0.85],[48,"mon\u017fieur prince","1649",51,2,0.8742331288,0.9],[49,"mon\u017fieur duc orleans","1649",51,3,0.9938650307,0.95],[50,"cardinal mazarin","1649",49,2,0.8742331288,0.9],[51,"mil \u017fix cens","1649",47,3,0.9938650307,0.95],[52,"auec","1649",36,1,0.0,0.0],[53,"bien to\u017ft","1649",32,2,0.8742331288,0.9],[54,"mon\u017fieur duc","1649",31,2,0.0,0.0],[55,"duc orleans","1649",31,2,0.0,0.0],[56,"mon\u017fieur","1649",30,1,0.0,0.0],[57,"\u017fon alte\u017f\u017fe royale","1649",26,3,0.0,0.0],[58,"mon\u017fieur due orleans","1649",26,3,0.0,0.0],[59,"long temps","1649",25,2,0.8742331288,0.9],[60,"e\u017ft","1651",56,1,1.0,1.0],[61,"\u017fon","1651",56,1,1.0,1.0],[62,"luy","1651",56,1,1.0,1.0],[63,"vne","1651",55,1,1.0,1.0],[64,"roy","1651",55,1,1.0,1.0],[65,"\u017fur","1651",54,1,1.0,1.0],[66,"\u017fes","1651",54,1,1.0,1.0],[67,"bien","1651",54,1,1.0,1.0],[68,"mon\u017fieur prince","1651",51,2,1.0,1.0],[69,"mon\u017fieur duc orleans","1651",51,3,0.4107142857,0.6363636364],[70,"cardinal mazarin","1651",49,2,0.75,0.8181818182],[71,"mil \u017fix cens","1651",47,3,0.625,0.8181818182],[72,"auec","1651",36,1,1.0,1.0],[73,"bien to\u017ft","1651",32,2,0.0,0.0],[74,"mon\u017fieur duc","1651",31,2,0.75,0.8181818182],[75,"duc orleans","1651",31,2,0.75,0.8181818182],[76,"mon\u017fieur","1651",30,1,1.0,1.0],[77,"\u017fon alte\u017f\u017fe royale","1651",26,3,0.4107142857,0.6363636364],[78,"mon\u017fieur due orleans","1651",26,3,0.4107142857,0.6363636364],[79,"long temps","1651",25,2,0.0,0.0],[80,"e\u017ft","1648",56,1,1.0,1.0],[81,"\u017fon","1648",56,1,1.0,1.0],[82,"luy","1648",56,1,1.0,1.0],[83,"vne","1648",55,1,1.0,1.0],[84,"roy","1648",55,1,0.0,0.0],[85,"\u017fur","1648",54,1,1.0,1.0],[86,"\u017fes","1648",54,1,1.0,1.0],[87,"bien","1648",54,1,1.0,1.0],[88,"mon\u017fieur prince","1648",51,2,0.0,0.0],[89,"mon\u017fieur duc orleans","1648",51,3,0.0,0.0],[90,"cardinal mazarin","1648",49,2,0.0,0.0],[91,"mil \u017fix cens","1648",47,3,0.0,0.0],[92,"auec","1648",36,1,0.0,0.0],[93,"bien to\u017ft","1648",32,2,0.0,0.0],[94,"mon\u017fieur duc","1648",31,2,0.0,0.0],[95,"duc orleans","1648",31,2,0.0,0.0],[96,"mon\u017fieur","1648",30,1,0.0,0.0],[97,"\u017fon alte\u017f\u017fe royale","1648",26,3,0.0,0.0],[98,"mon\u017fieur due orleans","1648",26,3,0.0,0.0],[99,"long temps","1648",25,2,0.0,0.0],[100,"e\u017ft","1663",56,1,0.0,0.0],[101,"\u017fon","1663",56,1,0.0,0.0],[102,"luy","1663",56,1,0.0,0.0],[103,"vne","1663",55,1,0.0,0.0],[104,"roy","1663",55,1,0.0,0.0],[105,"\u017fur","1663",54,1,0.0,0.0],[106,"\u017fes","1663",54,1,0.0,0.0],[107,"bien","1663",54,1,0.0,0.0],[108,"mon\u017fieur prince","1663",51,2,0.0,0.0],[109,"mon\u017fieur duc orleans","1663",51,3,0.0,0.0],[110,"cardinal mazarin","1663",49,2,0.0,0.0],[111,"mil \u017fix cens","1663",47,3,0.0,0.0],[112,"auec","1663",36,1,0.0,0.0],[113,"bien to\u017ft","1663",32,2,0.0,0.0],[114,"mon\u017fieur duc","1663",31,2,0.0,0.0],[115,"duc orleans","1663",31,2,0.0,0.0],[116,"mon\u017fieur","1663",30,1,0.0,0.0],[117,"\u017fon alte\u017f\u017fe royale","1663",26,3,0.0,0.0],[118,"mon\u017fieur due orleans","1663",26,3,0.0,0.0],[119,"long temps","1663",25,2,0.0,0.0],[120,"e\u017ft","1653",56,1,1.0,1.0],[121,"\u017fon","1653",56,1,1.0,1.0],[122,"luy","1653",56,1,1.0,1.0],[123,"vne","1653",55,1,0.0,0.0],[124,"roy","1653",55,1,1.0,1.0],[125,"\u017fur","1653",54,1,0.0,0.0],[126,"\u017fes","1653",54,1,0.0,0.0],[127,"bien","1653",54,1,0.0,0.0],[128,"mon\u017fieur prince","1653",51,2,1.0,1.0],[129,"mon\u017fieur duc orleans","1653",51,3,1.0,1.0],[130,"cardinal mazarin","1653",49,2,1.0,1.0],[131,"mil \u017fix cens","1653",47,3,1.0,1.0],[132,"auec","1653",36,1,0.0,0.0],[133,"bien to\u017ft","1653",32,2,0.0,0.0],[134,"mon\u017fieur duc","1653",31,2,1.0,1.0],[135,"duc orleans","1653",31,2,1.0,1.0],[136,"mon\u017fieur","1653",30,1,1.0,1.0],[137,"\u017fon alte\u017f\u017fe royale","1653",26,3,1.0,1.0],[138,"mon\u017fieur due orleans","1653",26,3,1.0,1.0],[139,"long temps","1653",25,2,0.0,0.0]];
+        </script>
+        <div id="content" align="center">
+        <div class="motionchart" style="width:800px; height:600px;"></div>
+        <script>     
+        $('.motionchart').motionchart({
+                title: "Motion Chart",
+                'data': data,
+                mappings: {key: 2, x: 3, y: 6,
+                    size: 5,  color: 4, category: 1 },
+                scalings: { x: 'linear', y: 'linear' },
+                colorPalette: {"Blue-Red": {from: "rgb(0,0,255)", to: "rgb(255,0,0)"}},
+                color: "Red-Blue",
+                play: true,
+                loop: false
+            });
+        </script>
+        </div>
+        </body>
+        </html>
+        

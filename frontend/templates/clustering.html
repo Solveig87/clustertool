@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+{% block title %}
+Clustering
+{% endblock %}
+{% block masthead %}
+<header class="masthead bg-info text-white text-center" style="max-height: 400px;padding:120px">
+    <div class="container d-flex align-items-center flex-column">
+        <!-- Masthead Avatar Image-->
+        <img class="masthead-avatar mb-5" style="width:100px; height:100px;" src="/static/img/clustering.png" alt="" />
+        <!-- Masthead Heading-->
+        <h1 class="masthead-heading text-uppercase mb-0">Clustertool</h1>
+        <!-- Icon Divider-->
+        <div class="divider-custom divider-light">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+    </div>
+</header>
+{% endblock %}
+{% block content %}
+  <!-- Search Section-->
+  <section class="page-section" id="Login">
+      <div class="container">
+          <!-- DataSearch Section Heading-->
+          <h2 class=" text-center text-uppercase text-secondary ">Clustering de données</h2>
+          <br/>
+          <!-- Search Form-->
+          <div class="row">
+              <div class="col-lg-8 mx-auto">
+                  <form id="clusteringForm" name="clusteringForm" method="get" novalidate="novalidate">
+                      <div class="form-row">
+						<div class="form-group col-md-8">
+							<label>Sur quel corpus souhaitez-vous travailler ?</label>
+							<select id='corpus' name='corpus'>
+								<option value="sackler">Sackler (articles de presse)</option>
+								<option value="pma">PMA (articles de presse)</option>
+								<option value="ocr">Mazarinades (textes océrisés)</option>
+								<option value="marie-claire">Marie-Claire (projet Newseye)</option>
+							</select>
+						</div>
+					</div>
+					<div class="form-row">
+						<div class="form-group col-md-8">
+							<label>Taille de la fenêtre temporelle (en nombre d'années)</label>
+							<select id='time_window' name='time_window'>
+								{% for i in range(1,4) %}
+								<option value="{{i}}">{{i}}</option>
+								{% endfor %}
+							</select>
+						</div>
+                      </div>
+                      <br />
+
+                      <div id="success"></div>
+
+                      <div class="form-group"><button class="btn btn-primary btn-xl" id="submitButton" type="submit">Valider</button></div>
+
+                  </form>
+              </div>
+          </div>
+      </div>
+  </section>
+  {% if search == True %}
+  <!-- Results Section-->
+  <h2 class=" text-center text-uppercase text-secondary ">Résultats</h2>
+  {% if results|length == 0 %}
+    <div class="container">
+      <h1 style="text-align:center"> <i class="fas fa-thumbs-down "></i> Aucun résultat </h1>
+    </div>
+  {% else %}
+  <!-- Affichage des résultats -->
+  <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light" style="max-height: 600px;width: 70%; margin-left:15%">
+    <h1>CORPUS : {{results['corpus']}}</h1>
+	
+	<h2>Quelques visualisations des résultats</h2>
+	<p><a href="/motioncharts/{{results['path']}}">Motionchart</a></p>
+	<p><a href="/streamcharts/{{results['path']}}_1">Streamchart 1-grams</a></p>
+	<p><a href="/streamcharts/{{results['path']}}_2">Streamchart 2-grams</a></p>
+	<p><a href="/streamcharts/{{results['path']}}_3">Streamchart 3-grams</a></p>
+	
+	<h2>Résultats</h2>
+	{% for annee, clusters in results['results'].items() %}
+	
+	<br/>
+	<h3>{{annee}}</h3>
+	
+	{% for cluster in clusters %}
+	
+	{% set articlesid = [] %}
+	{% for article in cluster['articles'] %}
+    {{articlesid.append(article['id'])|default("", True)}}
+	{% endfor %}
+	
+	<h4><a href="/nuage/{{results['corpus']}}_corpus.json/{{articlesid|join('+')}}">Cluster {{cluster['id']}} : {{cluster['articles']|length|string()}} document(s)</a></h4>
+	<p><strong>1-grams : </strong>"{{cluster['1-grams']|join(', ')}}"</p>
+	<p><strong>2-grams : </strong>"{{cluster['2-grams']|join(', ')}}"</p>
+	<p><strong>3-grams : </strong>"{{cluster['3-grams']|join(', ')}}"</p>
+
+	{% set ngrams = cluster['1-grams'] + cluster['2-grams'] + cluster['3-grams'] %}
+	
+	{% for article in cluster['articles'] %}
+	<p><a href="{{results['corpus']}}_corpus.json/{{article['id']}}/{{ngrams|join('_')|replace(' ', '-')}}">{{article['titre']}}</a></p>
+	{% endfor %}
+	
+	<br/>
+	{% endfor %}
+	
+	{% endfor %}
+	
+  </div>
+  <br/>
+  <br/>
+    {% endif %}
+  {% endif %}
+{% endblock %}
+
+
+-

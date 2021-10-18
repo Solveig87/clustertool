@@ -1,0 +1,58 @@
+{
+    "Stats globales": {
+        "Nombre de documents": 668,
+        "Nombre de mots": 2495017,
+        "Nombre moyen de mots par document": 3735.06,
+        "Taille du vocabulaire": 269181
+    },
+    "Stats par année": {
+        "1648": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 158462,
+            "Nombre moyen de mots par document": 79231,
+            "Taille du vocabulaire": 25734
+        },
+        "1649": {
+            "Nombre de documents": 322,
+            "Nombre de mots": 924082,
+            "Nombre moyen de mots par document": 2869.82,
+            "Taille du vocabulaire": 126242
+        },
+        "1650": {
+            "Nombre de documents": 56,
+            "Nombre de mots": 201696,
+            "Nombre moyen de mots par document": 3601.71,
+            "Taille du vocabulaire": 43001
+        },
+        "1651": {
+            "Nombre de documents": 56,
+            "Nombre de mots": 374060,
+            "Nombre moyen de mots par document": 6679.64,
+            "Taille du vocabulaire": 56971
+        },
+        "1652": {
+            "Nombre de documents": 210,
+            "Nombre de mots": 669940,
+            "Nombre moyen de mots par document": 3190.19,
+            "Taille du vocabulaire": 90836
+        },
+        "1653": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 84239,
+            "Nombre moyen de mots par document": 84239,
+            "Taille du vocabulaire": 21745
+        },
+        "1663": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 3169,
+            "Nombre moyen de mots par document": 3169,
+            "Taille du vocabulaire": 1486
+        },
+        "inconnue": {
+            "Nombre de documents": 14,
+            "Nombre de mots": 33355,
+            "Nombre moyen de mots par document": 2382.5,
+            "Taille du vocabulaire": 9221
+        }
+    }
+}

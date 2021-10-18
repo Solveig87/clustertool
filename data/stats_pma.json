@@ -1,0 +1,234 @@
+{
+    "Stats globales": {
+        "Nombre de documents": 2113,
+        "Nombre de mots": 1421511,
+        "Nombre moyen de mots par document": 672.75,
+        "Taille du vocabulaire": 29160
+    },
+    "Stats par année": {
+        "1994": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1866,
+            "Nombre moyen de mots par document": 622,
+            "Taille du vocabulaire": 628
+        },
+        "1995": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1845,
+            "Nombre moyen de mots par document": 615,
+            "Taille du vocabulaire": 659
+        },
+        "1996": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 1111,
+            "Nombre moyen de mots par document": 555.5,
+            "Taille du vocabulaire": 506
+        },
+        "1997": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 2916,
+            "Nombre moyen de mots par document": 972,
+            "Taille du vocabulaire": 932
+        },
+        "1998": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 2056,
+            "Nombre moyen de mots par document": 411.2,
+            "Taille du vocabulaire": 743
+        },
+        "1999": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 5928,
+            "Nombre moyen de mots par document": 846.86,
+            "Taille du vocabulaire": 1455
+        },
+        "2000": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 4881,
+            "Nombre moyen de mots par document": 976.2,
+            "Taille du vocabulaire": 1336
+        },
+        "2001": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 2920,
+            "Nombre moyen de mots par document": 730,
+            "Taille du vocabulaire": 990
+        },
+        "2002": {
+            "Nombre de documents": 6,
+            "Nombre de mots": 4084,
+            "Nombre moyen de mots par document": 680.67,
+            "Taille du vocabulaire": 1159
+        },
+        "2003": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1503,
+            "Nombre moyen de mots par document": 501,
+            "Taille du vocabulaire": 553
+        },
+        "2004": {
+            "Nombre de documents": 13,
+            "Nombre de mots": 9850,
+            "Nombre moyen de mots par document": 757.69,
+            "Taille du vocabulaire": 2194
+        },
+        "2005": {
+            "Nombre de documents": 6,
+            "Nombre de mots": 4576,
+            "Nombre moyen de mots par document": 762.67,
+            "Taille du vocabulaire": 1312
+        },
+        "2006": {
+            "Nombre de documents": 10,
+            "Nombre de mots": 5298,
+            "Nombre moyen de mots par document": 529.8,
+            "Taille du vocabulaire": 1498
+        },
+        "2007": {
+            "Nombre de documents": 12,
+            "Nombre de mots": 9249,
+            "Nombre moyen de mots par document": 770.75,
+            "Taille du vocabulaire": 1931
+        },
+        "2008": {
+            "Nombre de documents": 19,
+            "Nombre de mots": 17902,
+            "Nombre moyen de mots par document": 942.21,
+            "Taille du vocabulaire": 3299
+        },
+        "2009": {
+            "Nombre de documents": 6,
+            "Nombre de mots": 4106,
+            "Nombre moyen de mots par document": 684.33,
+            "Taille du vocabulaire": 1209
+        },
+        "2010": {
+            "Nombre de documents": 12,
+            "Nombre de mots": 7523,
+            "Nombre moyen de mots par document": 626.92,
+            "Taille du vocabulaire": 1798
+        },
+        "2011": {
+            "Nombre de documents": 14,
+            "Nombre de mots": 10455,
+            "Nombre moyen de mots par document": 746.79,
+            "Taille du vocabulaire": 2131
+        },
+        "2012": {
+            "Nombre de documents": 160,
+            "Nombre de mots": 85487,
+            "Nombre moyen de mots par document": 534.29,
+            "Taille du vocabulaire": 6391
+        },
+        "2013": {
+            "Nombre de documents": 391,
+            "Nombre de mots": 255156,
+            "Nombre moyen de mots par document": 652.57,
+            "Taille du vocabulaire": 12169
+        },
+        "2014": {
+            "Nombre de documents": 260,
+            "Nombre de mots": 170276,
+            "Nombre moyen de mots par document": 654.91,
+            "Taille du vocabulaire": 10548
+        },
+        "2015": {
+            "Nombre de documents": 61,
+            "Nombre de mots": 36952,
+            "Nombre moyen de mots par document": 605.77,
+            "Taille du vocabulaire": 4617
+        },
+        "2016": {
+            "Nombre de documents": 89,
+            "Nombre de mots": 62489,
+            "Nombre moyen de mots par document": 702.12,
+            "Taille du vocabulaire": 6466
+        },
+        "2017": {
+            "Nombre de documents": 215,
+            "Nombre de mots": 138959,
+            "Nombre moyen de mots par document": 646.32,
+            "Taille du vocabulaire": 9617
+        },
+        "2018": {
+            "Nombre de documents": 339,
+            "Nombre de mots": 233361,
+            "Nombre moyen de mots par document": 688.38,
+            "Taille du vocabulaire": 12226
+        },
+        "2019": {
+            "Nombre de documents": 346,
+            "Nombre de mots": 257019,
+            "Nombre moyen de mots par document": 742.83,
+            "Taille du vocabulaire": 12292
+        },
+        "2020": {
+            "Nombre de documents": 97,
+            "Nombre de mots": 68856,
+            "Nombre moyen de mots par document": 709.86,
+            "Taille du vocabulaire": 6774
+        },
+        "2021": {
+            "Nombre de documents": 21,
+            "Nombre de mots": 14168,
+            "Nombre moyen de mots par document": 674.67,
+            "Taille du vocabulaire": 2693
+        }
+    },
+    "Stats par journal": {
+        "Aujourd'hui en France": {
+            "Nombre de documents": 250,
+            "Nombre de mots": 105064,
+            "Nombre moyen de mots par document": 420.26,
+            "Taille du vocabulaire": 8477
+        },
+        "La Correspondance économique": {
+            "Nombre de documents": 12,
+            "Nombre de mots": 11606,
+            "Nombre moyen de mots par document": 967.17,
+            "Taille du vocabulaire": 2248
+        },
+        "La Croix": {
+            "Nombre de documents": 415,
+            "Nombre de mots": 239114,
+            "Nombre moyen de mots par document": 576.18,
+            "Taille du vocabulaire": 11040
+        },
+        "La Tribune": {
+            "Nombre de documents": 14,
+            "Nombre de mots": 12316,
+            "Nombre moyen de mots par document": 879.71,
+            "Taille du vocabulaire": 2993
+        },
+        "Le Figaro": {
+            "Nombre de documents": 466,
+            "Nombre de mots": 311932,
+            "Nombre moyen de mots par document": 669.38,
+            "Taille du vocabulaire": 13292
+        },
+        "Le Monde": {
+            "Nombre de documents": 412,
+            "Nombre de mots": 338801,
+            "Nombre moyen de mots par document": 822.33,
+            "Taille du vocabulaire": 14935
+        },
+        "Les Echos": {
+            "Nombre de documents": 78,
+            "Nombre de mots": 28939,
+            "Nombre moyen de mots par document": 371.01,
+            "Taille du vocabulaire": 4106
+        },
+        "Libération": {
+            "Nombre de documents": 346,
+            "Nombre de mots": 284103,
+            "Nombre moyen de mots par document": 821.11,
+            "Taille du vocabulaire": 14568
+        },
+        "l'Humanité": {
+            "Nombre de documents": 120,
+            "Nombre de mots": 89636,
+            "Nombre moyen de mots par document": 746.97,
+            "Taille du vocabulaire": 7145
+        }
+    }
+}

@@ -1,0 +1,750 @@
+{
+    "Stats globales": {
+        "Nombre de documents": 435,
+        "Nombre de mots": 327566,
+        "Nombre moyen de mots par document": 753.03,
+        "Taille du vocabulaire": 27731
+    },
+    "Stats par année": {
+        "1978": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1995,
+            "Nombre moyen de mots par document": 1995,
+            "Taille du vocabulaire": 790
+        },
+        "1987": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 10387,
+            "Nombre moyen de mots par document": 5193.5,
+            "Taille du vocabulaire": 4330
+        },
+        "1989": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 15465,
+            "Nombre moyen de mots par document": 3093,
+            "Taille du vocabulaire": 4275
+        },
+        "1995": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1409,
+            "Nombre moyen de mots par document": 1409,
+            "Taille du vocabulaire": 589
+        },
+        "1996": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 242,
+            "Nombre moyen de mots par document": 242,
+            "Taille du vocabulaire": 139
+        },
+        "1997": {
+            "Nombre de documents": 9,
+            "Nombre de mots": 4664,
+            "Nombre moyen de mots par document": 518.22,
+            "Taille du vocabulaire": 1540
+        },
+        "1998": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 3604,
+            "Nombre moyen de mots par document": 901,
+            "Taille du vocabulaire": 1247
+        },
+        "1999": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 415,
+            "Nombre moyen de mots par document": 415,
+            "Taille du vocabulaire": 219
+        },
+        "2001": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1105,
+            "Nombre moyen de mots par document": 1105,
+            "Taille du vocabulaire": 559
+        },
+        "2002": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 942,
+            "Nombre moyen de mots par document": 942,
+            "Taille du vocabulaire": 482
+        },
+        "2003": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 325,
+            "Nombre moyen de mots par document": 325,
+            "Taille du vocabulaire": 195
+        },
+        "2004": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 2773,
+            "Nombre moyen de mots par document": 924.33,
+            "Taille du vocabulaire": 1049
+        },
+        "2005": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1952,
+            "Nombre moyen de mots par document": 650.67,
+            "Taille du vocabulaire": 848
+        },
+        "2007": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1997,
+            "Nombre moyen de mots par document": 665.67,
+            "Taille du vocabulaire": 876
+        },
+        "2008": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 4318,
+            "Nombre moyen de mots par document": 616.86,
+            "Taille du vocabulaire": 1446
+        },
+        "2009": {
+            "Nombre de documents": 10,
+            "Nombre de mots": 4381,
+            "Nombre moyen de mots par document": 438.1,
+            "Taille du vocabulaire": 1502
+        },
+        "2010": {
+            "Nombre de documents": 8,
+            "Nombre de mots": 3401,
+            "Nombre moyen de mots par document": 425.12,
+            "Taille du vocabulaire": 1333
+        },
+        "2011": {
+            "Nombre de documents": 19,
+            "Nombre de mots": 8488,
+            "Nombre moyen de mots par document": 446.74,
+            "Taille du vocabulaire": 2394
+        },
+        "2012": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 1755,
+            "Nombre moyen de mots par document": 351,
+            "Taille du vocabulaire": 696
+        },
+        "2013": {
+            "Nombre de documents": 20,
+            "Nombre de mots": 7375,
+            "Nombre moyen de mots par document": 368.75,
+            "Taille du vocabulaire": 2162
+        },
+        "2014": {
+            "Nombre de documents": 20,
+            "Nombre de mots": 9977,
+            "Nombre moyen de mots par document": 498.85,
+            "Taille du vocabulaire": 3392
+        },
+        "2015": {
+            "Nombre de documents": 18,
+            "Nombre de mots": 10682,
+            "Nombre moyen de mots par document": 593.44,
+            "Taille du vocabulaire": 3059
+        },
+        "2016": {
+            "Nombre de documents": 16,
+            "Nombre de mots": 40332,
+            "Nombre moyen de mots par document": 2520.75,
+            "Taille du vocabulaire": 7195
+        },
+        "2017": {
+            "Nombre de documents": 16,
+            "Nombre de mots": 16379,
+            "Nombre moyen de mots par document": 1023.69,
+            "Taille du vocabulaire": 3850
+        },
+        "2018": {
+            "Nombre de documents": 28,
+            "Nombre de mots": 27738,
+            "Nombre moyen de mots par document": 990.64,
+            "Taille du vocabulaire": 5124
+        },
+        "2019": {
+            "Nombre de documents": 174,
+            "Nombre de mots": 105640,
+            "Nombre moyen de mots par document": 607.13,
+            "Taille du vocabulaire": 9080
+        },
+        "2020": {
+            "Nombre de documents": 29,
+            "Nombre de mots": 15178,
+            "Nombre moyen de mots par document": 523.38,
+            "Taille du vocabulaire": 2989
+        },
+        "2021": {
+            "Nombre de documents": 12,
+            "Nombre de mots": 10328,
+            "Nombre moyen de mots par document": 860.67,
+            "Taille du vocabulaire": 2467
+        }
+    },
+    "Stats par journal": {
+        "20 Minutes": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 2165,
+            "Nombre moyen de mots par document": 433,
+            "Taille du vocabulaire": 716
+        },
+        "24 Heures": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 280,
+            "Nombre moyen de mots par document": 140,
+            "Taille du vocabulaire": 174
+        },
+        "ABC Bourse": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 2283,
+            "Nombre moyen de mots par document": 761,
+            "Taille du vocabulaire": 791
+        },
+        "AFP Doc": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 1385,
+            "Nombre moyen de mots par document": 692.5,
+            "Taille du vocabulaire": 591
+        },
+        "AFP Infos Economiques": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 2152,
+            "Nombre moyen de mots par document": 538,
+            "Taille du vocabulaire": 753
+        },
+        "AFP Infos Françaises": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 2142,
+            "Nombre moyen de mots par document": 428.4,
+            "Taille du vocabulaire": 893
+        },
+        "AFP Infos Mondiales": {
+            "Nombre de documents": 13,
+            "Nombre de mots": 7302,
+            "Nombre moyen de mots par document": 561.69,
+            "Taille du vocabulaire": 2145
+        },
+        "AMC Le Moniteur Architecture": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 497,
+            "Nombre moyen de mots par document": 248.5,
+            "Taille du vocabulaire": 292
+        },
+        "Art Media Agency": {
+            "Nombre de documents": 39,
+            "Nombre de mots": 9690,
+            "Nombre moyen de mots par document": 248.46,
+            "Taille du vocabulaire": 2258
+        },
+        "Atlantico": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 2743,
+            "Nombre moyen de mots par document": 1371.5,
+            "Taille du vocabulaire": 1031
+        },
+        "Aujourd'hui en France": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 461,
+            "Nombre moyen de mots par document": 230.5,
+            "Taille du vocabulaire": 219
+        },
+        "Belga News Agency": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 1694,
+            "Nombre moyen de mots par document": 338.8,
+            "Taille du vocabulaire": 533
+        },
+        "Bilan": {
+            "Nombre de documents": 10,
+            "Nombre de mots": 7006,
+            "Nombre moyen de mots par document": 700.6,
+            "Taille du vocabulaire": 2077
+        },
+        "Canada NewsWire": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 1458,
+            "Nombre moyen de mots par document": 729,
+            "Taille du vocabulaire": 594
+        },
+        "Carenews": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 2057,
+            "Nombre moyen de mots par document": 1028.5,
+            "Taille du vocabulaire": 831
+        },
+        "Charente Libre": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 105,
+            "Nombre moyen de mots par document": 105,
+            "Taille du vocabulaire": 75
+        },
+        "Courrier International": {
+            "Nombre de documents": 16,
+            "Nombre de mots": 13288,
+            "Nombre moyen de mots par document": 830.5,
+            "Taille du vocabulaire": 3016
+        },
+        "E-commerce": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 357,
+            "Nombre moyen de mots par document": 357,
+            "Taille du vocabulaire": 192
+        },
+        "El Watan": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 270,
+            "Nombre moyen de mots par document": 270,
+            "Taille du vocabulaire": 153
+        },
+        "Evene": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 557,
+            "Nombre moyen de mots par document": 278.5,
+            "Taille du vocabulaire": 344
+        },
+        "ICI Radio-Canada": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 4281,
+            "Nombre moyen de mots par document": 611.57,
+            "Taille du vocabulaire": 1113
+        },
+        "ICI Radio-Canada Télé": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 5816,
+            "Nombre moyen de mots par document": 2908,
+            "Taille du vocabulaire": 1213
+        },
+        "L'AGEFI Quotidien": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 625,
+            "Nombre moyen de mots par document": 208.33,
+            "Taille du vocabulaire": 284
+        },
+        "L'Actualité": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 678,
+            "Nombre moyen de mots par document": 678,
+            "Taille du vocabulaire": 329
+        },
+        "L'Express": {
+            "Nombre de documents": 6,
+            "Nombre de mots": 5832,
+            "Nombre moyen de mots par document": 972,
+            "Taille du vocabulaire": 2387
+        },
+        "L'Hebdo du Saint-Maurice": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 634,
+            "Nombre moyen de mots par document": 634,
+            "Taille du vocabulaire": 315
+        },
+        "L'Histoire": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 158,
+            "Nombre moyen de mots par document": 158,
+            "Taille du vocabulaire": 108
+        },
+        "L'Obs": {
+            "Nombre de documents": 8,
+            "Nombre de mots": 11746,
+            "Nombre moyen de mots par document": 1468.25,
+            "Taille du vocabulaire": 2923
+        },
+        "L'Orient-Le Jour": {
+            "Nombre de documents": 16,
+            "Nombre de mots": 9814,
+            "Nombre moyen de mots par document": 613.38,
+            "Taille du vocabulaire": 2552
+        },
+        "La Correspondance de la Publicité": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 324,
+            "Nombre moyen de mots par document": 324,
+            "Taille du vocabulaire": 197
+        },
+        "La Correspondance économique": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 150,
+            "Nombre moyen de mots par document": 150,
+            "Taille du vocabulaire": 97
+        },
+        "La Croix": {
+            "Nombre de documents": 13,
+            "Nombre de mots": 5937,
+            "Nombre moyen de mots par document": 456.69,
+            "Taille du vocabulaire": 1666
+        },
+        "La Dépêche du Midi": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 242,
+            "Nombre moyen de mots par document": 242,
+            "Taille du vocabulaire": 156
+        },
+        "La Lettre de l'Expansion": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 93,
+            "Nombre moyen de mots par document": 93,
+            "Taille du vocabulaire": 60
+        },
+        "La Libre Belgique": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1561,
+            "Nombre moyen de mots par document": 520.33,
+            "Taille du vocabulaire": 680
+        },
+        "La Matinale du Monde": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 4600,
+            "Nombre moyen de mots par document": 2300,
+            "Taille du vocabulaire": 1294
+        },
+        "La Montagne": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 465,
+            "Nombre moyen de mots par document": 465,
+            "Taille du vocabulaire": 242
+        },
+        "La Nouvelle République des Pyrénées": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 215,
+            "Nombre moyen de mots par document": 215,
+            "Taille du vocabulaire": 135
+        },
+        "La Nouvelle République du Centre-Ouest": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 517,
+            "Nombre moyen de mots par document": 258.5,
+            "Taille du vocabulaire": 306
+        },
+        "La Presse": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 6976,
+            "Nombre moyen de mots par document": 1744,
+            "Taille du vocabulaire": 1941
+        },
+        "La Presse Canadienne": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 4747,
+            "Nombre moyen de mots par document": 678.14,
+            "Taille du vocabulaire": 1337
+        },
+        "La Presse+": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 4407,
+            "Nombre moyen de mots par document": 629.57,
+            "Taille du vocabulaire": 1235
+        },
+        "La Recherche": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 161,
+            "Nombre moyen de mots par document": 161,
+            "Taille du vocabulaire": 123
+        },
+        "La Tribune": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 195,
+            "Nombre moyen de mots par document": 195,
+            "Taille du vocabulaire": 126
+        },
+        "La Voix du Nord": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 453,
+            "Nombre moyen de mots par document": 453,
+            "Taille du vocabulaire": 269
+        },
+        "Le Courrier de l'Ouest": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 208,
+            "Nombre moyen de mots par document": 208,
+            "Taille du vocabulaire": 129
+        },
+        "Le Devoir": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 4465,
+            "Nombre moyen de mots par document": 637.86,
+            "Taille du vocabulaire": 1410
+        },
+        "Le Figaro": {
+            "Nombre de documents": 28,
+            "Nombre de mots": 15434,
+            "Nombre moyen de mots par document": 551.21,
+            "Taille du vocabulaire": 3778
+        },
+        "Le Jdd": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 601,
+            "Nombre moyen de mots par document": 601,
+            "Taille du vocabulaire": 356
+        },
+        "Le Journal de Montréal": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 1176,
+            "Nombre moyen de mots par document": 588,
+            "Taille du vocabulaire": 543
+        },
+        "Le Journal de Québec": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1119,
+            "Nombre moyen de mots par document": 1119,
+            "Taille du vocabulaire": 522
+        },
+        "Le Journal de Saône et Loire": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 877,
+            "Nombre moyen de mots par document": 438.5,
+            "Taille du vocabulaire": 389
+        },
+        "Le Journal des Femmes": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 677,
+            "Nombre moyen de mots par document": 677,
+            "Taille du vocabulaire": 291
+        },
+        "Le Matin": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1346,
+            "Nombre moyen de mots par document": 1346,
+            "Taille du vocabulaire": 526
+        },
+        "Le Monde": {
+            "Nombre de documents": 24,
+            "Nombre de mots": 22252,
+            "Nombre moyen de mots par document": 927.17,
+            "Taille du vocabulaire": 4693
+        },
+        "Le Monde Blogs": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 1082,
+            "Nombre moyen de mots par document": 541,
+            "Taille du vocabulaire": 514
+        },
+        "Le Monde diplomatique": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 4625,
+            "Nombre moyen de mots par document": 2312.5,
+            "Taille du vocabulaire": 1595
+        },
+        "Le Moniteur des Travaux Publics et du Bâtiment": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 369,
+            "Nombre moyen de mots par document": 184.5,
+            "Taille du vocabulaire": 225
+        },
+        "Le Parisien": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1403,
+            "Nombre moyen de mots par document": 467.67,
+            "Taille du vocabulaire": 516
+        },
+        "Le Point": {
+            "Nombre de documents": 8,
+            "Nombre de mots": 7711,
+            "Nombre moyen de mots par document": 963.88,
+            "Taille du vocabulaire": 2423
+        },
+        "Le Progrès": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 900,
+            "Nombre moyen de mots par document": 225,
+            "Taille du vocabulaire": 415
+        },
+        "Le Quotidien du Médecin": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 961,
+            "Nombre moyen de mots par document": 480.5,
+            "Taille du vocabulaire": 403
+        },
+        "Le Soir": {
+            "Nombre de documents": 6,
+            "Nombre de mots": 1956,
+            "Nombre moyen de mots par document": 326,
+            "Taille du vocabulaire": 841
+        },
+        "Le Soleil": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1551,
+            "Nombre moyen de mots par document": 517,
+            "Taille du vocabulaire": 678
+        },
+        "Le Temps": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 2583,
+            "Nombre moyen de mots par document": 645.75,
+            "Taille du vocabulaire": 1111
+        },
+        "Le Vif": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 2397,
+            "Nombre moyen de mots par document": 599.25,
+            "Taille du vocabulaire": 736
+        },
+        "Le Vif/L'Express": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1517,
+            "Nombre moyen de mots par document": 1517,
+            "Taille du vocabulaire": 715
+        },
+        "Les Echos": {
+            "Nombre de documents": 22,
+            "Nombre de mots": 12611,
+            "Nombre moyen de mots par document": 573.23,
+            "Taille du vocabulaire": 2448
+        },
+        "Les Echos Week-End": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 3367,
+            "Nombre moyen de mots par document": 1122.33,
+            "Taille du vocabulaire": 1144
+        },
+        "Libération": {
+            "Nombre de documents": 23,
+            "Nombre de mots": 13815,
+            "Nombre moyen de mots par document": 600.65,
+            "Taille du vocabulaire": 3061
+        },
+        "M Le Magazine du Monde": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 3647,
+            "Nombre moyen de mots par document": 1215.67,
+            "Taille du vocabulaire": 1365
+        },
+        "Madame Figaro": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 510,
+            "Nombre moyen de mots par document": 510,
+            "Taille du vocabulaire": 248
+        },
+        "Manière de voir": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1757,
+            "Nombre moyen de mots par document": 1757,
+            "Taille du vocabulaire": 713
+        },
+        "Midi Libre": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 730,
+            "Nombre moyen de mots par document": 730,
+            "Taille du vocabulaire": 387
+        },
+        "Moustique": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 310,
+            "Nombre moyen de mots par document": 310,
+            "Taille du vocabulaire": 208
+        },
+        "Métro": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 565,
+            "Nombre moyen de mots par document": 565,
+            "Taille du vocabulaire": 341
+        },
+        "News Press": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 1420,
+            "Nombre moyen de mots par document": 1420,
+            "Taille du vocabulaire": 656
+        },
+        "NewsPress": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 635,
+            "Nombre moyen de mots par document": 635,
+            "Taille du vocabulaire": 325
+        },
+        "Obésité": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 29820,
+            "Nombre moyen de mots par document": 14910,
+            "Taille du vocabulaire": 4980
+        },
+        "Ouest-France": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 2491,
+            "Nombre moyen de mots par document": 498.2,
+            "Taille du vocabulaire": 677
+        },
+        "Paris Match": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 1823,
+            "Nombre moyen de mots par document": 607.67,
+            "Taille du vocabulaire": 686
+        },
+        "Paris-Normandie": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 360,
+            "Nombre moyen de mots par document": 360,
+            "Taille du vocabulaire": 188
+        },
+        "Presse Océan": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 267,
+            "Nombre moyen de mots par document": 267,
+            "Taille du vocabulaire": 156
+        },
+        "Québec Science": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 3967,
+            "Nombre moyen de mots par document": 1322.33,
+            "Taille du vocabulaire": 1166
+        },
+        "Reuters général": {
+            "Nombre de documents": 2,
+            "Nombre de mots": 841,
+            "Nombre moyen de mots par document": 420.5,
+            "Taille du vocabulaire": 379
+        },
+        "Reuters économique": {
+            "Nombre de documents": 5,
+            "Nombre de mots": 2039,
+            "Nombre moyen de mots par document": 407.8,
+            "Taille du vocabulaire": 630
+        },
+        "Sciences et Avenir": {
+            "Nombre de documents": 7,
+            "Nombre de mots": 6473,
+            "Nombre moyen de mots par document": 924.71,
+            "Taille du vocabulaire": 1529
+        },
+        "Sud Ouest": {
+            "Nombre de documents": 11,
+            "Nombre de mots": 29002,
+            "Nombre moyen de mots par document": 2636.55,
+            "Taille du vocabulaire": 8324
+        },
+        "Trends Tendances": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 342,
+            "Nombre moyen de mots par document": 342,
+            "Taille du vocabulaire": 189
+        },
+        "Tribune de Genève": {
+            "Nombre de documents": 6,
+            "Nombre de mots": 1594,
+            "Nombre moyen de mots par document": 265.67,
+            "Taille du vocabulaire": 614
+        },
+        "Télé Poche": {
+            "Nombre de documents": 3,
+            "Nombre de mots": 369,
+            "Nombre moyen de mots par document": 123,
+            "Taille du vocabulaire": 214
+        },
+        "Télé Pocket": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 133,
+            "Nombre moyen de mots par document": 133,
+            "Taille du vocabulaire": 103
+        },
+        "Télérama": {
+            "Nombre de documents": 4,
+            "Nombre de mots": 4495,
+            "Nombre moyen de mots par document": 1123.75,
+            "Taille du vocabulaire": 1433
+        },
+        "Xinhua": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 275,
+            "Nombre moyen de mots par document": 275,
+            "Taille du vocabulaire": 148
+        },
+        "l'Humanité": {
+            "Nombre de documents": 1,
+            "Nombre de mots": 179,
+            "Nombre moyen de mots par document": 179,
+            "Taille du vocabulaire": 117
+        }
+    }
+}

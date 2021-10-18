@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-43f60e2ece560b7ed1bbcbc4faa102a6"}, "mark": "area", "encoding": {"color": {"type": "nominal", "field": "word", "scale": {"scheme": "category20b"}}, "x": {"type": "temporal", "axis": {"domain": false, "format": "%Y", "tickSize": 0}, "field": "year"}, "y": {"type": "quantitative", "axis": null, "field": "count", "stack": "center"}}, "selection": {"selector002": {"type": "interval", "bind": "scales", "encodings": ["x", "y"]}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-43f60e2ece560b7ed1bbcbc4faa102a6": [{"word": "jeune fille", "year": "1937", "count": 0.7725455353176366}, {"word": "pommes terre", "year": "1937", "count": 0.3171923589515771}, {"word": "jeunes filles", "year": "1937", "count": 0.531763660595291}, {"word": "point jersey", "year": "1937", "count": 0.0}, {"word": "petite fille", "year": "1937", "count": 0.0}, {"word": "mod\u00e8le mod\u00e8le", "year": "1937", "count": 0.9933362949800089}, {"word": "ttes phies", "year": "1937", "count": 0.0}, {"word": "jeune homme", "year": "1937", "count": 0.0}, {"word": "eau bouillante", "year": "1937", "count": 0.0}, {"word": "mod\u00e8les mod\u00e8les", "year": "1937", "count": 0.9249222567747668}, {"word": "jeune femme", "year": "1937", "count": 0.531763660595291}, {"word": "gouttes floride", "year": "1937", "count": 0.0}, {"word": "mod\u00e8les mod\u00e8le", "year": "1937", "count": 0.7796534873389604}, {"word": "mod\u00e8le mod\u00e8les", "year": "1937", "count": 0.7796534873389604}, {"word": "petite robe", "year": "1937", "count": 0.531763660595291}, {"word": "endr env", "year": "1937", "count": 0.0}, {"word": "droit fil", "year": "1937", "count": 0.0}, {"word": "env endr", "year": "1937", "count": 0.0}, {"word": "broch carri\u00e8res", "year": "1937", "count": 0.0}, {"word": "eau froide", "year": "1937", "count": 0.0}, {"word": "jeune fille", "year": "1939", "count": 0.6490971205466081}, {"word": "pommes terre", "year": "1939", "count": 0.0}, {"word": "jeunes filles", "year": "1939", "count": 0.0}, {"word": "point jersey", "year": "1939", "count": 0.0}, {"word": "petite fille", "year": "1939", "count": 0.14543679843826257}, {"word": "mod\u00e8le mod\u00e8le", "year": "1939", "count": 0.0}, {"word": "ttes phies", "year": "1939", "count": 0.0}, {"word": "jeune homme", "year": "1939", "count": 0.6442166910688141}, {"word": "eau bouillante", "year": "1939", "count": 0.05612493899463153}, {"word": "mod\u00e8les mod\u00e8les", "year": "1939", "count": 0.0}, {"word": "jeune femme", "year": "1939", "count": 0.509028794533919}, {"word": "gouttes floride", "year": "1939", "count": 0.0}, {"word": "mod\u00e8les mod\u00e8le", "year": "1939", "count": 0.0}, {"word": "mod\u00e8le mod\u00e8les", "year": "1939", "count": 0.0}, {"word": "petite robe", "year": "1939", "count": 0.14543679843826257}, {"word": "endr env", "year": "1939", "count": 0.3845778428501708}, {"word": "droit fil", "year": "1939", "count": 0.698389458272328}, {"word": "env endr", "year": "1939", "count": 0.3796974133723768}, {"word": "broch carri\u00e8res", "year": "1939", "count": 0.0}, {"word": "eau froide", "year": "1939", "count": 0.0}, {"word": "jeune fille", "year": "1941", "count": 0.7506043513295729}, {"word": "pommes terre", "year": "1941", "count": 0.7425463336019339}, {"word": "jeunes filles", "year": "1941", "count": 0.7207896857373086}, {"word": "point jersey", "year": "1941", "count": 0.7425463336019339}, {"word": "petite fille", "year": "1941", "count": 0.48912167606768736}, {"word": "mod\u00e8le mod\u00e8le", "year": "1941", "count": 0.0}, {"word": "ttes phies", "year": "1941", "count": 0.48912167606768736}, {"word": "jeune homme", "year": "1941", "count": 0.48912167606768736}, {"word": "eau bouillante", "year": "1941", "count": 0.4041095890410959}, {"word": "mod\u00e8les mod\u00e8les", "year": "1941", "count": 0.0}, {"word": "jeune femme", "year": "1941", "count": 0.0}, {"word": "gouttes floride", "year": "1941", "count": 0.7425463336019339}, {"word": "mod\u00e8les mod\u00e8le", "year": "1941", "count": 0.0}, {"word": "mod\u00e8le mod\u00e8les", "year": "1941", "count": 0.0}, {"word": "petite robe", "year": "1941", "count": 0.0}, {"word": "endr env", "year": "1941", "count": 0.1361804995970991}, {"word": "droit fil", "year": "1941", "count": 0.0}, {"word": "env endr", "year": "1941", "count": 0.12812248186946013}, {"word": "broch carri\u00e8res", "year": "1941", "count": 0.48912167606768736}, {"word": "eau froide", "year": "1941", "count": 0.48912167606768736}, {"word": "jeune fille", "year": "1943", "count": 0.8566402814423922}, {"word": "pommes terre", "year": "1943", "count": 0.8566402814423922}, {"word": "jeunes filles", "year": "1943", "count": 0.0}, {"word": "point jersey", "year": "1943", "count": 0.8566402814423922}, {"word": "petite fille", "year": "1943", "count": 0.8566402814423922}, {"word": "mod\u00e8le mod\u00e8le", "year": "1943", "count": 0.0}, {"word": "ttes phies", "year": "1943", "count": 0.8566402814423922}, {"word": "jeune homme", "year": "1943", "count": 0.0}, {"word": "eau bouillante", "year": "1943", "count": 0.8566402814423922}, {"word": "mod\u00e8les mod\u00e8les", "year": "1943", "count": 0.0}, {"word": "jeune femme", "year": "1943", "count": 0.0}, {"word": "gouttes floride", "year": "1943", "count": 0.0}, {"word": "mod\u00e8les mod\u00e8le", "year": "1943", "count": 0.0}, {"word": "mod\u00e8le mod\u00e8les", "year": "1943", "count": 0.0}, {"word": "petite robe", "year": "1943", "count": 0.0}, {"word": "endr env", "year": "1943", "count": 0.0}, {"word": "droit fil", "year": "1943", "count": 0.0}, {"word": "env endr", "year": "1943", "count": 0.0}, {"word": "broch carri\u00e8res", "year": "1943", "count": 0.0}, {"word": "eau froide", "year": "1943", "count": 0.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

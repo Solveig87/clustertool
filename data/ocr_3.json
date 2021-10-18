@@ -1,0 +1,4509 @@
+{
+    "corpus": "ocr",
+    "results": {
+        "1648-1650": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau37GALL",
+                        "titre": "L'AVANT-COVRIER FRANCOIS. En vers Burleſques. [Bandeau]..."
+                    },
+                    {
+                        "id": "Moreau45GALL",
+                        "titre": "L'ADIEV ET LE DESESPOIR DES AVTHEVRS..."
+                    },
+                    {
+                        "id": "Moreau1028GALL",
+                        "titre": "LA DERNIERE SOVPPE A L'OGNON POVR..."
+                    },
+                    {
+                        "id": "Moreau1224GALL",
+                        "titre": "L'ENTREE DE MONSIEVR LE MARQVIS DE..."
+                    },
+                    {
+                        "id": "Moreau1455GALL",
+                        "titre": "LA FVITTE DES MALTOTIERS APRES MAZARIN...."
+                    },
+                    {
+                        "id": "Moreau1677GALL",
+                        "titre": "L'ILLVSTRE BARBE D. C. En vers..."
+                    },
+                    {
+                        "id": "Moreau201GALL",
+                        "titre": "LES TENEBRES DE MAZARIN, EN VERS..."
+                    },
+                    {
+                        "id": "Moreau2993GALL",
+                        "titre": "RECIT DV DVEL MEMORABLE fait à..."
+                    },
+                    {
+                        "id": "Moreau3298GALL",
+                        "titre": "REMONSTRANCE BVRLESQVE, AV PARLEMENT. M. DC...."
+                    },
+                    {
+                        "id": "Moreau3527GALL",
+                        "titre": "LE RETOVR DE L'ABONDANCE Dans les..."
+                    },
+                    {
+                        "id": "Moreau3538GALL",
+                        "titre": "LE REVEIL MATIN DES CVRIEVX Touchant..."
+                    },
+                    {
+                        "id": "Moreau3584GALL",
+                        "titre": "LES SANGLOTS DE L'ORVIETAN, SVR L'ABSENCE..."
+                    },
+                    {
+                        "id": "Moreau3669GALL",
+                        "titre": "LE SIEGE D'AVBERVILLIERS En Vers Burleſques...."
+                    },
+                    {
+                        "id": "Moreau3761GALL",
+                        "titre": "LE TERME DE PASQVES SANS TREBVCHET,..."
+                    },
+                    {
+                        "id": "Moreau4016GALL",
+                        "titre": "VERS BVRLESQVES ENVOYEZ A MONSIEVR SCARRON..."
+                    },
+                    {
+                        "id": "Moreau494GALL",
+                        "titre": "ADVIS BVRLESQVE DV CHEVAL DE MAZARIN...."
+                    },
+                    {
+                        "id": "Moreau610GALL",
+                        "titre": "LE BVRLESQVE FESTIN OV L'ALIANCE CONTRACTEE..."
+                    },
+                    {
+                        "id": "Moreau694GALL",
+                        "titre": "LA CHEMISE SANGLANTE DE MAZARIN. EN..."
+                    },
+                    {
+                        "id": "Moreau752GALL",
+                        "titre": "LE CONGE BVRLESQVE DE L'ARMEE NORMANDE...."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "trouuera mau uais",
+                    "voye information feroit",
+                    "intereſts noſtre ordre",
+                    "noſtre ordre biens",
+                    "uais luy plaiſt",
+                    "mau uais luy",
+                    "foy ſans reli",
+                    "point intereſt celuy",
+                    "pendu luy faciliter",
+                    "particulier eſtoit regle"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau55GALL",
+                        "titre": "u AGR E ILD LD L..."
+                    },
+                    {
+                        "id": "Moreau1031GALL",
+                        "titre": "LES DERNIERES BARRICADES DE PARIS. EN..."
+                    },
+                    {
+                        "id": "Moreau1235GALL",
+                        "titre": "L'ENTRETIEN DE FANCHON, TOINON ET NICHON..."
+                    },
+                    {
+                        "id": "Moreau1813GALL",
+                        "titre": "osDpmie¬ eg¬ A ONSIEVR , A...."
+                    },
+                    {
+                        "id": "Moreau2731GALL",
+                        "titre": "LE 0 as-13¬ ASSETEMPS r eqa..."
+                    },
+                    {
+                        "id": "Moreau2823GALL",
+                        "titre": "LE POVRTRAICT T ¬ DES FAVORIS..."
+                    },
+                    {
+                        "id": "Moreau2855GALL",
+                        "titre": "6. 4¬ PREMIERE PARTIE DV PHILOSOPHE..."
+                    },
+                    {
+                        "id": "Moreau3501GALL",
+                        "titre": "REQVESTE PRESENTEE A MONSEIGNEVR LE PRINCE..."
+                    },
+                    {
+                        "id": "Moreau3771GALL",
+                        "titre": "LE TIII IT l H I..."
+                    },
+                    {
+                        "id": "Moreau612GALL",
+                        "titre": "LE BVRLESQUE ON DE CE TEMPS..."
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſeigneur duc orleans",
+                    "voſtre ma jeſté",
+                    "ſous augaſte bien",
+                    "teſte ſauter coup",
+                    "aiſée eſt veritable",
+                    "enfile com nichon",
+                    "bien louis xil",
+                    "party doleurs freres",
+                    "con ceuës reconnoiſtrez",
+                    "ridicules partent vne"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau59GALL",
+                        "titre": "LES ALARMES DE T¬ FRONDE LINSENSIBILITE..."
+                    },
+                    {
+                        "id": "Moreau1124GBOOKS",
+                        "titre": "J r DISCOVRS HEROIQVUE PRESENTE EIN..."
+                    },
+                    {
+                        "id": "Moreau1649MAZ",
+                        "titre": "HISTOIRE 2 REMARQVABLE DE vlEeE oT..."
+                    },
+                    {
+                        "id": "Moreau1650MAZ",
+                        "titre": "HISTOIRE TRAGIQVE 2 DE TROIS MAGISIENS..."
+                    },
+                    {
+                        "id": "Moreau1837GBOOKS",
+                        "titre": "LETTRE DAVIS A. MESSIEVRS PARLEMENT ne..."
+                    },
+                    {
+                        "id": "Moreau1915GBOOKS",
+                        "titre": "........,..¬¬¬¬¬.......¬¬¬¬¬¬2¬¬¬¬ LETTRE DE CONSOLATION A LA..."
+                    },
+                    {
+                        "id": "Moreau1940GBOOKS",
+                        "titre": "D D E AA E PETITE..."
+                    },
+                    {
+                        "id": "Moreau1943GBOOKS",
+                        "titre": "T r¬ S L I I..."
+                    },
+                    {
+                        "id": "Moreau2099GBOOKS",
+                        "titre": "cE o Es DE PARIS. LE’PRNCE..."
+                    },
+                    {
+                        "id": "Moreau2132GALL",
+                        "titre": "r¬ E .. L DV R...."
+                    },
+                    {
+                        "id": "Moreau2454GBOOKS",
+                        "titre": "LE MERCVRE 0 V COVRIER CELESTE..."
+                    },
+                    {
+                        "id": "Moreau3009GALL",
+                        "titre": ".¬ RE CIT DT T r¬..."
+                    },
+                    {
+                        "id": "Moreau3032MAZ",
+                        "titre": "D T EL1 19J VERITABLES De..."
+                    },
+                    {
+                        "id": "Moreau3961GBOOKS",
+                        "titre": "s1 LA VERITABLE RESPONSE PAR LES..."
+                    },
+                    {
+                        "id": "Moreau829GBOOKS",
+                        "titre": "NT D T . IV I..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau100GALL",
+                        "titre": "L'APOLOGIE DE L'AVTRVCHE EN VERS BVRLESQVES...."
+                    },
+                    {
+                        "id": "Moreau21GALL",
+                        "titre": "L'ACHAT DE MAZARIN EN VERS BVRLESQVES...."
+                    },
+                    {
+                        "id": "Moreau84GALL",
+                        "titre": "L'ASNE DV PROCVREVR Reſſuſcité. EN VERS..."
+                    },
+                    {
+                        "id": "Moreau1003GALL",
+                        "titre": "LE DEPART DES ALEMANDS ET POLONOIS..."
+                    },
+                    {
+                        "id": "Moreau1004GALL",
+                        "titre": "LE DESPIT DES MVSES CONTRE MAZARIN...."
+                    },
+                    {
+                        "id": "Moreau1052GALL",
+                        "titre": "LA DEROVTTE DES TROVPPES DE MAZARIN..."
+                    },
+                    {
+                        "id": "Moreau1057GALL",
+                        "titre": "DESCRIPTION DE LA PAIX PARTICVLIERE, DE..."
+                    },
+                    {
+                        "id": "Moreau1308GALL",
+                        "titre": "ESTRENES BVRLESQVES POVR LE PREMIER IOVR..."
+                    },
+                    {
+                        "id": "Moreau1337GALL",
+                        "titre": "EXTASE DE LA FRANCE, MOVRANT D'AMOVR..."
+                    },
+                    {
+                        "id": "Moreau1704GALL",
+                        "titre": "L'INSATIABLE, OV, L'AMBITIEVX VISIONNAIRE. EN VERS..."
+                    },
+                    {
+                        "id": "Moreau1799GALL",
+                        "titre": "L'AMENTATIONS D'VN PROCVREVR viſitant les ſacs..."
+                    },
+                    {
+                        "id": "Moreau2470GALL",
+                        "titre": "LE MINISTRE D'ESTAT FLAMBE. ridendo dicere..."
+                    },
+                    {
+                        "id": "Moreau2599GALL",
+                        "titre": "A L'ONOPHAGE, OV LE MANGEVR D'ASNE...."
+                    },
+                    {
+                        "id": "Moreau2633GALL",
+                        "titre": "L'ORIGINE DES PARTIZANS AVEC LA PVRGATION..."
+                    },
+                    {
+                        "id": "Moreau2687GALL",
+                        "titre": "PARAPHRASE SVR LE BREF DE SA..."
+                    },
+                    {
+                        "id": "Moreau2730GALL",
+                        "titre": "L¬ DADI e¬ FAOOIL I L..."
+                    },
+                    {
+                        "id": "Moreau2852GALL",
+                        "titre": "PREMIERE PARTIE DE L'ART DE BIEN..."
+                    },
+                    {
+                        "id": "Moreau2958GALL",
+                        "titre": "LA RAILLERIE SANS FIEL OV L'INNOCENT..."
+                    },
+                    {
+                        "id": "Moreau3055GALL",
+                        "titre": "1 A T A¬ TT T..."
+                    },
+                    {
+                        "id": "Moreau3290GALL",
+                        "titre": "REMONTRANCE A MONSIEVR LE CARDINAL BVRLESQVE..."
+                    },
+                    {
+                        "id": "Moreau3660GALL",
+                        "titre": "LES SEPT TROMPETTES DV CIEL, ENVOYEES..."
+                    },
+                    {
+                        "id": "Moreau3678GALL",
+                        "titre": "LE SOLDAT EN PEINE DE PRENDRE..."
+                    },
+                    {
+                        "id": "Moreau3802GALL",
+                        "titre": "LE TRANSPORT ET LES PLEVRS DV..."
+                    },
+                    {
+                        "id": "Moreau3935GALL",
+                        "titre": "LE VERITABLE GILLE LE NIAIS. En..."
+                    },
+                    {
+                        "id": "Moreau4034GALL",
+                        "titre": "LES VISAGES QVI SE DEMONTENT. En..."
+                    },
+                    {
+                        "id": "Moreau4038GALL",
+                        "titre": "VISIONS ASTROLOGIQVES DE MICHEL NOSTRADAMVS ſur..."
+                    },
+                    {
+                        "id": "Moreau611GALL",
+                        "titre": "LE BVRLESQUE ON DE CE TEMPS,..."
+                    },
+                    {
+                        "id": "Moreau613GALL",
+                        "titre": "LE BVRLESQVE REMERCIEMENT DES IMPRIMEVRS ET..."
+                    },
+                    {
+                        "id": "Moreau624GALL",
+                        "titre": "RDDIE CAPRICE BACCHIQVE ET BVRLESQVE SVR..."
+                    },
+                    {
+                        "id": "Moreau643GALL",
+                        "titre": "LE CARTEL BVRLESQVE ENTRE DEVX AMIS...."
+                    },
+                    {
+                        "id": "Moreau686GALL",
+                        "titre": "LE CHARIOT DE TRIOMPHE DE LA..."
+                    },
+                    {
+                        "id": "Moreau690GALL",
+                        "titre": "LA CHASSE AVX SATYRES DV TEMPS...."
+                    },
+                    {
+                        "id": "Moreau708GALL",
+                        "titre": "LE COMBAT DE DEVX AVTHEVRS, SVR..."
+                    },
+                    {
+                        "id": "Moreau995GALL",
+                        "titre": "LE DESLOGEMENT DE LA DISCORDE SANS..."
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "trouuera mau uais",
+                    "voye information feroit",
+                    "intereſts noſtre ordre",
+                    "noſtre ordre biens",
+                    "uais luy plaiſt",
+                    "mau uais luy",
+                    "foy ſans reli",
+                    "point intereſt celuy",
+                    "pendu luy faciliter",
+                    "particulier eſtoit regle"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1200GALL",
+                        "titre": "7t e L’EFFROIABLE A T IE..."
+                    },
+                    {
+                        "id": "Moreau1498GBOOKS",
+                        "titre": "2l6 . Vrn ue GLOIRE FAMILIERE..."
+                    },
+                    {
+                        "id": "Moreau3686GBOOKS",
+                        "titre": "SOMMAIRE ELATION e s e i..."
+                    },
+                    {
+                        "id": "Moreau3suppl5GBOOKS",
+                        "titre": "¬ D T ALTRA RELATIONE A..."
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau36GALL",
+                        "titre": "1 aue .¬. ¬¬¬-¬ 28 r..."
+                    },
+                    {
+                        "id": "Moreau1372GALL",
+                        "titre": "DES RTISANS COVRTIS DE I r..."
+                    },
+                    {
+                        "id": "Moreau1377GBOOKS",
+                        "titre": "1 dbas e! 7 c 7..."
+                    },
+                    {
+                        "id": "Moreau1469GALL",
+                        "titre": "SVITTE DBE L ID r re..."
+                    },
+                    {
+                        "id": "Moreau2634GALL",
+                        "titre": ".. ae¬ D 2ſ L L..."
+                    },
+                    {
+                        "id": "Moreau3055GBOOKS",
+                        "titre": "RECVEIL GENER AL amſons Maa ee..."
+                    },
+                    {
+                        "id": "Moreau3847GALL",
+                        "titre": "T A¬ t 10 A LA..."
+                    },
+                    {
+                        "id": "Moreau3859GALL",
+                        "titre": "T lL T L e Al...."
+                    },
+                    {
+                        "id": "Moreau3859GBOOKS",
+                        "titre": "4¬ E¬ 1 -1 1 3..."
+                    },
+                    {
+                        "id": "Moreau3860GALL",
+                        "titre": "e Ee &e A e e..."
+                    },
+                    {
+                        "id": "Moreau3862GALL",
+                        "titre": "TRIOLETS PROPHETIOVES SVRLANAISSANCE DV PRINCE DVCDE..."
+                    },
+                    {
+                        "id": "Moreau3871GALL",
+                        "titre": "74 D IT t 1 11..."
+                    },
+                    {
+                        "id": "Moreau3872GALL",
+                        "titre": "er 1 L T r RIOL...."
+                    },
+                    {
+                        "id": "Moreau514GALL",
+                        "titre": "ar LES ADVIS T 1 1..."
+                    },
+                    {
+                        "id": "Moreau514MAZ",
+                        "titre": "-¬-¬-eqo¬¬ LES ADVIS HEROIQVES ET IMPoTANTS..."
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1161GALL",
+                        "titre": "nDC DIIE I L9 SVR LES..."
+                    },
+                    {
+                        "id": "Moreau1174GBOOKS",
+                        "titre": "te, 12o63 dd:ep’tAe ? LES T..."
+                    },
+                    {
+                        "id": "Moreau1177GBOOKS",
+                        "titre": "LESCHELLE PARTISANS t BVRLESQVES. D1x AââA..."
+                    },
+                    {
+                        "id": "Moreau1510GBOOKS",
+                        "titre": "3 A LE GRAND GERSAY E..."
+                    },
+                    {
+                        "id": "Moreau1521GALL",
+                        "titre": "LA CVERRE BVRLESQVE OV LINIVSTICE I..."
+                    },
+                    {
+                        "id": "Moreau1531GBOOKS",
+                        "titre": "GVERRE CANONS. RAILLERIE BVRLESQVES. s le..."
+                    },
+                    {
+                        "id": "Moreau1659GBOOKS",
+                        "titre": "ooSrtey vofey oojry oojrgy oo5efoseyo t..."
+                    },
+                    {
+                        "id": "Moreau1670GALL",
+                        "titre": "R . u HVMBLE 7T T..."
+                    },
+                    {
+                        "id": "Moreau1763GALL",
+                        "titre": "L...¬¬¬¬¬-¬¬¬¬¬¬¬¬¬¬¬¬-¬¬ LE T TT R Z!..."
+                    },
+                    {
+                        "id": "Moreau1864GBOOKS",
+                        "titre": "r reee ¬ 1 H 1..."
+                    },
+                    {
+                        "id": "Moreau2045GBOOKS",
+                        "titre": "LETTRE re D POLICHINELLE A ILE..."
+                    },
+                    {
+                        "id": "Moreau2098GBOOKS",
+                        "titre": "r¬ L E 1 I E..."
+                    },
+                    {
+                        "id": "Moreau2245GBOOKS",
+                        "titre": "LETTREii¬ 10Y A MONSIEV MAROQVIS oV..."
+                    },
+                    {
+                        "id": "Moreau2496GBOOKS",
+                        "titre": "M onR LA FVNERAILLES VERRE ele..."
+                    },
+                    {
+                        "id": "Moreau2692GALL",
+                        "titre": "D! lL A T T Io..."
+                    },
+                    {
+                        "id": "Moreau2697GALL",
+                        "titre": "1 ¬ e -e eamû ...."
+                    },
+                    {
+                        "id": "Moreau2738GALL",
+                        "titre": "LE T a T TT T..."
+                    },
+                    {
+                        "id": "Moreau2794GALL",
+                        "titre": "TT He D J A J..."
+                    },
+                    {
+                        "id": "Moreau2830GBOOKS",
+                        "titre": "ſ’aSLE 1 L 1 u uV..."
+                    },
+                    {
+                        "id": "Moreau2942GALL",
+                        "titre": "[Illustration] IVLLES MAZARIN CARDINAL, Conseiller du..."
+                    },
+                    {
+                        "id": "Moreau2957GALL",
+                        "titre": ". e. - l 5 1..."
+                    },
+                    {
+                        "id": "Moreau3659GALL",
+                        "titre": "T L L LI B D..."
+                    },
+                    {
+                        "id": "Moreau3850GALL",
+                        "titre": "A¬ L A DE C A..."
+                    },
+                    {
+                        "id": "Moreau3851GALL",
+                        "titre": "eae L T * . ...."
+                    },
+                    {
+                        "id": "Moreau3851GBOOKS",
+                        "titre": ". . 1 ¬ 1 ¬...."
+                    },
+                    {
+                        "id": "Moreau3855GALL",
+                        "titre": "r pe ¬ T 1 LE..."
+                    },
+                    {
+                        "id": "Moreau3864GALL",
+                        "titre": "rT I LES I I 1..."
+                    },
+                    {
+                        "id": "Moreau3866GALL",
+                        "titre": "eD T T 1 11 Il..."
+                    },
+                    {
+                        "id": "Moreau514GBOOKS",
+                        "titre": "LES ADVIS 1 HEROIQVES ET IMPORTANTS..."
+                    },
+                    {
+                        "id": "Moreau573GALL",
+                        "titre": "i0 A9 n i ! 1..."
+                    },
+                    {
+                        "id": "Moreau665GBOOKS",
+                        "titre": "LE CELEBRE FESTIN MoVCHARDS M. DC...."
+                    },
+                    {
+                        "id": "Moreau813GALL",
+                        "titre": "7 V r LE I¬ V..."
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "imprimeur libraire paris",
+                    "marque imprimeur libraire",
+                    "luy renouueler preſence",
+                    "renouueler preſence proteſtations",
+                    "comte palü au",
+                    "faictes eſtre iamais",
+                    "ſon dieu merueilles",
+                    "ciel eſpere donner",
+                    "merueilles ciel eſpere",
+                    "dieu merueilles ciel"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1030GBOOKS",
+                        "titre": "LE S DERNIERES ACTIONS9 ET PAROLES..."
+                    },
+                    {
+                        "id": "Moreau1218GBOOKS",
+                        "titre": "T 1 I1 LL LN I...."
+                    },
+                    {
+                        "id": "Moreau1733GBOOKS",
+                        "titre": "L A IER VSALEM FRANCOISE OV..."
+                    },
+                    {
+                        "id": "Moreau1808GBOOKS",
+                        "titre": "LECONS DES TEEſS PARISIENS, OV LES..."
+                    },
+                    {
+                        "id": "Moreau1846GBOOKS",
+                        "titre": "! ¬¬T¬ T ¬ I IL..."
+                    },
+                    {
+                        "id": "Moreau1851GBOOKS",
+                        "titre": "p gp T re¬ H lL..."
+                    },
+                    {
+                        "id": "Moreau1876GBOOKS",
+                        "titre": "T T¬D E 1 ILL 1..."
+                    },
+                    {
+                        "id": "Moreau1881GBOOKS",
+                        "titre": "LETTRE e¬ ¬ D DVN GRA..."
+                    },
+                    {
+                        "id": "Moreau1896GBOOKS",
+                        "titre": "1 poSo :o éoagoatoegsé: T rn..."
+                    },
+                    {
+                        "id": "Moreau1898GBOOKS",
+                        "titre": "LEIIRE FRANCOIS A MONSEIGNE VR LE..."
+                    },
+                    {
+                        "id": "Moreau1901GBOOKS",
+                        "titre": "r r D r¬ LETTRE I..."
+                    },
+                    {
+                        "id": "Moreau1902GBOOKS",
+                        "titre": "LETTRE PBELLE ROZE A LABBE RIVIERE..."
+                    },
+                    {
+                        "id": "Moreau1922GBOOKS",
+                        "titre": "LETTRE DE CONSOLATION ENVOYEE A MADAME..."
+                    },
+                    {
+                        "id": "Moreau1942GBOOKS",
+                        "titre": "LETTRE RAIlRE se CATLAN le ieſeiee..."
+                    },
+                    {
+                        "id": "Moreau1959GBOOKS",
+                        "titre": "LETTRE DE MADEMOISELLE D T ¬..."
+                    },
+                    {
+                        "id": "Moreau2021GBOOKS",
+                        "titre": "LETTRE OSIEVR BEAVFORT A o SEvV..."
+                    },
+                    {
+                        "id": "Moreau2067GBOOKS",
+                        "titre": "T L ¬ r L T..."
+                    },
+                    {
+                        "id": "Moreau2074GBOOKS",
+                        "titre": "T r rre T 1 4..."
+                    },
+                    {
+                        "id": "Moreau2128GBOOKS",
+                        "titre": "PERE MICHEL RELIGIEVX DE LODRE DE..."
+                    },
+                    {
+                        "id": "Moreau2129GBOOKS",
+                        "titre": "LETTRE DV PRINCE DE GALLE ENVOY..."
+                    },
+                    {
+                        "id": "Moreau2132GBOOKS",
+                        "titre": "r r¬ L I I L..."
+                    },
+                    {
+                        "id": "Moreau2985GBOOKS",
+                        "titre": "R1T ECE QV1 SEST pASSE edisoN..."
+                    },
+                    {
+                        "id": "Moreau3030GBOOKS",
+                        "titre": "le 312318 euA&& , téea ete’pe’’e..."
+                    },
+                    {
+                        "id": "Moreau3559GBOOKS",
+                        "titre": "LE ROMAN DES ESPRITS REVENVS A..."
+                    },
+                    {
+                        "id": "Moreau2suppl111sGBOOKS",
+                        "titre": "LETTRE 2 ET EXHORT ATION DE..."
+                    },
+                    {
+                        "id": "Moreau3suppl77GBOOKS",
+                        "titre": "1 1 1 Z r T..."
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1810GBOOKS",
+                        "titre": "LETTRE . A L’ABBE BVRLRS QV..."
+                    },
+                    {
+                        "id": "Moreau1894GBOOKS",
+                        "titre": "e¬ aaearaa;a-eeeeereeeerrr¬e LETTRE DVN 1J 1..."
+                    },
+                    {
+                        "id": "Moreau1897GBOOKS",
+                        "titre": "LETTRE D’VN SEIGNEVR FRANCOIS EN VOYEE..."
+                    },
+                    {
+                        "id": "Moreau1913GBOOKS",
+                        "titre": "LETTRE p couo rv lon L..."
+                    },
+                    {
+                        "id": "Moreau1932GBOOKS",
+                        "titre": "r ETTD LE 1IE LHERMITE C..."
+                    },
+                    {
+                        "id": "Moreau2006GBOOKS",
+                        "titre": "LETTRE MONSEIGNEVR LE PRINCE CONDE A..."
+                    },
+                    {
+                        "id": "Moreau2051GBOOKS",
+                        "titre": "¬ lle ſ r l. u..."
+                    },
+                    {
+                        "id": "Moreau2079GBOOKS",
+                        "titre": "T TD 1 H LD I..."
+                    },
+                    {
+                        "id": "Moreau2130GBOOKS",
+                        "titre": "ſs r L rD E I..."
+                    },
+                    {
+                        "id": "Moreau2495GBOOKS",
+                        "titre": "LA MORT EFFROYABLE DVN BOVLANGER i..."
+                    },
+                    {
+                        "id": "Moreau2556GBOOKS",
+                        "titre": "-LEE LES TTT E NOVVELLES ASSEVREES..."
+                    },
+                    {
+                        "id": "Moreau2557GBOOKS",
+                        "titre": "NOVVELLES BVRLESQVES PORTE’ES PARLEDVC de Chaſtillon..."
+                    },
+                    {
+                        "id": "Moreau2647GBOOKS",
+                        "titre": "LAL ¬¬¬¬ LAPAI X D p..."
+                    },
+                    {
+                        "id": "Moreau2747GALL",
+                        "titre": "4¬ LA PERLE 1 DE8 rn..."
+                    },
+                    {
+                        "id": "Moreau3596GALL",
+                        "titre": "A 7 E E ¬ ...."
+                    },
+                    {
+                        "id": "Moreau3849GALL",
+                        "titre": "¬ . . 71 BO H..."
+                    },
+                    {
+                        "id": "Moreau3865GALL",
+                        "titre": "A A Al. I ? 2..."
+                    },
+                    {
+                        "id": "Moreau3867GALL",
+                        "titre": "¬ png¬¬ A ¬7 S 9..."
+                    },
+                    {
+                        "id": "Moreau3867GBOOKS",
+                        "titre": "e¬ TRIOLETS SVR LAFRANCE METAMORPHOSEE M...."
+                    },
+                    {
+                        "id": "Moreau439GBOOKS",
+                        "titre": "L’AVANT. DD D VE CELESTE. IE..."
+                    },
+                    {
+                        "id": "Moreau556GBOOKS",
+                        "titre": "a BABILLARD vV 5d TEMPS EN..."
+                    },
+                    {
+                        "id": "Moreau797GALL",
+                        "titre": "vr¬ O-A COOALASNE OV T LETTRE..."
+                    },
+                    {
+                        "id": "Moreau2suppl203GALL",
+                        "titre": "¬ T L. SVR 1 T¬..."
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "trouuera mau uais",
+                    "voye information feroit",
+                    "intereſts noſtre ordre",
+                    "noſtre ordre biens",
+                    "uais luy plaiſt",
+                    "mau uais luy",
+                    "foy ſans reli",
+                    "point intereſt celuy",
+                    "pendu luy faciliter",
+                    "particulier eſtoit regle"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1160GBOOKS",
+                        "titre": "DIVERSES PIECES CE QVI SEST PASSE..."
+                    },
+                    {
+                        "id": "Moreau1532GBOOKS",
+                        "titre": "LE GVERRIER POLITIQVE DISCOVRS QVI POVRRA..."
+                    },
+                    {
+                        "id": "Moreau1865pp.352-360GBOOKS",
+                        "titre": "3j2 2 ge plus aleuré du..."
+                    },
+                    {
+                        "id": "Moreau2suppl113-3GBOOKS",
+                        "titre": "¬ r¬ D L L L..."
+                    },
+                    {
+                        "id": "Moreau1954GALL",
+                        "titre": "LETTRE DE MADAME D T la..."
+                    },
+                    {
+                        "id": "Moreau2043GBOOKS",
+                        "titre": "LETTRE PIERRE DE PROVENCE l EvE..."
+                    },
+                    {
+                        "id": "Moreau2848GALL",
+                        "titre": "LE PREMIER FRANCOIS. T IT EITI..."
+                    },
+                    {
+                        "id": "Moreau814GALL",
+                        "titre": "LE T V DNTD T T..."
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1564GBOOKS",
+                        "titre": "HAR NGVE AA I FAITE A..."
+                    },
+                    {
+                        "id": "Moreau1634GBOOKS",
+                        "titre": "E LES PRESAGES TE DE LA..."
+                    },
+                    {
+                        "id": "Moreau1751GBOOKS",
+                        "titre": "aea oudaa hſoni. .-yioios IOVRNAL DE..."
+                    },
+                    {
+                        "id": "Moreau1817GBOOKS",
+                        "titre": "l 4 le L r r¬..."
+                    },
+                    {
+                        "id": "Moreau1866GBOOKS",
+                        "titre": "T D E LL I IL..."
+                    },
+                    {
+                        "id": "Moreau1869GBOOKS",
+                        "titre": "T r re D l L..."
+                    },
+                    {
+                        "id": "Moreau1879GBOOKS",
+                        "titre": "¬ 1l rr ¬ 1E 11..."
+                    },
+                    {
+                        "id": "Moreau1950GBOOKS",
+                        "titre": "LETTRE MADAME LA DVCHESSE LONGVEVILLE RO..."
+                    },
+                    {
+                        "id": "Moreau1965-2_GALL",
+                        "titre": "Ar o ualdsr ul l r..."
+                    },
+                    {
+                        "id": "Moreau1965GBOOKS",
+                        "titre": "2¬ LETTRE MESSIEVRSDV PARLEMENT DE ov..."
+                    },
+                    {
+                        "id": "Moreau1990GBOOKS",
+                        "titre": "LETTRE MONSIEVR MARESCHAL ala Reyne Pl..."
+                    },
+                    {
+                        "id": "Moreau2020GBOOKS",
+                        "titre": "A LETTRE DE MCNSIEVR LE DvC..."
+                    },
+                    {
+                        "id": "Moreau2263MAZ",
+                        "titre": "LETTRES! DEDEVX AMIS Sur la pſe..."
+                    },
+                    {
+                        "id": "Moreau2856GBOOKS",
+                        "titre": "LES PREMIERES NOVVELLES DE LA T..."
+                    },
+                    {
+                        "id": "Moreau3003GBOOKS",
+                        "titre": "REcIT VERITABLE DE CE QVI SEST..."
+                    },
+                    {
+                        "id": "Moreau3016GBOOKS",
+                        "titre": "RECIT. rD’vr H 1 1 J51..."
+                    },
+                    {
+                        "id": "Moreau3018GBOOKS",
+                        "titre": "D ¬ T ’e L I..."
+                    },
+                    {
+                        "id": "Moreau392GBOOKS",
+                        "titre": "L’ARRIVEE NTDTD LVIIIE I EXTRAORDINAIRE PRANCOIS...."
+                    },
+                    {
+                        "id": "Moreau3103GBOOKS",
+                        "titre": "3 e¬ Mdſtlditodel deideildſebſdſa Veeoe pe..."
+                    },
+                    {
+                        "id": "Moreau3220GBOOKS",
+                        "titre": "¬ RELATION VERITABLE DE CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3241GBOOKS",
+                        "titre": ",¬¬ H1 4A VERITABLE De la..."
+                    },
+                    {
+                        "id": "Moreau821GALL",
+                        "titre": "LE NDDT D H LV III..."
+                    },
+                    {
+                        "id": "Moreau2suppl125GBOOKS",
+                        "titre": "D LE TTRE D V r..."
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1289GBOOKS",
+                        "titre": "HSTADlSSrMENT RI VNIVERSEL DE LA PAIX..."
+                    },
+                    {
+                        "id": "Moreau1376GBOOKS",
+                        "titre": "ou L E E’ETTT l LOII..."
+                    },
+                    {
+                        "id": "Moreau1836GBOOKS",
+                        "titre": "DARISTANDRE CLEOBVLE. es Conjectures Politiques ſur..."
+                    },
+                    {
+                        "id": "Moreau1863GBOOKS",
+                        "titre": "¬ TD 1 l H H..."
+                    },
+                    {
+                        "id": "Moreau1877GBOOKS",
+                        "titre": "gg Qpv Q&& r¬ e¬ D..."
+                    },
+                    {
+                        "id": "Moreau1910GBOOKS",
+                        "titre": "T L J e L 1..."
+                    },
+                    {
+                        "id": "Moreau1936GBOOKS",
+                        "titre": "TRE 317888 DE LA COVR DE..."
+                    },
+                    {
+                        "id": "Moreau1951GBOOKS",
+                        "titre": "103SS 1 &et &e:&ée 2t LETRE..."
+                    },
+                    {
+                        "id": "Moreau1966GBOOKS",
+                        "titre": "LETTRE MESSIEVRS DV PARLEMENT DE rovr..."
+                    },
+                    {
+                        "id": "Moreau2026GBOOKS",
+                        "titre": "T T A IE LE MARESCHAL..."
+                    },
+                    {
+                        "id": "Moreau2094GBOOKS",
+                        "titre": "811s165 r 3 1é 4 1..."
+                    },
+                    {
+                        "id": "Moreau3027GBOOKS",
+                        "titre": "D I 7¬ ¬ VERITABLE DE..."
+                    },
+                    {
+                        "id": "Moreau390GBOOKS",
+                        "titre": "L’ARRIVEE AMBASSADEVRS DV ROYAVME PATAGOCE FRANCE..."
+                    },
+                    {
+                        "id": "Moreau3154GBOOKS",
+                        "titre": "r¬ RELATION l DES DERNIERES NOVVELLES..."
+                    },
+                    {
+                        "id": "Moreau3200GBOOKS",
+                        "titre": "RELATION 3 1o101 VERITABLE DE ce..."
+                    },
+                    {
+                        "id": "Moreau3671GBOOKS",
+                        "titre": "LE SIGNAL E r ¬ COMBAT..."
+                    },
+                    {
+                        "id": "Moreau815GALL",
+                        "titre": "l I 1 VN 3é E..."
+                    },
+                    {
+                        "id": "Moreau2suppl176GBOOKS",
+                        "titre": "5 ¬¬ T ¬ RELATION 3..."
+                    },
+                    {
+                        "id": "Moreau2suppl197GBOOKS",
+                        "titre": "SVITTE ET SEPTIESME ARRIVE EXTRAORDINAIRE D..."
+                    },
+                    {
+                        "id": "Socard77GBOOKS",
+                        "titre": "¬¬-¬ SENTENCE BVRLESOVE. M. DC. XLIX...."
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "imprimeur libraire paris",
+                    "marque imprimeur libraire",
+                    "luy renouueler preſence",
+                    "renouueler preſence proteſtations",
+                    "comte palü au",
+                    "faictes eſtre iamais",
+                    "ſon dieu merueilles",
+                    "ciel eſpere donner",
+                    "merueilles ciel eſpere",
+                    "dieu merueilles ciel"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1470GBOOKS",
+                        "titre": "¬¬¬¬ LA GAETTE r r DES..."
+                    },
+                    {
+                        "id": "Moreau1816GBOOKS",
+                        "titre": "v 1 lETT BVRLESQVE MAZARIN DC..."
+                    },
+                    {
+                        "id": "Moreau1878GBOOKS",
+                        "titre": "J r¬ T 1 H I..."
+                    },
+                    {
+                        "id": "Moreau1883GBOOKS",
+                        "titre": "lL r re L D’VN D..."
+                    },
+                    {
+                        "id": "Moreau1921GBOOKS",
+                        "titre": "LETTRE DE CONSOLATIoON ENVOYEE A MADAME..."
+                    },
+                    {
+                        "id": "Moreau1938GBOOKS",
+                        "titre": "L FE DE T R L..."
+                    },
+                    {
+                        "id": "Moreau2050GBOOKS",
+                        "titre": "T D E 1 I L..."
+                    },
+                    {
+                        "id": "Moreau2084GBOOKS",
+                        "titre": "LETTRE C D Rr12 ENVOY EE..."
+                    },
+                    {
+                        "id": "Moreau2086GBOOKS",
+                        "titre": "e¬¬¬ I ET¬ ¬¬ 1 l..."
+                    },
+                    {
+                        "id": "Moreau2100GBOOKS",
+                        "titre": "-mm ¬¬¬ ETTRE DV COMTE nE..."
+                    },
+                    {
+                        "id": "Moreau2119GBOOKS",
+                        "titre": "LETTRE V S3S MAZARIN, ESCRITEA L’AGENI..."
+                    },
+                    {
+                        "id": "Moreau2490GBOOKS",
+                        "titre": "i AtuA46 MONOLOGVE T 7 ¬..."
+                    },
+                    {
+                        "id": "Moreau2525GBOOKS",
+                        "titre": "3 APPE RENVERSEE chez Renard. Ea..."
+                    },
+                    {
+                        "id": "Moreau2994GBOOKS",
+                        "titre": "1 E T ¬ 1o9 L..."
+                    },
+                    {
+                        "id": "Moreau3577GBOOKS",
+                        "titre": ".. e¬ ¬¬ a¬ .¬ ¬..."
+                    },
+                    {
+                        "id": "Moreau3870GBOOKS",
+                        "titre": "5 AAA D e¬ IRIOLETS e11...."
+                    },
+                    {
+                        "id": "Moreau4017GBOOKS",
+                        "titre": "1 l ¬ E l aſ..."
+                    },
+                    {
+                        "id": "Moreau4017MAZ",
+                        "titre": "VERS BVRLESQVE, PER L’HONNOR. d’un chiamatto..."
+                    },
+                    {
+                        "id": "Moreau684GBOOKS",
+                        "titre": "¬ 4 L’on ne voit plus..."
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1759GALL",
+                        "titre": "4 A aO ,ne uuoa„ 4.22...."
+                    },
+                    {
+                        "id": "Moreau1880GBOOKS",
+                        "titre": "1 ¬l l¬ 1 a eeaes..."
+                    },
+                    {
+                        "id": "Moreau2124MAZ",
+                        "titre": "¬ LETTRE DV PARLEMENT DE BORDEAVX...."
+                    },
+                    {
+                        "id": "Moreau2455MAZ",
+                        "titre": "LE ¬ I D E MERCVRE..."
+                    },
+                    {
+                        "id": "Moreau2870GBOOKS",
+                        "titre": "4d PRISE . CHARENTON E AE..."
+                    },
+                    {
+                        "id": "Moreau3121GBOOKS",
+                        "titre": "r 1 TJ A. AI I..."
+                    },
+                    {
+                        "id": "Moreau3170GBOOKS",
+                        "titre": "88o26 DT ArTT H 4 l..."
+                    },
+                    {
+                        "id": "Moreau3725GBOOKS",
+                        "titre": "7l SVITTE LA RELATION PARLECOVRIER BORDELOIS...."
+                    },
+                    {
+                        "id": "Moreau3726GBOOKS",
+                        "titre": "SVITE Dv T T T l..."
+                    },
+                    {
+                        "id": "Moreau2suppl132MAZ",
+                        "titre": ".¬¬¬ r¬¬¬¬¬¬ 7¬ E T .¬¬¬¬¬¬..."
+                    },
+                    {
+                        "id": "Moreau2suppl164GBOOKS",
+                        "titre": "vr-r¬5 eſr a 9 ¬ ¬..."
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "noſtre couſin",
+                    "meſtre camp",
+                    "ledit marquis",
+                    "nommé vaudran",
+                    "mont rond",
+                    "couſin duc",
+                    "duc elbœuf",
+                    "enguien ſon",
+                    "auec galiottes",
+                    "veritable covrier"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1001GBOOKS",
+                        "titre": "LE DEPART 7 E ; DE..."
+                    },
+                    {
+                        "id": "Moreau166MAZ",
+                        "titre": "ARREST 37 T DE LA COVR..."
+                    },
+                    {
+                        "id": "Moreau1366GBOOKS",
+                        "titre": "Pour M. Bernard de Bautru Aduocat..."
+                    },
+                    {
+                        "id": "Moreau2124GBOOKS",
+                        "titre": "ee r ¬ LETTRE DV PARLEMENT..."
+                    },
+                    {
+                        "id": "Moreau2459GBOOKS",
+                        "titre": "!4. LE 7 53 MERVEILLEVX4 DELA..."
+                    },
+                    {
+                        "id": "Moreau2705GBOOKS",
+                        "titre": "aoe se PARTICVARTE2 A BORDEA VX..."
+                    },
+                    {
+                        "id": "Moreau3010GBOOKS",
+                        "titre": "s ¬ ¬ I I L..."
+                    },
+                    {
+                        "id": "Moreau3104GBOOKS",
+                        "titre": "RELATION DE BORDEAVX. e e e..."
+                    },
+                    {
+                        "id": "Moreau3189GBOOKS",
+                        "titre": "e¬ RELATION A ¬ 6 VERITABLE..."
+                    },
+                    {
+                        "id": "Moreau3214GBOOKS",
+                        "titre": "RELATION VERITABLE pe oi est pse..."
+                    },
+                    {
+                        "id": "Moreau3927GBOOKS",
+                        "titre": "10 LE VERITABLE COVRIER BORDELOIS. APPORTANT..."
+                    },
+                    {
+                        "id": "Moreau3930MAZ",
+                        "titre": "Enuoyé par Meſieurs les De putez..."
+                    },
+                    {
+                        "id": "Moreau2suppl129GBOOKS",
+                        "titre": "1 T D LETTRE T T..."
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau56GALL",
+                        "titre": "AGREABLE RECIT DE CE QVI S'EST..."
+                    },
+                    {
+                        "id": "Moreau2530GALL",
+                        "titre": "LE NOCTVRNE ENLEVEMENT DV ROY HORS..."
+                    },
+                    {
+                        "id": "Moreau2884GALL",
+                        "titre": "PROCEZ BVRLESQVE ENTRE MR LE PRINCE..."
+                    },
+                    {
+                        "id": "Moreau2960GALL",
+                        "titre": "RAILLERIE VNIVERSELLE, DEDIEE AVX CVRIEVX DE..."
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1760GBOOKS",
+                        "titre": "IOVRNAL SIGNALE’ES ACTIONS DE MONSIEVR MOTHE-HOVDANCOVRT..."
+                    },
+                    {
+                        "id": "Moreau2537GBOOKS",
+                        "titre": "p NOVVEAV T 7N lL S..."
+                    },
+                    {
+                        "id": "Moreau2996GBOOKS",
+                        "titre": "RECIT EXACT ET FIDE L DE..."
+                    },
+                    {
+                        "id": "Moreau3049GALL",
+                        "titre": "INVrNrIRE lll l0 u Source qallica.bnf.fr..."
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "1-grams": [
+                    "deloge",
+                    "trouſſe",
+                    "refuſerpas",
+                    "longve",
+                    "tiber",
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1830GBOOKS",
+                        "titre": "q re r¬ ¬¬ 1 H..."
+                    },
+                    {
+                        "id": "Moreau1832GBOOKS",
+                        "titre": "A A ¬ CONTENANT la veritable..."
+                    },
+                    {
+                        "id": "Moreau1848GBOOKS",
+                        "titre": "tetetedleſeeidltttjde ’b LETTRE DVN ABBE A..."
+                    },
+                    {
+                        "id": "Moreau1935GBOOKS",
+                        "titre": "r¬a. ¬ ¬ LEI DE L..."
+                    },
+                    {
+                        "id": "Moreau1964GBOOKS",
+                        "titre": "1 lpe lleledſill dteltelllſe-e LETTRE MESSIEVRS..."
+                    },
+                    {
+                        "id": "Moreau2048GBOOKS",
+                        "titre": "LETTRE DE REMERCIEMENT MESSIEVRS DV PARLEMENT..."
+                    },
+                    {
+                        "id": "Moreau2095GBOOKS",
+                        "titre": "EI MAZARIN EOpou. i ie oeee..."
+                    },
+                    {
+                        "id": "Moreau2542GALL",
+                        "titre": "¬.¬¬¬¬¬ . Er 3¬? .. ¬..."
+                    },
+                    {
+                        "id": "Moreau2842GBOOKS",
+                        "titre": "PREDICTION DE NOSTRADAMVS SVR LA PERTE..."
+                    },
+                    {
+                        "id": "Moreau562GALL",
+                        "titre": "3 . l ô&Aed8 AdA û..."
+                    },
+                    {
+                        "id": "Moreau563GALL",
+                        "titre": "T T T H IA A..."
+                    },
+                    {
+                        "id": "Moreau563GBOOKS",
+                        "titre": "BALLADE A IVLES MAZARIN SVRSON IEV..."
+                    },
+                    {
+                        "id": "Moreau565GALL",
+                        "titre": "a a ¬ . , s..."
+                    },
+                    {
+                        "id": "Moreau566GALL",
+                        "titre": "H Z . T¬ 4 1..."
+                    },
+                    {
+                        "id": "Moreau567GALL",
+                        "titre": "eeeeeſedſe u dedgee2ea81 steoies elſesas e..."
+                    },
+                    {
+                        "id": "Moreau3suppl23GALL",
+                        "titre": "H A . T R T..."
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1968GBOOKS",
+                        "titre": "1 -n l . r J..."
+                    },
+                    {
+                        "id": "Moreau397GBOOKS",
+                        "titre": "L’ARRIVEE DV SEPTIESME COVRIER BORDELOIS. APPORTANT¬..."
+                    },
+                    {
+                        "id": "Moreau3139GBOOKS",
+                        "titre": "¬ Q 3 2 rQo s..."
+                    },
+                    {
+                        "id": "Moreau3273GBOOKS",
+                        "titre": "LE REMERCIEMENT DE LA VILLE d..."
+                    },
+                    {
+                        "id": "Moreau4075MAZ",
+                        "titre": "VRrE SE DE L 33 DECLARATION..."
+                    },
+                    {
+                        "id": "Moreau826GBOOKS",
+                        "titre": "r¬ II 1 H H LE..."
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "imprimeur libraire paris",
+                    "marque imprimeur libraire",
+                    "luy renouueler preſence",
+                    "renouueler preſence proteſtations",
+                    "comte palü au",
+                    "faictes eſtre iamais",
+                    "ſon dieu merueilles",
+                    "ciel eſpere donner",
+                    "merueilles ciel eſpere",
+                    "dieu merueilles ciel"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1624GBOOKS",
+                        "titre": "LE MARESCHAL MOTHE HOVDANCOVR, Due de..."
+                    },
+                    {
+                        "id": "Moreau1761GALL",
+                        "titre": "doofo, ’A T T D T..."
+                    },
+                    {
+                        "id": "Moreau2076GBOOKS",
+                        "titre": "LETTRE DES PEVPLES DE LA PROVINCEDE..."
+                    },
+                    {
+                        "id": "Moreau2083GBOOKS",
+                        "titre": "A rr I L IL L..."
+                    },
+                    {
+                        "id": "Moreau3117GBOOKS",
+                        "titre": "RELATION I pe es oyl ss..."
+                    },
+                    {
+                        "id": "Moreau3137MAZ",
+                        "titre": "RELATION DE LA PA I X..."
+                    },
+                    {
+                        "id": "Moreau825GBOOKS",
+                        "titre": "LE COVRRIER DV TEMPS. oirene en..."
+                    },
+                    {
+                        "id": "Moreau962GBOOKS",
+                        "titre": "A L A L D’VNE PARTIE..."
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau42GALL",
+                        "titre": "IL I T 2 . ¬..."
+                    },
+                    {
+                        "id": "Moreau1121GALL",
+                        "titre": "¬¬---ra,,,. 4 II DIS V9 FACETIEVX..."
+                    },
+                    {
+                        "id": "Moreau1721GBOOKS",
+                        "titre": "LINTERPRETE ESCRITS DV TEMPS. TANT EN..."
+                    },
+                    {
+                        "id": "Moreau1813GBOOKS",
+                        "titre": "éßiuauii eggfE?4 A MONSIEV R D..."
+                    },
+                    {
+                        "id": "Moreau1887GBOOKS",
+                        "titre": "¬-r¬-re aa¬.. ¬ r¬ 1 I..."
+                    },
+                    {
+                        "id": "Moreau1952GBOOKS",
+                        "titre": "e. ¬ o L IL IL..."
+                    },
+                    {
+                        "id": "Moreau1961GBOOKS",
+                        "titre": "eeet L GvEE tea oue ieie..."
+                    },
+                    {
+                        "id": "Moreau2541GALL",
+                        "titre": "NOVVEAVX I T r D TRIOLHE1..."
+                    },
+                    {
+                        "id": "Moreau2554MAZ",
+                        "titre": "51 LA NOVVELLE VERITABLE FRANCOISl ESToe..."
+                    },
+                    {
+                        "id": "Moreau2599GBOOKS",
+                        "titre": "ONOPHAGE LE MANGEVR D’ASNE. rmnna ntt..."
+                    },
+                    {
+                        "id": "Moreau2853GALL",
+                        "titre": "¬¬¬¬¬¬¬¬e -a¬¬¬¬¬ PMIERE PART1E DELA T..."
+                    },
+                    {
+                        "id": "Moreau2986GBOOKS",
+                        "titre": "SVR LA CONFERENCE DE RVEL n..."
+                    },
+                    {
+                        "id": "Moreau3004MAZ",
+                        "titre": "¬ RECIT VERITABLE de ce qui..."
+                    },
+                    {
+                        "id": "Moreau3577GALL",
+                        "titre": "1 1 l LE DES rr..."
+                    },
+                    {
+                        "id": "Moreau3749GALL",
+                        "titre": "T T r¬ r IHHIA L..."
+                    },
+                    {
+                        "id": "Moreau3794GBOOKS",
+                        "titre": "¬ . 1. .. 11. ...."
+                    },
+                    {
+                        "id": "Moreau3848GALL",
+                        "titre": "r L. V LES IOLETS DAPOLLON..."
+                    },
+                    {
+                        "id": "Moreau3854GALL",
+                        "titre": "T V e? 1 1 1...."
+                    },
+                    {
+                        "id": "Moreau3856GBOOKS",
+                        "titre": "LES RoLETS DV GRAND COMBAT. SAVOYARD..."
+                    },
+                    {
+                        "id": "Moreau3857GALL",
+                        "titre": "27 r I TRIOLETS r¬ DV..."
+                    },
+                    {
+                        "id": "Moreau3858GBOOKS",
+                        "titre": "TRIOLETS D V PRINCE DE CONDE...."
+                    },
+                    {
+                        "id": "Moreau3870GALL",
+                        "titre": "T r 1 1 1 I..."
+                    },
+                    {
+                        "id": "Moreau3872GBOOKS",
+                        "titre": "¬ T, 2 . . l..."
+                    },
+                    {
+                        "id": "Moreau429GBOOKS",
+                        "titre": "a¬ LASTROLOGVE BVRLESQVE. ttis &ev&gg LASTROLOGVE..."
+                    },
+                    {
+                        "id": "Moreau562GBOOKS",
+                        "titre": "On l’exalte pourtant, on le iette..."
+                    },
+                    {
+                        "id": "Moreau572GBOOKS",
+                        "titre": "aaaa-a r- ’¬ AI e RIDICVLE..."
+                    },
+                    {
+                        "id": "Moreau687GBOOKS",
+                        "titre": "LES CHARMANS DES BARRICADES. DE LA..."
+                    },
+                    {
+                        "id": "Moreau850GBOOKS",
+                        "titre": "¬ IE CROTESQVE ADIE V D..."
+                    },
+                    {
+                        "id": "Labadie13_BOR",
+                        "titre": "eddounuaout tuonpeuttaooqhbo8 eisſeli&oieeoq eseoteleudeesote¬ Q ueo..."
+                    },
+                    {
+                        "id": "Moreau1suppl178GALL",
+                        "titre": "7¬ A le V L ....."
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "1-grams": [
+                    "deloge",
+                    "trouſſe",
+                    "refuſerpas",
+                    "longve",
+                    "tiber",
+                    "dieppe",
+                    "avremesnil",
+                    "fciers",
+                    "emens",
+                    "sacrifier"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1974GBOOKS",
+                        "titre": "J r T¬ I H H..."
+                    },
+                    {
+                        "id": "Moreau3734GALL",
+                        "titre": "SVR LA CONFERENCE DE RVEL EN..."
+                    },
+                    {
+                        "id": "Moreau564GALL",
+                        "titre": "SiadeeAeeelulseeeluua, &eeeſde ed ede e pe..."
+                    },
+                    {
+                        "id": "Moreau564GBOOKS",
+                        "titre": "2 Noſtradamus n’a que tropvraimentdit, Rouges..."
+                    },
+                    {
+                        "id": "Moreau567GBOOKS",
+                        "titre": "Le Peuple eſt ſot de ne..."
+                    },
+                    {
+                        "id": "Moreau683pp.7-8GBOOKS",
+                        "titre": "-aii eeree CHANT ROYAL DV SIEGE..."
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "imprimeur libraire paris",
+                    "marque imprimeur libraire",
+                    "luy renouueler preſence",
+                    "renouueler preſence proteſtations",
+                    "comte palü au",
+                    "faictes eſtre iamais",
+                    "ſon dieu merueilles",
+                    "ciel eſpere donner",
+                    "merueilles ciel eſpere",
+                    "dieu merueilles ciel"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau40GALL",
+                        "titre": "L'ADIEV DE MAZARIN. BVRLESQVE. [Marque imprimeur-libraire]..."
+                    },
+                    {
+                        "id": "Moreau65GALL",
+                        "titre": "AMBASSADE BVRLESQVE DES FILLES DE IOYE..."
+                    },
+                    {
+                        "id": "Moreau91GALL",
+                        "titre": "L'ANTI- LIBELLE, EN VERS BVRLESQVES. [Marque..."
+                    },
+                    {
+                        "id": "Moreau1050GALL",
+                        "titre": "LA DEROVTE DES MONOPOLEVRS En vers..."
+                    },
+                    {
+                        "id": "Moreau1073GALL",
+                        "titre": "DIALOGVE CONTENANT LA DISPVTE ET L'ACCORD..."
+                    },
+                    {
+                        "id": "Moreau114GALL",
+                        "titre": "APOLOGIE DV CARDINAL BVRLESQVE. A PARIS,..."
+                    },
+                    {
+                        "id": "Moreau1522GALL",
+                        "titre": ".l S A c lj l¬..."
+                    },
+                    {
+                        "id": "Moreau2207GALL",
+                        "titre": "LETTRE DV VRAY SOLDAT FRANCOIS AV..."
+                    },
+                    {
+                        "id": "Moreau2255GALL",
+                        "titre": "LETTRE SVRPRISE ESCRITE AIV LES MAZARIN,..."
+                    },
+                    {
+                        "id": "Moreau2598GALL",
+                        "titre": "L'ON DV TEMPS Tout nouueau, en..."
+                    },
+                    {
+                        "id": "Moreau2785GALL",
+                        "titre": "PLAINTES BVRLESQVES DV SECRETAIRE EXTRAVAGANT. Des..."
+                    },
+                    {
+                        "id": "Moreau2810GALL",
+                        "titre": "pa pçs a V a¬ ¬..."
+                    },
+                    {
+                        "id": "Moreau2900GALL",
+                        "titre": "LA PROMENADE DES BOVRGEOIS DE PARIS,..."
+                    },
+                    {
+                        "id": "Moreau2974GALL",
+                        "titre": "LE RAMAGE DE L'OYSEAV MIS EN..."
+                    },
+                    {
+                        "id": "Moreau3466GALL",
+                        "titre": "REQVESTE BVRLESQVE DES PARTISANS AV PARLEMENT..."
+                    },
+                    {
+                        "id": "Moreau3595GALL",
+                        "titre": "SATYRE SVR LES TROVBLES DE PARIS,..."
+                    },
+                    {
+                        "id": "Moreau3687GALL",
+                        "titre": "SONGE BVRLESQVE DE POLICHINEL SVR LE..."
+                    },
+                    {
+                        "id": "Moreau571GALL",
+                        "titre": "1H ! BALLET DANCE DEVANT LE..."
+                    },
+                    {
+                        "id": "Moreau648GALL",
+                        "titre": "LA CATASTROPHE BVRLESQVE. SVR L'ENLEVEMENT DV..."
+                    },
+                    {
+                        "id": "Moreau689GALL",
+                        "titre": "LA CHASSE AVX LOVPS ET AVX..."
+                    },
+                    {
+                        "id": "Moreau713GALL",
+                        "titre": "LE COMBAT FVRIEVX DE DEVX ITALIENS...."
+                    },
+                    {
+                        "id": "Moreau816GALL",
+                        "titre": "LE COVRIER BVRLESQVE DE LA PAIX..."
+                    },
+                    {
+                        "id": "Moreau854GALL",
+                        "titre": "LA CVRIEVSE ET PLAISANTE GVERRE DES..."
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "noſtre couſin",
+                    "meſtre camp",
+                    "ledit marquis",
+                    "nommé vaudran",
+                    "mont rond",
+                    "couſin duc",
+                    "duc elbœuf",
+                    "enguien ſon",
+                    "auec galiottes",
+                    "veritable covrier"
+                ],
+                "3-grams": [
+                    "imprimeur libraire paris",
+                    "marque imprimeur libraire",
+                    "luy renouueler preſence",
+                    "renouueler preſence proteſtations",
+                    "comte palü au",
+                    "faictes eſtre iamais",
+                    "ſon dieu merueilles",
+                    "ciel eſpere donner",
+                    "merueilles ciel eſpere",
+                    "dieu merueilles ciel"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1326GBOOKS",
+                        "titre": "EXE MPLES POLITIQVES u oe n..."
+                    },
+                    {
+                        "id": "Moreau1895GBOOKS",
+                        "titre": "r D 1 I I I..."
+                    },
+                    {
+                        "id": "Moreau1916GBOOKS",
+                        "titre": "LETTRE e D’ANGLETERRE. E.Po le¬ aieie..."
+                    },
+                    {
+                        "id": "Moreau2068GBOOKS",
+                        "titre": "LETTRE n u ue e i..."
+                    },
+                    {
+                        "id": "Moreau2071GBOOKS",
+                        "titre": "ETD ¬¬ IL I I DV..."
+                    },
+                    {
+                        "id": "Moreau2101GBOOKS",
+                        "titre": "I I L COMTE DvC DOLIVAREZ..."
+                    },
+                    {
+                        "id": "Moreau2114GBOOKS",
+                        "titre": ", -r¬¬ LA LETTRE R A..."
+                    },
+                    {
+                        "id": "Moreau2987GBOOKS",
+                        "titre": "¬ 7¬ 1L L QVI SEST..."
+                    },
+                    {
+                        "id": "Moreau3219GBOOKS",
+                        "titre": ". . ATION 4 AA 1..."
+                    },
+                    {
+                        "id": "Moreau827GBOOKS",
+                        "titre": "LE I R H CVIIL HXTRAORDINAIRE...."
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "ſes",
+                    "roy",
+                    "ſur",
+                    "voſtre",
+                    "ſans"
+                ],
+                "2-grams": [
+                    "cardinal mazarin",
+                    "monſieur duc",
+                    "monſieur prince",
+                    "ladite cour",
+                    "eſt vne",
+                    "duc orleans",
+                    "auſſi toſt",
+                    "monſieur preſident",
+                    "long temps",
+                    "ville paris"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "mil ſix cens",
+                    "marque imprimeur libraire",
+                    "imprimeur libraire paris",
+                    "chambres aſſemble es",
+                    "ville faux bourgs",
+                    "monſieur prince conty",
+                    "iules deloge adieu",
+                    "deloge adieu boutique",
+                    "trouſſe bagage quitte"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1638GALL",
+                        "titre": "r¬ HlS I A VERITABLE DEe..."
+                    },
+                    {
+                        "id": "Moreau1741GBOOKS",
+                        "titre": "¬ L A CONTENAnNT lL CE..."
+                    },
+                    {
+                        "id": "Moreau1742GBOOKS",
+                        "titre": "T T V I LN A..."
+                    },
+                    {
+                        "id": "Moreau1743GBOOKS",
+                        "titre": "IOVRNAL l A ES ASSEMBLEES PARLEMENT...."
+                    },
+                    {
+                        "id": "Moreau830GBOOKS",
+                        "titre": "rrs LE N 7 L V..."
+                    },
+                    {
+                        "id": "Moreau3suppl47GBOOKS",
+                        "titre": "IITTT l I IAD II I..."
+                    }
+                ]
+            }
+        ],
+        "1651-1653": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "tin",
+                    "ene",
+                    "fourbe",
+                    "adieu",
+                    "bis",
+                    "eie",
+                    "iule",
+                    "bougre",
+                    "iules",
+                    "gaſton"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1463GBOOKS",
+                        "titre": "IALIMATIAS BVRLESQVE DV CARDINAL MAZARIN. M...."
+                    },
+                    {
+                        "id": "Moreau2436GBOOKS",
+                        "titre": "A tiroo AlE E e auu8..."
+                    },
+                    {
+                        "id": "Moreau2538GBOOKS",
+                        "titre": "QVATRAIN 4 SvVR LES oDoMOnToDmZa. 3y..."
+                    },
+                    {
+                        "id": "Moreau3846GBOOKS",
+                        "titre": "Aa¬ A r !1 5 5511..."
+                    },
+                    {
+                        "id": "Moreau568GALL",
+                        "titre": "L . 1 1 7 2Z..."
+                    },
+                    {
+                        "id": "Moreau570GALL",
+                        "titre": "LES TV 7 ES ¬ ¬..."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1745-2GBOOKS",
+                        "titre": "¬ IOVRNAL AANGERS ie 0 e¬..."
+                    },
+                    {
+                        "id": "Moreau1757GBOOKS",
+                        "titre": "IOVRNAL DE TOVT CE QVI S’EST..."
+                    },
+                    {
+                        "id": "Moreau2282MAZ",
+                        "titre": "RO Y. ENVOTEES A MESSIEVRS LES..."
+                    },
+                    {
+                        "id": "Moreau2889GBOOKS",
+                        "titre": "VERBAL. T CONTENANT CE QVI s’eſt..."
+                    },
+                    {
+                        "id": "Moreau3097GBOOKS",
+                        "titre": "D T RELATION CONTENANT LA SVITTE..."
+                    },
+                    {
+                        "id": "Moreau3134GBOOKS",
+                        "titre": "oie, : vr¬ Qune3 . ...."
+                    },
+                    {
+                        "id": "Moreau3216GBOOKS",
+                        "titre": "RELATION 1 veritable de ce qui..."
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1778GALL",
+                        "titre": "LA IVLIADE OV DISCOVRS DE L'EVROPE..."
+                    },
+                    {
+                        "id": "Moreau723GALL",
+                        "titre": "LA COMPARAISON DES COMPARAISONS AVX MAZARINS..."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1875GBOOKS",
+                        "titre": "4,. ¬ pllePtelſd lpiepe ? T..."
+                    },
+                    {
+                        "id": "Moreau1903GBOOKS",
+                        "titre": "T parD E VE H¬ AAA..."
+                    },
+                    {
+                        "id": "Moreau1906GBOOKS",
+                        "titre": "LETTRE DE CACHET DV ROY ENVOYEE..."
+                    },
+                    {
+                        "id": "Moreau1935pp.22-24GALL",
+                        "titre": "7 na. e--s ¬.¬,¬¬ J ¬..."
+                    },
+                    {
+                        "id": "Moreau2042GBOOKS",
+                        "titre": "LETTRE DENOSSEI. ’ gneurs de la..."
+                    },
+                    {
+                        "id": "Moreau2110GBOOKS",
+                        "titre": "r e¬ re¬ L L E..."
+                    },
+                    {
+                        "id": "Moreau2113GBOOKS",
+                        "titre": "S LETIRE Dpsscdlx oe ee ae..."
+                    },
+                    {
+                        "id": "Moreau2172LYO",
+                        "titre": "J r r D L L..."
+                    },
+                    {
+                        "id": "Moreau2409MAZ",
+                        "titre": "1 e e ieie DE L’ARME’E..."
+                    },
+                    {
+                        "id": "Moreau3255GBOOKS",
+                        "titre": "A T T DE 1 ELA..."
+                    },
+                    {
+                        "id": "Moreau2suppl134GBOOKS",
+                        "titre": "LETTRES 3ooos 9 1 MONITOIRES TTrT..."
+                    },
+                    {
+                        "id": "Moreau2suppl84GBOOKS",
+                        "titre": "V 7 r EXTRAICOT DES REGISTRES..."
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1113MAZ",
+                        "titre": "DISCOVRS DE L’AVTHORITE lne e eie..."
+                    },
+                    {
+                        "id": "Moreau1351GBOOKS",
+                        "titre": "rD A TH¬ DV PARLEMENT. eou..."
+                    },
+                    {
+                        "id": "Moreau1740GALL",
+                        "titre": "LE IOVRNAL ieie Paris le lendredy..."
+                    },
+                    {
+                        "id": "Moreau1838GBOOKS",
+                        "titre": "2 T 1 1 LL l..."
+                    },
+                    {
+                        "id": "Moreau1870GBOOKS",
+                        "titre": "AA lpAAt l’ ’̈A? T e¬..."
+                    },
+                    {
+                        "id": "Moreau1884GBOOKS",
+                        "titre": "I E1¬ H E E DVN..."
+                    },
+                    {
+                        "id": "Moreau2030GBOOKS",
+                        "titre": "t:,, t t ’:pe LETTRE E..."
+                    },
+                    {
+                        "id": "Moreau2059GBOOKS",
+                        "titre": "J tm r¬ le iſl A..."
+                    },
+                    {
+                        "id": "Moreau2140MAZ",
+                        "titre": "rpe r¬ lL I. r DV..."
+                    },
+                    {
+                        "id": "Moreau3057GBOOKS",
+                        "titre": "REDVCTION DE,VILIE DANGERS DV ROY. alep..."
+                    },
+                    {
+                        "id": "Moreau3146GBOOKS",
+                        "titre": "RELATION 1 DE TOVT CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3180GBOOKS",
+                        "titre": "3o29 T ſRELATION H 1 VERITABLE,..."
+                    },
+                    {
+                        "id": "Moreau3204GBOOKS",
+                        "titre": "DLA’ION 3 VERITABLE DE CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3225GBOOKS",
+                        "titre": "RELATION 1 VERITABLE e eue e..."
+                    },
+                    {
+                        "id": "Moreau3986GBOOKS",
+                        "titre": "lA LAA rm V II I..."
+                    },
+                    {
+                        "id": "Moreau831GALL",
+                        "titre": "LE DDD H H LVIIIE GENERA..."
+                    },
+                    {
+                        "id": "Moreau2suppl170GALL",
+                        "titre": "RELA ¬ ¬ L LA DE..."
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "1-grams": [
+                    "tin",
+                    "ene",
+                    "fourbe",
+                    "adieu",
+                    "bis",
+                    "eie",
+                    "iule",
+                    "bougre",
+                    "iules",
+                    "gaſton"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1839GBOOKS",
+                        "titre": "LETTRE osrorvn BEAVFoRT Sur limporanee dte..."
+                    },
+                    {
+                        "id": "Moreau1986GBOOKS",
+                        "titre": "T TD ILE I I E..."
+                    },
+                    {
+                        "id": "Moreau2037GBOOKS",
+                        "titre": "ns,. ¬¬¬ aaaanſa sEe1 e oiiv¬..."
+                    },
+                    {
+                        "id": "Moreau2096GBOOKS",
+                        "titre": "I e! LETTRE C ARDINAL doideids..."
+                    },
+                    {
+                        "id": "Moreau2494MAZ",
+                        "titre": "LA So le r¬ PAR LES..."
+                    },
+                    {
+                        "id": "Moreau2704GBOOKS",
+                        "titre": "LES PARTICVLARITE DE CE QVI SEST..."
+                    },
+                    {
+                        "id": "Moreau3119GBOOKS",
+                        "titre": "RELATION D1I DE CE QVI SEST..."
+                    },
+                    {
+                        "id": "Moreau3122GBOOKS",
+                        "titre": "RELTION DE CE QVI S’EST PASSE’..."
+                    },
+                    {
+                        "id": "Moreau3149GBOOKS",
+                        "titre": "¬ RELATION DE TOVT CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3230GBOOKS",
+                        "titre": "-aai VE ¬ ITABLE ¬ E..."
+                    },
+                    {
+                        "id": "Moreau3381GBOOKS",
+                        "titre": "RESPONSE PARLEMENT BVRLESQVE PONTOISE L’ANTI-BVRLESQVE Du..."
+                    },
+                    {
+                        "id": "Moreau3570GBOOKS",
+                        "titre": "LA RV Z E MAZARINE DESCOVVERTE,..."
+                    },
+                    {
+                        "id": "Moreau3973GBOOKS",
+                        "titre": "¬¬ LES VERITABLES Nouuelles arriuées de..."
+                    },
+                    {
+                        "id": "Moreau2suppl135GBOOKS",
+                        "titre": "ILETTRES vETALES Dt LORRAINE ASON ALTESSE..."
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1543GALL",
+                        "titre": "HARANGUE BURLESQUE FAITE A MADEMOISELLE AU..."
+                    },
+                    {
+                        "id": "Moreau207GALL",
+                        "titre": "LES VERITEZ ABSOLVES, ET SANS CONTREDIT...."
+                    },
+                    {
+                        "id": "Moreau2583GALL",
+                        "titre": "LES OEVFS ROVGE A MAZARIN Apreſté..."
+                    },
+                    {
+                        "id": "Moreau3094GALL",
+                        "titre": "RELATION BVRLESQVE VERITABLE De tout ce..."
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1317-2GBOOKS",
+                        "titre": "LEXAMEN DELAVIE TTT7 T DES IVI9..."
+                    },
+                    {
+                        "id": "Moreau1471GBOOKS",
+                        "titre": "6A ’tTE TEle 3 dl .¬¬,..."
+                    },
+                    {
+                        "id": "Moreau1504GBOOKS",
+                        "titre": "l ¬3 2¬. ; 1¬ ....."
+                    },
+                    {
+                        "id": "Moreau1931GBOOKS",
+                        "titre": "I r¬ D E LE I..."
+                    },
+                    {
+                        "id": "Moreau1939GBOOKS",
+                        "titre": "-ys¬ 1 E ¬ ¬ l..."
+                    },
+                    {
+                        "id": "Moreau1949GBOOKS",
+                        "titre": "LETTRE ou6 DE MADAME LA DVCHESSE..."
+                    },
+                    {
+                        "id": "Moreau2003GBOOKS",
+                        "titre": "Ee E 1H1 H H L..."
+                    },
+                    {
+                        "id": "Moreau2081GALL",
+                        "titre": "l ¬ A re e D..."
+                    },
+                    {
+                        "id": "Moreau2107GBOOKS",
+                        "titre": "TErrue DE LAVRAINE. A oNSENEv DE..."
+                    },
+                    {
+                        "id": "Moreau2253GALL",
+                        "titre": "1 d pDI e 7 ¬N..."
+                    },
+                    {
+                        "id": "Moreau3705GBOOKS",
+                        "titre": "SOVPER DE PONTOISE LES DEpVTE2 ru..."
+                    },
+                    {
+                        "id": "Moreau3741GBOOKS",
+                        "titre": "SYNDICQ lior tout ce qui ſe..."
+                    },
+                    {
+                        "id": "Moreau569GALL",
+                        "titre": "T 1 ! lA! HALHA D..."
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1019GBOOKS",
+                        "titre": "LA DERNIERE ’ A TT DEFAIIE..."
+                    },
+                    {
+                        "id": "Moreau1819GALL",
+                        "titre": "eeaae--¬¬--oe aaaaroaarrenaraoeaamar¬¬-T¬¬ , 6 5 ce..."
+                    },
+                    {
+                        "id": "Moreau1945GBOOKS",
+                        "titre": "T rH E LETTRE REINE DE..."
+                    },
+                    {
+                        "id": "Moreau1960GBOOKS",
+                        "titre": "aii, LETTRE lDreostllt ROYALLE eli rar..."
+                    },
+                    {
+                        "id": "Moreau1985GBOOKS",
+                        "titre": "I I TIT 1 IAI I..."
+                    },
+                    {
+                        "id": "Moreau2008GBOOKS",
+                        "titre": "LETTRE MONSEIGNEVR PRINCE Aso rEsSE ROYALLE..."
+                    },
+                    {
+                        "id": "Moreau2011GBOOKS",
+                        "titre": "LETTRE LE PRINCE A SON ALTESSE..."
+                    },
+                    {
+                        "id": "Moreau2019GBOOKS",
+                        "titre": "pe¬ 1 L lL T L...."
+                    },
+                    {
+                        "id": "Moreau2061GBOOKS",
+                        "titre": "D ¬ I 1 L I..."
+                    },
+                    {
+                        "id": "Moreau2082GBOOKS",
+                        "titre": "LETTRE DV BOVRGEOIS DESINTERESSE. s. A¬..."
+                    },
+                    {
+                        "id": "Moreau2103GBOOKS",
+                        "titre": "EE ’ AA IL IL I..."
+                    },
+                    {
+                        "id": "Moreau2105GBOOKS",
+                        "titre": "LETTRE DV DVC DE LORRAINE AV..."
+                    },
+                    {
+                        "id": "Moreau2126GBOOKS",
+                        "titre": "r¬ r¬ J l lL L..."
+                    },
+                    {
+                        "id": "Moreau3142MAZ",
+                        "titre": "! RELATION DE TOVT CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3143GBOOKS",
+                        "titre": "ATT T uin¬ 1 A AALZ..."
+                    },
+                    {
+                        "id": "Moreau3151GBOOKS",
+                        "titre": "1 T ELAI I ON du..."
+                    },
+                    {
+                        "id": "Moreau3188GBOOKS",
+                        "titre": "L A RELATION VERITABLE, Contenant le..."
+                    },
+                    {
+                        "id": "Moreau3190MAZ",
+                        "titre": "IDA L LU IN VERITABLE CONTENANT..."
+                    },
+                    {
+                        "id": "Moreau3247GBOOKS",
+                        "titre": "DJ A rTJ’T 1 DDA LIN..."
+                    },
+                    {
+                        "id": "Moreau3256GBOOKS",
+                        "titre": "D T ATT 1 1 ...."
+                    },
+                    {
+                        "id": "Moreau3665GBOOKS",
+                        "titre": "BRITANIOVE. LA TRAHISON DV ROV DE..."
+                    },
+                    {
+                        "id": "Moreau823GBOOKS",
+                        "titre": "18. COVRRIER DE LA PAI X,..."
+                    },
+                    {
+                        "id": "Moreau824GBOOKS",
+                        "titre": "LE COVRRIER DE PONTOISE. eneueueee lien..."
+                    },
+                    {
+                        "id": "Moreau2suppl65GBOOKS",
+                        "titre": "L A e ¬ DEFFAICTE DES..."
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1706GBOOKS",
+                        "titre": "LES iNSTATES V Y T DE..."
+                    },
+                    {
+                        "id": "Moreau1991GALL",
+                        "titre": "T r¬ A DE MONSIEVR T..."
+                    },
+                    {
+                        "id": "Moreau1991GBOOKS",
+                        "titre": "LETTRE SC ARON M d ſin..."
+                    },
+                    {
+                        "id": "Moreau2439GBOOKS",
+                        "titre": "MEDECIN POLITIOVE QVI DONNE VN ſouuerain..."
+                    },
+                    {
+                        "id": "Moreau2538GALL",
+                        "titre": "T L. NOVVE T 7 4..."
+                    },
+                    {
+                        "id": "Moreau3720-2GBOOKS",
+                        "titre": "q¬¬¬¬¬¬¬ STRATAGESME POVR ET CONTRE MAZARIN..."
+                    },
+                    {
+                        "id": "Moreau3720GBOOKS",
+                        "titre": "Soie,5 STRATAGESME POVRET CONTRE MAZARIN EN..."
+                    },
+                    {
+                        "id": "Moreau3788GBOOKS",
+                        "titre": "LE TOVR J aleie. CHARLES eee¬..."
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "1-grams": [
+                    "tin",
+                    "ene",
+                    "fourbe",
+                    "adieu",
+                    "bis",
+                    "eie",
+                    "iule",
+                    "bougre",
+                    "iules",
+                    "gaſton"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1936pp.19-21GALL",
+                        "titre": "¬...¬¬.. A s¬ r r¬ D..."
+                    },
+                    {
+                        "id": "Moreau2022GBOOKS",
+                        "titre": "LETT RE I e¬ e¬ LE..."
+                    },
+                    {
+                        "id": "Moreau2028GBOOKS",
+                        "titre": "Lettre de onſieur ie Hrnice a’veſ¬..."
+                    },
+                    {
+                        "id": "Moreau2053GBOOKS",
+                        "titre": "n rr LETTTRE SoN Al TESSE..."
+                    },
+                    {
+                        "id": "Moreau2135MAZ",
+                        "titre": "T r q?¬ 1 H l..."
+                    },
+                    {
+                        "id": "Moreau2544MAZ",
+                        "titre": "9 LA NOVVELLE ¬! DEEEATE DE..."
+                    },
+                    {
+                        "id": "Moreau2871GBOOKS",
+                        "titre": "LA PRISE LA VILLE DE CREIL..."
+                    },
+                    {
+                        "id": "Moreau3007GBOOKS",
+                        "titre": "a . I T ¬ N..."
+                    },
+                    {
+                        "id": "Moreau388GBOOKS",
+                        "titre": "LAIHR DE MONSIEVR LE DV EE..."
+                    },
+                    {
+                        "id": "Moreau394MAZ",
+                        "titre": "D D T T r LARRIVEE..."
+                    },
+                    {
+                        "id": "Moreau3181GBOOKS",
+                        "titre": "RELATION VERITABLE CONTENANT LA DE¬ FAITE..."
+                    },
+                    {
+                        "id": "Moreau3205GBOOKS",
+                        "titre": "RELATION H T oies elan EN..."
+                    },
+                    {
+                        "id": "Moreau3572GBOOKS",
+                        "titre": "LA SAISIE ¬ T 1I A..."
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau19GBOOKS",
+                        "titre": "L’ACCOVCHE’E ESPAGNOLE LECAOQVET DES POLITIQVES: La..."
+                    },
+                    {
+                        "id": "Moreau1652GALL",
+                        "titre": "r ¬ - . p ...."
+                    },
+                    {
+                        "id": "Moreau1666GBOOKS",
+                        "titre": "L’HOROSCOPE DV ROY. eul er e..."
+                    },
+                    {
+                        "id": "Moreau1691GBOOKS",
+                        "titre": "LINMANVS DVMAZARIN AVEC LA PRIERE DE..."
+                    },
+                    {
+                        "id": "Moreau2069GBOOKS",
+                        "titre": "T H H M ADLD DES..."
+                    },
+                    {
+                        "id": "Moreau2701GALL",
+                        "titre": "2 LE D T RT T..."
+                    },
+                    {
+                        "id": "Moreau2829GBOOKS",
+                        "titre": "LE POT AVX ROSES CE 7U..."
+                    },
+                    {
+                        "id": "Moreau3114GBOOKS",
+                        "titre": "RELATION DECEQVI CEST PASSE A LACOVR...."
+                    },
+                    {
+                        "id": "Moreau3742GBOOKS",
+                        "titre": "7 LE NDIC DV PEVPLE FRANCOIS...."
+                    },
+                    {
+                        "id": "Moreau672GBOOKS",
+                        "titre": "LA AVT 7 S 4 CEINVIE..."
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1041GBOOKS",
+                        "titre": "LES DERNIERES DC RESOLVTIONS DE SON..."
+                    },
+                    {
+                        "id": "Moreau1764GBOOKS",
+                        "titre": "4¬ 30931S6 IT IST IV RINAL..."
+                    },
+                    {
+                        "id": "Moreau2297GBOOKS",
+                        "titre": "Sul y: LA LEVEE T Y..."
+                    },
+                    {
+                        "id": "Moreau2386MAZ",
+                        "titre": "l MANIFESTE DES BOVRDELOIS. Contenant le..."
+                    },
+                    {
+                        "id": "Moreau2718MAZ",
+                        "titre": "ll LES D T 7 PARTICVLARITEZ..."
+                    },
+                    {
+                        "id": "Moreau2847GBOOKS",
+                        "titre": "m a coVRRi DES PRINCES Pornv..."
+                    },
+                    {
+                        "id": "Moreau2879GBOOKS",
+                        "titre": "L A PRISE DV CHASTEA V..."
+                    },
+                    {
+                        "id": "Moreau2999GBOOKS",
+                        "titre": "2 1 8S976 r¬ 1 L..."
+                    },
+                    {
+                        "id": "Moreau3000GBOOKS",
+                        "titre": "RECI T T ¬ 4 VERITABLE..."
+                    },
+                    {
+                        "id": "Moreau3005GBOOKS",
+                        "titre": "3o8 I D T ¬ 1..."
+                    },
+                    {
+                        "id": "Moreau3006GBOOKS",
+                        "titre": "REC I ¬ VERITABLE. MERSAN. roupes..."
+                    },
+                    {
+                        "id": "Moreau3019GBOOKS",
+                        "titre": "T - T ¬ ¬ L..."
+                    },
+                    {
+                        "id": "Moreau3096GBOOKS",
+                        "titre": "D E T RELATION CONTENANT CE..."
+                    },
+                    {
+                        "id": "Moreau3108GBOOKS",
+                        "titre": "RELATION DE CE OQVI SEST fate..."
+                    },
+                    {
+                        "id": "Moreau3130GBOOKS",
+                        "titre": "RELATION 1 4 4 DE CE..."
+                    },
+                    {
+                        "id": "Moreau3234GBOOKS",
+                        "titre": ",,.2. A, aa,,,, a r-a,, REL..."
+                    },
+                    {
+                        "id": "Moreau3246MAZ",
+                        "titre": "9 RELATION r y 1 4..."
+                    },
+                    {
+                        "id": "Moreau3620MAZ",
+                        "titre": "SECONDE ¬l 6 RELATION D 1¬1..."
+                    },
+                    {
+                        "id": "Moreau3792GBOOKS",
+                        "titre": "L A e r I’RAHIZON DV..."
+                    },
+                    {
+                        "id": "Moreau3974GBOOKS",
+                        "titre": ". LES VERITABLES D7 PARTICVLARITE 3os130..."
+                    },
+                    {
+                        "id": "Moreau820GBOOKS",
+                        "titre": ".. rD DID ZIH H VIIIE..."
+                    },
+                    {
+                        "id": "Moreau972GBOOKS",
+                        "titre": "LA . DEFAI DES TROVPES Sps1..."
+                    },
+                    {
+                        "id": "Moreau3suppl84GBOOKS",
+                        "titre": "SVITTE DE LA T T RELATION..."
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1643GBOOKS",
+                        "titre": "¬¬¬¬¬ TT AT VT HISTOIRE DES..."
+                    },
+                    {
+                        "id": "Moreau1748GBOOKS",
+                        "titre": "IOVRNA L . DE CE QVI..."
+                    },
+                    {
+                        "id": "Moreau1885GBOOKS",
+                        "titre": "LETTRE D’VN MARGVILLER DE PARI S,..."
+                    },
+                    {
+                        "id": "Moreau2116GBOOKS",
+                        "titre": "p A A6S2 LETTRE MARECHAL D’AVMONT..."
+                    },
+                    {
+                        "id": "Moreau2408GBOOKS",
+                        "titre": "MARCHE DE L’ ARME’E LEPRINCE Au..."
+                    },
+                    {
+                        "id": "Moreau2559GBOOKS",
+                        "titre": "NOVVELLES EXTRAORDINAIRES CONTFNANT TOVT CE qui..."
+                    },
+                    {
+                        "id": "Moreau3098GALL",
+                        "titre": "¬ TT I LAIN Ses n..."
+                    },
+                    {
+                        "id": "Moreau3100MAZ",
+                        "titre": "¬ 1 RELATION CONTENANT TOVT ce..."
+                    },
+                    {
+                        "id": "Moreau3125GBOOKS",
+                        "titre": "RELATION 1 e eni non e..."
+                    },
+                    {
+                        "id": "Moreau3126GBOOKS",
+                        "titre": "RELATION DE CE QVI S’EST PASSE..."
+                    },
+                    {
+                        "id": "Moreau3132GBOOKS",
+                        "titre": "¬ ELA DE BATA r¬ 4..."
+                    },
+                    {
+                        "id": "Moreau3162MAZ",
+                        "titre": "! RELATION A Du ſuccez emporté..."
+                    },
+                    {
+                        "id": "Moreau3177GBOOKS",
+                        "titre": "RELATION T S OMMAIRE ET VERITABLE..."
+                    },
+                    {
+                        "id": "Moreau3209GBOOKS",
+                        "titre": ",, oss RELATION VERITABLE. DE CE..."
+                    },
+                    {
+                        "id": "Moreau3229GBOOKS",
+                        "titre": "A TT RELATION VERITABLE DE CE..."
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1227GBOOKS",
+                        "titre": "le E T Ducd’Orleans, commandée par..."
+                    },
+                    {
+                        "id": "Moreau1342GBOOKS",
+                        "titre": "T e¬ 1 Al YT 23..."
+                    },
+                    {
+                        "id": "Moreau1819GBOOKS",
+                        "titre": "ſy y y 7 Z ETTR..."
+                    },
+                    {
+                        "id": "Moreau1820GBOOKS",
+                        "titre": "soo11 1 E TD LI I..."
+                    },
+                    {
+                        "id": "Moreau2017GBOOKS",
+                        "titre": "LETTRE nne MA 2 AVROY Surſon..."
+                    },
+                    {
+                        "id": "Moreau2032GBOOKS",
+                        "titre": "1 ¬ r¬ 1 1 lL...."
+                    },
+                    {
+                        "id": "Moreau2033GBOOKS",
+                        "titre": "0P LETTRE eeniee l s e..."
+                    },
+                    {
+                        "id": "Moreau2056GBOOKS",
+                        "titre": "Tr B T¬ 1 LAI I..."
+                    },
+                    {
+                        "id": "Moreau2060GBOOKS",
+                        "titre": "LETTRE SON ALTESSE ROYALE AV ROY...."
+                    },
+                    {
+                        "id": "Moreau2072GBOOKS",
+                        "titre": "T 8 e lL¬ re re¬..."
+                    },
+                    {
+                        "id": "Moreau2080GBOOKS",
+                        "titre": "ER DE PROVENCE A MONSIEVR LE..."
+                    },
+                    {
+                        "id": "Moreau2106GBOOKS",
+                        "titre": "1 n ¬ L L L..."
+                    },
+                    {
+                        "id": "Moreau2118GBOOKS",
+                        "titre": "r D v7 L IL L..."
+                    },
+                    {
+                        "id": "Moreau2131GBOOKS",
+                        "titre": "LETTRE PRINCE THOMAS en e auec..."
+                    },
+                    {
+                        "id": "Moreau2163MAZ",
+                        "titre": "L D ¬ 1 L T..."
+                    },
+                    {
+                        "id": "Moreau2410MAZ",
+                        "titre": "L A 66ll MARCHE J DV..."
+                    },
+                    {
+                        "id": "Moreau2412MAZ",
+                        "titre": "MAPCHE T 7 DV RO VERSPARIS..."
+                    },
+                    {
+                        "id": "Moreau2713GBOOKS",
+                        "titre": "LE S 4 PARTICVLARITEZ DE TOVT..."
+                    },
+                    {
+                        "id": "Moreau2714GBOOKS",
+                        "titre": "LES PARTICV LARITE DES CEREMONIES OBSERVEES..."
+                    },
+                    {
+                        "id": "Moreau2880GBOOKS",
+                        "titre": "DV LA PRISE D ¬D3 AAVIA..."
+                    },
+                    {
+                        "id": "Moreau2882GBOOKS",
+                        "titre": "LA PRISE 1 ET REDVCTION DE..."
+                    },
+                    {
+                        "id": "Moreau3011GBOOKS",
+                        "titre": "R 1 H’j L IL L..."
+                    },
+                    {
+                        "id": "Moreau3017MAZ",
+                        "titre": "VERITABLE DE TOVT CE QVI SEST..."
+                    },
+                    {
+                        "id": "Moreau387GBOOKS",
+                        "titre": "L’ARRIV EE MONSEIGNEVR I D I..."
+                    },
+                    {
+                        "id": "Moreau395GBOOKS",
+                        "titre": "o i iNe ReCrprio De ROY..."
+                    },
+                    {
+                        "id": "Moreau3106GBOOKS",
+                        "titre": "4, ¬ r ELATION e I..."
+                    },
+                    {
+                        "id": "Moreau3110GBOOKS",
+                        "titre": "85 o Ao r T RELATIO..."
+                    },
+                    {
+                        "id": "Moreau3118GBOOKS",
+                        "titre": "oogps RELATION E CE QVI SEST..."
+                    },
+                    {
+                        "id": "Moreau3141GBOOKS",
+                        "titre": "RELA IION TOVTCEOVI se i il..."
+                    },
+                    {
+                        "id": "Moreau3152GBOOKS",
+                        "titre": "RELA TION DES AVANTAGES DE MONSEICNEVR..."
+                    },
+                    {
+                        "id": "Moreau3156GBOOKS",
+                        "titre": "RELATION D T DES PLAISANTES SINGERIES..."
+                    },
+                    {
+                        "id": "Moreau3163GBOOKS",
+                        "titre": "RELATION DV VOYAGE Dv ROY. Depuis..."
+                    },
+                    {
+                        "id": "Moreau3176GBOOKS",
+                        "titre": "6. RELATION NOVVELLE DE LA DEFAITE..."
+                    },
+                    {
+                        "id": "Moreau3186GBOOKS",
+                        "titre": "RELATION VERITABLE CONTENANT La ſortie par..."
+                    },
+                    {
+                        "id": "Moreau3191GBOOKS",
+                        "titre": "DTA rTFT T ’n H I..."
+                    },
+                    {
+                        "id": "Moreau3198GALL",
+                        "titre": "3 RELATION VERITABLE, DECE QVI SESTFAIT..."
+                    },
+                    {
+                        "id": "Moreau3199MAZ",
+                        "titre": "4 ! r RELATION 1 oe..."
+                    },
+                    {
+                        "id": "Moreau3233GBOOKS",
+                        "titre": "ELATION T VERITABLE DE L’ASSASSINATFAIT à..."
+                    },
+                    {
+                        "id": "Moreau3242GBOOKS",
+                        "titre": "9. RELATION I VERITABLE DE LA..."
+                    },
+                    {
+                        "id": "Moreau3243GBOOKS",
+                        "titre": "DET A T & L I..."
+                    },
+                    {
+                        "id": "Moreau3244GBOOKS",
+                        "titre": "RELATION VERITABLE De la trahiſon traḿe..."
+                    },
+                    {
+                        "id": "Moreau3975GBOOKS",
+                        "titre": "o. LES VERITABLES DA DeVT ¬r..."
+                    },
+                    {
+                        "id": "Moreau822GBOOKS",
+                        "titre": "LE e I COVRRIER DE LA..."
+                    },
+                    {
+                        "id": "Moreau978GBOOKS",
+                        "titre": "DES TROVPES MAA nes à l’attaque..."
+                    },
+                    {
+                        "id": "Moreau2suppl106GBOOKS",
+                        "titre": "IOVRNAL DE TOVTCE QVISEST faite &..."
+                    },
+                    {
+                        "id": "Moreau2suppl121GBOOKS",
+                        "titre": "l r re¬ . L L..."
+                    },
+                    {
+                        "id": "Moreau2suppl175GBOOKS",
+                        "titre": "o. 3o9228 RELATION ¬ 1 VERITABLE..."
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1307GALL",
+                        "titre": "e e LES 35 ESTRENNES BVRLESQVES..."
+                    },
+                    {
+                        "id": "Moreau1524GBOOKS",
+                        "titre": "LA GVERRE DES MENARDEAVX. LA FAMEVSE..."
+                    },
+                    {
+                        "id": "Moreau1672GALL",
+                        "titre": "T llAllL ¬ VT TTT I..."
+                    },
+                    {
+                        "id": "Moreau2047GBOOKS",
+                        "titre": "0 LETTRE DEPROVERBES. u laeire eoiooes..."
+                    },
+                    {
+                        "id": "Moreau2049GALL",
+                        "titre": "LETTRE DE REMERCIMENT ENVOYEE AV CARDINAL..."
+                    },
+                    {
+                        "id": "Moreau2858GALL",
+                        "titre": "a9y 9 T p r r..."
+                    },
+                    {
+                        "id": "Moreau3375GALL",
+                        "titre": "[Bandeau] RESPONSE AV CATALOGVE DES PARTISANS...."
+                    },
+                    {
+                        "id": "Moreau3964GALL",
+                        "titre": "LA VERITABLE SVITE TI DA T..."
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau46GALL",
+                        "titre": "CONTRE SATYRE OV RESPONSE AVX CENT..."
+                    },
+                    {
+                        "id": "Moreau50GALL",
+                        "titre": "LE BABILLARD DV TEMPS, EN VERS..."
+                    },
+                    {
+                        "id": "Moreau147GALL",
+                        "titre": "LA NOVVELLE MAZARINADE, OV LE BRVIT..."
+                    },
+                    {
+                        "id": "Moreau1948GALL",
+                        "titre": "LETTRE DE LA SIGNORA FOVTAKINA A..."
+                    },
+                    {
+                        "id": "Moreau2463GBOOKS",
+                        "titre": ". L A METAMORPHOSE MAARIN ENLAFIGVRE..."
+                    },
+                    {
+                        "id": "Moreau3787GALL",
+                        "titre": "LE TORCHE-BARBE DE MAZARIN ET DV..."
+                    },
+                    {
+                        "id": "Moreau3899GALL",
+                        "titre": "LE 76. FAIT ALA NVICT PAR..."
+                    },
+                    {
+                        "id": "Moreau675GALL",
+                        "titre": "CENT QVATRE CONTRE CEVX qui font..."
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1653GBOOKS",
+                        "titre": "HISTOIRE VERITABLE ET LAMENTABLE BOVRGEOIS DE...."
+                    },
+                    {
+                        "id": "Moreau1948GBOOKS",
+                        "titre": "5 e¬ LETTRE DE LA SIGNORA..."
+                    },
+                    {
+                        "id": "Moreau2995GALL",
+                        "titre": "E 1 ¬ D V r¬..."
+                    },
+                    {
+                        "id": "Moreau3852GALL",
+                        "titre": "EgSFneo-tsEoe-rc-r¬¬-----¬reeerr-ee-Av vereg LES ’e ¬ RIOLETS..."
+                    },
+                    {
+                        "id": "Moreau3853GALL",
+                        "titre": "LES T A A . A..."
+                    },
+                    {
+                        "id": "Moreau3868GALL",
+                        "titre": "r II r I ILIE 1S..."
+                    },
+                    {
+                        "id": "Moreau3869GALL",
+                        "titre": "r T 11 l?1 IL I3..."
+                    },
+                    {
+                        "id": "Moreau614GALL",
+                        "titre": "7 BVRLESQUE SVR LA FVITTE DE..."
+                    },
+                    {
+                        "id": "Moreau638GALL",
+                        "titre": "LE T ¬ A AAHH I1H..."
+                    },
+                    {
+                        "id": "Moreau863GALL",
+                        "titre": "La DEBAVCHE DE QVATRE MONOPOLEVRS Et..."
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1854GBOOKS",
+                        "titre": "on . I lE Pee! Amy..."
+                    },
+                    {
+                        "id": "Moreau1970GBOOKS",
+                        "titre": "r¬ r¬ LETTRE DE MESSIEVRS A..."
+                    },
+                    {
+                        "id": "Moreau2004GBOOKS",
+                        "titre": "LETrRE DE MONS E IGNEVR LE..."
+                    },
+                    {
+                        "id": "Moreau2029GBOOKS",
+                        "titre": "T TTT 1 1 1 l..."
+                    },
+                    {
+                        "id": "Moreau2413MAZ",
+                        "titre": "IV L T L DV SIEVR..."
+                    },
+                    {
+                        "id": "Moreau2715GBOOKS",
+                        "titre": "LES nt 1r AD arr AII..."
+                    },
+                    {
+                        "id": "Moreau2872GBOOKS",
+                        "titre": "LA PRISES DE LANGON ne e..."
+                    },
+                    {
+                        "id": "Moreau3024GBOOKS",
+                        "titre": "H . . ¬1 EC I..."
+                    },
+                    {
+                        "id": "Moreau3099GBOOKS",
+                        "titre": "DET HVY N T N I..."
+                    },
+                    {
+                        "id": "Moreau385GBOOKS",
+                        "titre": "An L’ARRIVEE DE LARMEE DE L’ARCHIDVC..."
+                    },
+                    {
+                        "id": "Moreau389GBOOKS",
+                        "titre": "ARRIVE’E T DE M LE DVC..."
+                    },
+                    {
+                        "id": "Moreau3129GBOOKS",
+                        "titre": "RELATION T 1 DE CE QVISEST..."
+                    },
+                    {
+                        "id": "Moreau3195GBOOKS",
+                        "titre": "¬ eTT T 1 1 A..."
+                    },
+                    {
+                        "id": "Moreau3222GBOOKS",
+                        "titre": "RELATION VERIT ABLE DE CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3250GBOOKS",
+                        "titre": "RELATION e H 1 VERITABLE DE..."
+                    },
+                    {
+                        "id": "Moreau3947MAZ",
+                        "titre": "LA VERITABLE RELATION DE CE QVI..."
+                    },
+                    {
+                        "id": "Moreau3950GBOOKS",
+                        "titre": "LA VERITABLE RELATION T DE TOVT..."
+                    },
+                    {
+                        "id": "Moreau834GBOOKS",
+                        "titre": ", COVRRIER PROVENCAL. SVR L’ARRIVEE DV..."
+                    },
+                    {
+                        "id": "Moreau981GBOOKS",
+                        "titre": "S A ¬ DEFAIT D V..."
+                    },
+                    {
+                        "id": "Moreau2suppl171GBOOKS",
+                        "titre": "RELATION PA V ou DE PROVENCE..."
+                    },
+                    {
+                        "id": "Moreau2suppl66GBOOKS",
+                        "titre": "L A r r¬E T E..."
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "1-grams": [
+                    "eſt",
+                    "ſon",
+                    "bien",
+                    "vne",
+                    "luy",
+                    "roy",
+                    "ſes",
+                    "auec",
+                    "ſur",
+                    "monſieur"
+                ],
+                "2-grams": [
+                    "monſieur prince",
+                    "cardinal mazarin",
+                    "duc orleans",
+                    "monſieur duc",
+                    "alteſſe royale",
+                    "ſon alteſſe",
+                    "tin tin",
+                    "duc eſpernon",
+                    "ville paris",
+                    "long temps"
+                ],
+                "3-grams": [
+                    "monſieur duc orleans",
+                    "ſon alteſſe royale",
+                    "mil ſix cens",
+                    "monſieur due orleans",
+                    "bonne ville paris",
+                    "tin relin tin",
+                    "preuoſt marchands eſcheuins",
+                    "tin tin relin",
+                    "ſon alteſſe royalle",
+                    "relin tin tin"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau1639GBOOKS",
+                        "titre": "rpie ET DE LA LIBERTE DE..."
+                    },
+                    {
+                        "id": "Moreau1762GBOOKS",
+                        "titre": "Aſn e TT LIMPRIMEVR RDI AV..."
+                    },
+                    {
+                        "id": "Moreau3728GBOOKS",
+                        "titre": "SVITTE DV VRAY NY OVRNAL DES..."
+                    },
+                    {
+                        "id": "Moreau2suppl43GBOOKS",
+                        "titre": "CONFIRMATION DEFAITE DES TROVPPES apportée par..."
+                    },
+                    {
+                        "id": "Moreau3suppl48GBOOKS",
+                        "titre": "LE T7TD T IV I N..."
+                    }
+                ]
+            }
+        ],
+        "1663-1665": [
+            {
+                "id": "1",
+                "1-grams": [
+                    "te",
+                    "de",
+                    "le",
+                    "re",
+                    "pe",
+                    "biin",
+                    "tre",
+                    "ne",
+                    "ce",
+                    "bougre"
+                ],
+                "2-grams": [
+                    "ce te",
+                    "re ne",
+                    "te te",
+                    "que lque",
+                    "se gneur",
+                    "le tre",
+                    "le armes",
+                    "pe rdu",
+                    "aus de",
+                    "pre lat"
+                ],
+                "3-grams": [
+                    "te te chauve",
+                    "dome ſtiques etrange",
+                    "are cour parl",
+                    "ce te vile",
+                    "ce te ſortie",
+                    "ce te nuit",
+                    "le de le",
+                    "ae te rancontre",
+                    "ſtiques etrange rs",
+                    "se gneur roie"
+                ],
+                "articles": [
+                    {
+                        "id": "Moreau2418GALL",
+                        "titre": "ſi néstve 2 l71 V l..."
+                    }
+                ]
+            }
+        ]
+    }
+}

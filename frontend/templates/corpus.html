@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}
+Les corpus
+{% endblock %}
+{% block masthead %}
+<header class="masthead bg-info text-white text-center" >
+    <div class="container d-flex align-items-center flex-column">
+        <!-- Masthead Avatar Image-->
+        <img class="masthead-avatar mb-5" src="static/img/clustering.png" alt="" />
+        <!-- Masthead Heading-->
+        <h1 class="masthead-heading text-uppercase mb-0">Clustertool</h1>
+        <!-- Icon Divider-->
+        <div class="divider-custom divider-light">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+        <!-- Masthead Subheading-->
+        <p class="masthead-subheading font-weight-light mb-0">Outil de visualisation de clustering avec LDA pour étude diachronique de corpus</p>
+    </div>
+</header>
+{% endblock %}
+{% block content %}
+  <section class="page-section" id="Login">
+      <div class="container">
+          <!-- Contact Section Heading-->
+          <h2 class=" text-center text-uppercase text-secondary ">Les corpus</h2>
+          <br/>
+
+          <div>
+		  <h3>Sackler</h3>
+		  <p>Un corpus d'articles de presse sur l'affaire Sackler (crise des opiacés aux États-Unis) de 1979 à 2021.</p>
+		  <p>Source : Europresse</p>
+		  <p><a href="/stats/sackler">Quelques statistiques sur le corpus</a></p>
+		  </div>
+		  <br/>
+		  
+          <div>
+		  <h3>PMA</h3>
+		  <p>Un corpus d'articles de presse sur la PMA de 1994 à 2021.</p>
+		  <p>Source : Europresse</p>
+		  <p><a href="/stats/pma">Quelques statistiques sur le corpus</a></p>
+		  </div>
+		  <br/>
+
+          <div>
+		  <h3>Mazarinades</h3>
+		  <p>Un corpus de <a href="https://fr.wikipedia.org/wiki/Mazarinade">Mazarinades</a> de 1648 à 1663 (textes océrisés).</p>
+		  <p><a href="/stats/ocr">Quelques statistiques sur le corpus</a></p>
+		  </div>
+		  <br/>
+		  
+          <div>
+		  <h3>Marie-Claire</h3>
+		  <p>Un corpus d'articles du journal Marie-Claire de 1937 à 1944 (textes océrisés, articles segmentés automatiquement).</p>
+		  <p><a href="/stats/marie-claire">Quelques statistiques sur le corpus</a></p>
+		  </div> 
+
+      </div>
+  </section>
+{% endblock %}

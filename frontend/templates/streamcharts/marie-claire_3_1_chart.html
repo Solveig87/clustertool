@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-cb682c84fc83371733bcde6284bfba52"}, "mark": "area", "encoding": {"color": {"type": "nominal", "field": "word", "scale": {"scheme": "category20b"}}, "x": {"type": "temporal", "axis": {"domain": false, "format": "%Y", "tickSize": 0}, "field": "year"}, "y": {"type": "quantitative", "axis": null, "field": "count", "stack": "center"}}, "selection": {"selector001": {"type": "interval", "bind": "scales", "encodings": ["x", "y"]}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-cb682c84fc83371733bcde6284bfba52": [{"word": "bien", "year": "1937", "count": 0.960242232754081}, {"word": "fois", "year": "1937", "count": 0.9594523433385993}, {"word": "eau", "year": "1937", "count": 0.7032648762506583}, {"word": "jeune", "year": "1937", "count": 0.7032648762506583}, {"word": "robe", "year": "1937", "count": 0.9594523433385993}, {"word": "jupe", "year": "1937", "count": 0.9594523433385993}, {"word": "faut", "year": "1937", "count": 0.7032648762506583}, {"word": "jamais", "year": "1937", "count": 0.7032648762506583}, {"word": "mod\u00e8le", "year": "1937", "count": 0.9594523433385993}, {"word": "mod\u00e8les", "year": "1937", "count": 0.7032648762506583}, {"word": "ans", "year": "1937", "count": 0.0}, {"word": "env", "year": "1937", "count": 0.12796208530805686}, {"word": "femme", "year": "1937", "count": 0.0}, {"word": "grand", "year": "1937", "count": 0.0}, {"word": "temps", "year": "1937", "count": 0.0}, {"word": "point", "year": "1937", "count": 0.0}, {"word": "c\u00f4t\u00e9", "year": "1937", "count": 0.0}, {"word": "tric", "year": "1937", "count": 0.012111637704054766}, {"word": "mailles", "year": "1937", "count": 0.012111637704054766}, {"word": "endr", "year": "1937", "count": 0.12796208530805686}, {"word": "bien", "year": "1940", "count": 0.8471849865951743}, {"word": "fois", "year": "1940", "count": 0.8471849865951743}, {"word": "eau", "year": "1940", "count": 0.8471849865951743}, {"word": "jeune", "year": "1940", "count": 0.8471849865951743}, {"word": "robe", "year": "1940", "count": 0.22955764075067023}, {"word": "jupe", "year": "1940", "count": 0.22955764075067023}, {"word": "faut", "year": "1940", "count": 0.7382707774798928}, {"word": "jamais", "year": "1940", "count": 0.7382707774798928}, {"word": "mod\u00e8le", "year": "1940", "count": 0.0}, {"word": "mod\u00e8les", "year": "1940", "count": 0.0}, {"word": "ans", "year": "1940", "count": 0.8471849865951743}, {"word": "env", "year": "1940", "count": 0.22955764075067023}, {"word": "femme", "year": "1940", "count": 0.7382707774798928}, {"word": "grand", "year": "1940", "count": 0.7382707774798928}, {"word": "temps", "year": "1940", "count": 0.7382707774798928}, {"word": "point", "year": "1940", "count": 0.22955764075067023}, {"word": "c\u00f4t\u00e9", "year": "1940", "count": 0.22955764075067023}, {"word": "tric", "year": "1940", "count": 0.14745308310991956}, {"word": "mailles", "year": "1940", "count": 0.14745308310991956}, {"word": "endr", "year": "1940", "count": 0.020107238605898123}, {"word": "bien", "year": "1943", "count": 1.0}, {"word": "fois", "year": "1943", "count": 1.0}, {"word": "eau", "year": "1943", "count": 1.0}, {"word": "jeune", "year": "1943", "count": 0.0}, {"word": "robe", "year": "1943", "count": 0.0}, {"word": "jupe", "year": "1943", "count": 0.0}, {"word": "faut", "year": "1943", "count": 1.0}, {"word": "jamais", "year": "1943", "count": 0.0}, {"word": "mod\u00e8le", "year": "1943", "count": 0.0}, {"word": "mod\u00e8les", "year": "1943", "count": 0.0}, {"word": "ans", "year": "1943", "count": 1.0}, {"word": "env", "year": "1943", "count": 0.0}, {"word": "femme", "year": "1943", "count": 1.0}, {"word": "grand", "year": "1943", "count": 0.0}, {"word": "temps", "year": "1943", "count": 0.0}, {"word": "point", "year": "1943", "count": 0.0}, {"word": "c\u00f4t\u00e9", "year": "1943", "count": 0.0}, {"word": "tric", "year": "1943", "count": 0.0}, {"word": "mailles", "year": "1943", "count": 0.0}, {"word": "endr", "year": "1943", "count": 0.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

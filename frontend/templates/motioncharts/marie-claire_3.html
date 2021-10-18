@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+        <!-- Meta Needed to force IE out of Quirks mode -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!--StyleSheets-->
+        <link href="/static/MotionChart/css/bootstrap/bootstrap.min.css" rel="stylesheet">  
+        <link href="/static/MotionChart/css/jquery-ui-1.8.20.custom.css" rel="stylesheet"> 
+        <link href="/static/MotionChart/css/jquery.handsontable.css" rel="stylesheet">
+        <link href="/static/MotionChart/css/jquery.motionchart.css" rel="stylesheet">
+        <link href="/static/MotionChart/css/jquery.contextMenu.css" rel="stylesheet">
+        <!--Scripts-->
+        <script src="/static/MotionChart/js/jquery-1.7.2.min.js"></script>
+        <script src="/static/MotionChart/js/dependencies.min.js"></script>
+        <script src="/static/MotionChart/js/bootstrap.js"></script>
+        <script src="/static/MotionChart/js/jquery.handsontable.js"></script>
+        <script src="/static/MotionChart/js/jquery.motionchart.js"></script>
+        </head>
+        <body>
+        <script>
+        
+        var data = [["index","word","year","total_clusters","ngram_size","cnt_art","cnt_clusters"], [0,"bien","1937-1939",261,1,0.9602422328,0.893258427],[1,"fois","1937-1939",260,1,0.9594523433,0.8876404494],[2,"eau","1937-1939",213,1,0.7032648763,0.6235955056],[3,"jeune","1937-1939",212,1,0.7032648763,0.6235955056],[4,"robe","1937-1939",209,1,0.9594523433,0.8876404494],[5,"jupe","1937-1939",209,1,0.9594523433,0.8876404494],[6,"jeune fille","1937-1939",198,2,0.724328594,0.606741573],[7,"faut","1937-1939",192,1,0.7032648763,0.6235955056],[8,"jamais","1937-1939",191,1,0.7032648763,0.6235955056],[9,"droit fil","1937-1939",175,2,0.7322274882,0.6179775281],[10,"mod\u00e8le","1937-1939",158,1,0.9594523433,0.8876404494],[11,"endr env","1937-1939",154,2,0.3699315429,0.3651685393],[12,"jeunes filles","1937-1939",115,2,0.2722485519,0.2865168539],[13,"petite fille","1937-1939",113,2,0.2722485519,0.2865168539],[14,"mod\u00e8les","1937-1939",111,1,0.7032648763,0.6235955056],[15,"fois fois","1937-1939",107,2,0.7187993681,0.6011235955],[16,"fois rgs","1937-1939",107,2,0.7187993681,0.6011235955],[17,"rue aboukir paris","1937-1939",106,3,0.710373881,0.595505618],[18,"culture physique","1937-1939",103,2,0.695892575,0.5786516854],[19,"\u0153uvres vuillard dufy","1937-1939",102,3,0.7230121116,0.5730337079],[20,"bien","1940-1942",261,1,0.8471849866,0.7163120567],[21,"fois","1940-1942",260,1,0.8471849866,0.7163120567],[22,"eau","1940-1942",213,1,0.8471849866,0.7163120567],[23,"jeune","1940-1942",212,1,0.8471849866,0.7163120567],[24,"robe","1940-1942",209,1,0.2295576408,0.3617021277],[25,"jupe","1940-1942",209,1,0.2295576408,0.3617021277],[26,"jeune fille","1940-1942",198,2,0.754691689,0.6312056738],[27,"faut","1940-1942",192,1,0.7382707775,0.5673758865],[28,"jamais","1940-1942",191,1,0.7382707775,0.5673758865],[29,"droit fil","1940-1942",175,2,0.4376675603,0.4609929078],[30,"mod\u00e8le","1940-1942",158,1,0.0,0.0],[31,"endr env","1940-1942",154,2,0.7432975871,0.6312056738],[32,"jeunes filles","1940-1942",115,2,0.4269436997,0.4468085106],[33,"petite fille","1940-1942",113,2,0.5050268097,0.4326241135],[34,"mod\u00e8les","1940-1942",111,1,0.0,0.0],[35,"fois fois","1940-1942",107,2,0.0,0.0],[36,"fois rgs","1940-1942",107,2,0.0,0.0],[37,"rue aboukir paris","1940-1942",106,3,0.0,0.0],[38,"culture physique","1940-1942",103,2,0.0,0.0],[39,"\u0153uvres vuillard dufy","1940-1942",102,3,0.0,0.0],[40,"bien","1943-1945",261,1,1.0,1.0],[41,"fois","1943-1945",260,1,1.0,1.0],[42,"eau","1943-1945",213,1,1.0,1.0],[43,"jeune","1943-1945",212,1,0.0,0.0],[44,"robe","1943-1945",209,1,0.0,0.0],[45,"jupe","1943-1945",209,1,0.0,0.0],[46,"jeune fille","1943-1945",198,2,1.0,1.0],[47,"faut","1943-1945",192,1,1.0,1.0],[48,"jamais","1943-1945",191,1,0.0,0.0],[49,"droit fil","1943-1945",175,2,0.0,0.0],[50,"mod\u00e8le","1943-1945",158,1,0.0,0.0],[51,"endr env","1943-1945",154,2,0.0,0.0],[52,"jeunes filles","1943-1945",115,2,1.0,1.0],[53,"petite fille","1943-1945",113,2,1.0,1.0],[54,"mod\u00e8les","1943-1945",111,1,0.0,0.0],[55,"fois fois","1943-1945",107,2,0.0,0.0],[56,"fois rgs","1943-1945",107,2,0.0,0.0],[57,"rue aboukir paris","1943-1945",106,3,0.0,0.0],[58,"culture physique","1943-1945",103,2,0.0,0.0],[59,"\u0153uvres vuillard dufy","1943-1945",102,3,0.0,0.0]];
+        </script>
+        <div id="content" align="center">
+        <div class="motionchart" style="width:800px; height:600px;"></div>
+        <script>     
+        $('.motionchart').motionchart({
+                title: "Motion Chart",
+                'data': data,
+                mappings: {key: 2, x: 3, y: 6,
+                    size: 5,  color: 4, category: 1 },
+                scalings: { x: 'linear', y: 'linear' },
+                colorPalette: {"Blue-Red": {from: "rgb(0,0,255)", to: "rgb(255,0,0)"}},
+                color: "Red-Blue",
+                play: true,
+                loop: false
+            });
+        </script>
+        </div>
+        </body>
+        </html>
+        

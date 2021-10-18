@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+        <!-- Meta Needed to force IE out of Quirks mode -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!--StyleSheets-->
+        <link href="/static/MotionChart/css/bootstrap/bootstrap.min.css" rel="stylesheet">  
+        <link href="/static/MotionChart/css/jquery-ui-1.8.20.custom.css" rel="stylesheet"> 
+        <link href="/static/MotionChart/css/jquery.handsontable.css" rel="stylesheet">
+        <link href="/static/MotionChart/css/jquery.motionchart.css" rel="stylesheet">
+        <link href="/static/MotionChart/css/jquery.contextMenu.css" rel="stylesheet">
+        <!--Scripts-->
+        <script src="/static/MotionChart/js/jquery-1.7.2.min.js"></script>
+        <script src="/static/MotionChart/js/dependencies.min.js"></script>
+        <script src="/static/MotionChart/js/bootstrap.js"></script>
+        <script src="/static/MotionChart/js/jquery.handsontable.js"></script>
+        <script src="/static/MotionChart/js/jquery.motionchart.js"></script>
+        </head>
+        <body>
+        <script>
+        
+        var data = [["index","word","year","total_clusters","ngram_size","cnt_art","cnt_clusters"], [0,"cardinal mazarin","1648-1650",43,2,0.9402597403,0.92],[1,"mon\u017fieur duc","1648-1650",43,2,0.9402597403,0.92],[2,"mon\u017fieur prince","1648-1650",43,2,0.9402597403,0.92],[3,"duc orleans","1648-1650",43,2,0.9402597403,0.92],[4,"long temps","1648-1650",43,2,0.9402597403,0.92],[5,"ville paris","1648-1650",43,2,0.9402597403,0.92],[6,"e\u017ft","1648-1650",41,1,0.9844155844,0.96],[7,"\u017fon","1648-1650",41,1,0.9844155844,0.96],[8,"bien","1648-1650",41,1,0.9844155844,0.96],[9,"vne","1648-1650",41,1,0.9844155844,0.96],[10,"luy","1648-1650",41,1,0.9844155844,0.96],[11,"\u017fes","1648-1650",40,1,0.9428571429,0.92],[12,"roy","1648-1650",40,1,0.9428571429,0.92],[13,"\u017fur","1648-1650",40,1,0.9428571429,0.92],[14,"mon\u017fieur duc orleans","1648-1650",36,3,0.6805194805,0.64],[15,"mil \u017fix cens","1648-1650",36,3,0.6805194805,0.64],[16,"vo\u017ftre","1648-1650",23,1,0.9428571429,0.92],[17,"\u017fans","1648-1650",23,1,0.9428571429,0.92],[18,"ladite cour","1648-1650",23,2,0.9402597403,0.92],[19,"e\u017ft vne","1648-1650",23,2,0.9402597403,0.92],[20,"cardinal mazarin","1651-1653",43,2,1.0,1.0],[21,"mon\u017fieur duc","1651-1653",43,2,1.0,1.0],[22,"mon\u017fieur prince","1651-1653",43,2,1.0,1.0],[23,"duc orleans","1651-1653",43,2,1.0,1.0],[24,"long temps","1651-1653",43,2,1.0,1.0],[25,"ville paris","1651-1653",43,2,1.0,1.0],[26,"e\u017ft","1651-1653",41,1,0.8764044944,0.85],[27,"\u017fon","1651-1653",41,1,0.8764044944,0.85],[28,"bien","1651-1653",41,1,0.8764044944,0.85],[29,"vne","1651-1653",41,1,0.8764044944,0.85],[30,"luy","1651-1653",41,1,0.8764044944,0.85],[31,"\u017fes","1651-1653",40,1,0.8764044944,0.85],[32,"roy","1651-1653",40,1,0.8764044944,0.85],[33,"\u017fur","1651-1653",40,1,0.8764044944,0.85],[34,"mon\u017fieur duc orleans","1651-1653",36,3,1.0,1.0],[35,"mil \u017fix cens","1651-1653",36,3,1.0,1.0],[36,"vo\u017ftre","1651-1653",23,1,0.0,0.0],[37,"\u017fans","1651-1653",23,1,0.0,0.0],[38,"ladite cour","1651-1653",23,2,0.0,0.0],[39,"e\u017ft vne","1651-1653",23,2,0.0,0.0],[40,"cardinal mazarin","1663-1665",43,2,0.0,0.0],[41,"mon\u017fieur duc","1663-1665",43,2,0.0,0.0],[42,"mon\u017fieur prince","1663-1665",43,2,0.0,0.0],[43,"duc orleans","1663-1665",43,2,0.0,0.0],[44,"long temps","1663-1665",43,2,0.0,0.0],[45,"ville paris","1663-1665",43,2,0.0,0.0],[46,"e\u017ft","1663-1665",41,1,0.0,0.0],[47,"\u017fon","1663-1665",41,1,0.0,0.0],[48,"bien","1663-1665",41,1,0.0,0.0],[49,"vne","1663-1665",41,1,0.0,0.0],[50,"luy","1663-1665",41,1,0.0,0.0],[51,"\u017fes","1663-1665",40,1,0.0,0.0],[52,"roy","1663-1665",40,1,0.0,0.0],[53,"\u017fur","1663-1665",40,1,0.0,0.0],[54,"mon\u017fieur duc orleans","1663-1665",36,3,0.0,0.0],[55,"mil \u017fix cens","1663-1665",36,3,0.0,0.0],[56,"vo\u017ftre","1663-1665",23,1,0.0,0.0],[57,"\u017fans","1663-1665",23,1,0.0,0.0],[58,"ladite cour","1663-1665",23,2,0.0,0.0],[59,"e\u017ft vne","1663-1665",23,2,0.0,0.0]];
+        </script>
+        <div id="content" align="center">
+        <div class="motionchart" style="width:800px; height:600px;"></div>
+        <script>     
+        $('.motionchart').motionchart({
+                title: "Motion Chart",
+                'data': data,
+                mappings: {key: 2, x: 3, y: 6,
+                    size: 5,  color: 4, category: 1 },
+                scalings: { x: 'linear', y: 'linear' },
+                colorPalette: {"Blue-Red": {from: "rgb(0,0,255)", to: "rgb(255,0,0)"}},
+                color: "Red-Blue",
+                play: true,
+                loop: false
+            });
+        </script>
+        </div>
+        </body>
+        </html>
+        

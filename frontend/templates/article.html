@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}
+{{article['titre']}}
+{% endblock %}
+{% block masthead %}
+<header class="masthead bg-info text-white text-center" style="max-height: 400px;padding:120px">
+    <div class="container d-flex align-items-center flex-column">
+        <!-- Masthead Avatar Image-->
+        <img class="masthead-avatar mb-5" style="width:100px; height:100px;" src="/static/img/clustering.png" alt="" />
+        <!-- Masthead Heading-->
+        <h1 class="masthead-heading text-uppercase mb-0">Clustertool</h1>
+        <!-- Icon Divider-->
+        <div class="divider-custom divider-light">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+    </div>
+</header>
+{% endblock %}
+{% block content %}
+	<section class="page-section" id="mainSection">
+	  <div class="container">
+
+	  <table class="table" style="width:70%;margin:auto">
+		<h2 class=" text-center text-uppercase text-secondary ">{{article['titre']}}</h2>
+		<br/>
+
+      <tr>
+        <td>Publié dans <em>{{article['journal']}}</em> le {{article['date']}}</td>
+		<td></td>
+	  </tr>
+      <tr>
+		<td>{{article['text_withtags']|safe}}</td>
+	  </tr>
+
+  </table>
+
+  </div>
+
+  </section>
+
+
+{% endblock %}

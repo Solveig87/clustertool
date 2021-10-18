@@ -1,0 +1,58 @@
+{
+    "Stats globales": {
+        "Nombre de documents": 7919,
+        "Nombre de mots": 770449,
+        "Nombre moyen de mots par document": 97.29,
+        "Taille du vocabulaire": 47872
+    },
+    "Stats par année": {
+        "1937": {
+            "Nombre de documents": 1053,
+            "Nombre de mots": 104498,
+            "Nombre moyen de mots par document": 99.24,
+            "Taille du vocabulaire": 11322
+        },
+        "1938": {
+            "Nombre de documents": 1186,
+            "Nombre de mots": 124504,
+            "Nombre moyen de mots par document": 104.98,
+            "Taille du vocabulaire": 13847
+        },
+        "1939": {
+            "Nombre de documents": 1536,
+            "Nombre de mots": 144829,
+            "Nombre moyen de mots par document": 94.29,
+            "Taille du vocabulaire": 15007
+        },
+        "1940": {
+            "Nombre de documents": 502,
+            "Nombre de mots": 50652,
+            "Nombre moyen de mots par document": 100.9,
+            "Taille du vocabulaire": 8669
+        },
+        "1941": {
+            "Nombre de documents": 1534,
+            "Nombre de mots": 144274,
+            "Nombre moyen de mots par document": 94.05,
+            "Taille du vocabulaire": 16614
+        },
+        "1942": {
+            "Nombre de documents": 929,
+            "Nombre de mots": 86960,
+            "Nombre moyen de mots par document": 93.61,
+            "Taille du vocabulaire": 12784
+        },
+        "1943": {
+            "Nombre de documents": 991,
+            "Nombre de mots": 96129,
+            "Nombre moyen de mots par document": 97.0,
+            "Taille du vocabulaire": 13916
+        },
+        "1944": {
+            "Nombre de documents": 144,
+            "Nombre de mots": 14882,
+            "Nombre moyen de mots par document": 103.35,
+            "Taille du vocabulaire": 4065
+        }
+    }
+}
