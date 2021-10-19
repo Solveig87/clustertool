@@ -42,13 +42,7 @@ class Clustering(Resource):
         Si un formulaire a été soumis, affiche les résultats."""
 
         filtres = dict(request.args)
-        
-        path_data = "data/" + filtres.get('corpus') + "_" + filtres.get('time_window') + ".json"
-        with open(path_data) as file:
-            results = json.load(file)
-        results['path'] = path_data.split('/')[-1].split(".")[0]
             
-
         # cas où aucune recherche n'a été effectuée
         if not filtres :
             clustering_rend = render_template("clustering.html")
@@ -57,6 +51,10 @@ class Clustering(Resource):
 
         # cas où une recherche a été effectuée
         else :
+            path_data = "data/" + filtres.get('corpus') + "_" + filtres.get('time_window') + ".json"
+            with open(path_data) as file:
+                results = json.load(file)
+            results['path'] = path_data.split('/')[-1].split(".")[0]
             clustering_rend = render_template("clustering.html", search = True, results = results)
             resp = Response(clustering_rend, status = 200, content_type = "text/html")
             return resp
