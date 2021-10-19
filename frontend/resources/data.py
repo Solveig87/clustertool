@@ -66,8 +66,6 @@ class Article(Resource):
     def get(self, corpus, articleid, words):
         """Méthode GET, affiche le contenu d'un article du corpus"""
 
-        api_response = requests.get(backend_api + "/"+corpus+"/"+articleid+"/"+words, headers=make_headers(), verify=False)
-
         article = print_article(corpus, articleid, words)
 
         article_rend = render_template("article.html", article = article)
