@@ -1,11 +1,14 @@
 import json
 import re
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-
+data_path = os.getenv('DATA_PATH')
 
 def print_article(corpus, articleid, words):
 
-    with open("data/"+corpus) as file:
+    with open(data_path+corpus) as file:
         articles = json.load(file)
 
     for word in [re.sub("-", " ", word) for word in words.split("_")]:

@@ -6,6 +6,12 @@ import requests
 
 from ..utils import *
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+data_path = os.getenv('DATA_PATH')
+
 class Corpus(Resource):
     """Classe de Consultation d'un article"""
 
@@ -23,7 +29,7 @@ class Statistiques(Resource):
     def get(self, corpus):
         """Méthode GET, affiche les statistiques d'un corpus"""
 
-        path_data = "data/stats_" + corpus + ".json"
+        path_data = data_path + "stats_" + corpus + ".json"
         with open(path_data) as file:
             results = json.load(file)
         results['corpus'] = corpus
@@ -51,7 +57,7 @@ class Clustering(Resource):
 
         # cas où une recherche a été effectuée
         else :
-            path_data = "data/" + filtres.get('corpus') + "_" + filtres.get('time_window') + ".json"
+            path_data = data_path + filtres.get('corpus') + "_" + filtres.get('time_window') + ".json"
             with open(path_data) as file:
                 results = json.load(file)
             results['path'] = path_data.split('/')[-1].split(".")[0]
