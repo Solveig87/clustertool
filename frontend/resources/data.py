@@ -61,6 +61,7 @@ class Clustering(Resource):
             with open(path_data) as file:
                 results = json.load(file)
             results['path'] = path_data.split('/')[-1].split(".")[0]
+            results['corpus'] = filtres.get('corpus')
             clustering_rend = render_template("clustering.html", search = True, results = results)
             resp = Response(clustering_rend, status = 200, content_type = "text/html")
             return resp
