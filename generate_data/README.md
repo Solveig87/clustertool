@@ -7,6 +7,7 @@ Le fichier à traiter doit être un fichier json au même format que le fichier 
 ## Génération des fichiers utiles
 
 Adapter la ligne 3 du script *create_clusters.sh*
+
 Lancer le script *create_data.sh* 
 
 ## Adaptation de l'API Flask
