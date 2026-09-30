@@ -6,7 +6,7 @@ Ce programme permet de visualiser les résultats du clustering (algorithme de ty
 
 ## Utilisation
 
-Le programme a été adapté pour fonctionner sous Windows (le format des chemins de fichiers risque parfois de poser problème sous Mac ou Linux).
+Pour tester sur d'autres données que celles fournies ici, voir le Readme du répertoire **generate_data**.
 
 Se placer à la racine du projet et installer les *requirements* :
 
